@@ -1,0 +1,738 @@
+question_id,quiz_id,question_title,question_description,question_type,question_mark,question_settings,question_order
+1,6204,"Question 1",,true_false,1.00,a:0:{},1
+2,6217,"Question 2",,true_false,1.00,a:0:{},1
+3,6354,"Question 3",,true_false,1.00,a:0:{},1
+4,6354,"Question 4",,true_false,1.00,a:0:{},2
+5,7390,"อะไรคือ การย่อยปัญหา ?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+6,7390,"ข้อความต่อไปนี้รวบรวมคำจำกัดความของการจดจำรูปแบบจริง หรือไม่ : การจดจำรูปแบบเป็นกระบวนการที่เราค้นหาขั้นตอนการซ้ำภายในปัญหา",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+7,7390,"ข้อใดต่อไปนี้เป็นแง่มุมของการแสดงข้อมูลด้านนามธรรม? (ตอบได้หลายข้อ)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+8,7390,"ข้อใดต่อไปนี้เป็นองค์ประกอบสำคัญของอัลกอริทึม (ตอบได้หลายข้อ)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+9,7390,ข้อใดคือความหมายที่ถูกต้องของวิทยาการคอมพิวเตอร์,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+10,7390,"234 มีค่าเท่ากับเท่าใดในเลขฐานสอง",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",6
+11,7390,"1 1 0 1 1 1 2 มีค่าเท่ากับเท่าใดในเลขฐานสิบ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+12,7390,"มาตรฐาน ASCII คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+13,7390,ข้อใดคือการเขียนผังงานที่ดี,,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",9
+14,7390,การเขียนรหัสเทียมมีลักษณะอย่างไร,,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",10
+15,7390,"โปรแกรม Scratch คืออะไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",11
+16,7390,"ข้อใดคือความหมายของ HTML",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",12
+17,7390,"ข้อใดคือ ข้อมูลแบบคิว",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",13
+18,7390,"ข้อใดคือความหมายของ Data Bus",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",14
+19,7390,"ข้อใดอธิบายการทำงานของ CPU ผิดจากความเป็นจริง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",15
+20,7390,"ข้อใดกล่าวถึง Topology ได้ถูกต้อง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",16
+21,7390,"บูลีนใน JAVA คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",17
+22,7390,"การออกแบบ หมายความว่าอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",18
+23,7390,อินเทอร์เน็ตมีลักษณะสำคัญอย่างไร,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",19
+24,7390,ข้อใดไม่ไช่ตัวอย่างของการเข้ารหัส,,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",20
+25,7390,"ข้อแตกต่างระหว่าง WAN ต่างกับ LAN อย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",21
+26,7390,"แบบจำลองของ OSI มีจำนวนด้วยกันทั้งหมดกี่ Layers",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",22
+27,7390,ข้อใดคือความหมายของไฟร์วอลล์,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",23
+28,7390,"ภาษา HTML มีความหมายตรงกับข้อใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",24
+29,7390,"JavaScript คือ ______ Side scripting language",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",25
+30,7390,"syntax อะไรถูกต้อง สำหรับอ้างอิง external script ที่เรียก “geek.js”",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",26
+31,7390,"JavaScript เป็นภาษา ________",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",27
+32,7390,"จงเลือก syntax ที่ถูกต้องเพื่อแสดงข้อความ “GeeksforGeeks” ใน alert box โดยใช้ JavaScript",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",28
+33,7390,"ให้ทายผลลัพธ์จากcode JavaScript",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",29
+34,7390,"ข้อใดไม่ใช่คำสงวนใน JavaScript",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",30
+35,7390,"Method ใน JavaScript ที่ใช้ลบเว้นวรรคที่ข้างหน้าหรือข้างหลัง string",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",31
+36,7390,"ให้ทาย output ของ console code JavaScript ต่อไปนี้",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",32
+37,7390,"ไวยากรณ์ที่ถูกต้องเพื่อสร้าง function ใน JavaScript ชื่อ Geekfunc",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",33
+38,7390,ฟังก์ชันนี้ทำงานอย่างไร,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",34
+39,7390,"Startup คืออะไร",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",35
+40,7390,อะไรที่จะทำให้บริษัทอยู่รอดต่อไปได้,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",36
+41,7390,"Question 41",,true_false,1.00,a:0:{},37
+42,7390,"ข้อใค คือวิธีการทำงานแบบเก่า",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",38
+43,7390,ทำไมต้องมีสมมุติฐานทางธุรกิจ,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",39
+44,7390,ระดับปัญหาของลูกค้าที่รุนแรงที่สุด,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",40
+45,7390,"จุดประสงค์หลักที่เราไปคุย(Interviews) กับลูกค้าคืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",41
+46,7390,"LANDING PAGE ที่ดีควรเป็นอย่างไร ?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",42
+47,7390,"https://instapage.com/ ใช้ทำอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",43
+48,7474,"1. HTML tag ไหนที่ทำให้ตัวอักษรใหญ่ที่สุด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+49,7474,"2. HTML tag ไหนที่สำหรับขึ้นบรรทัดใหม่",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+50,7474,"3. การตั้งค่าสีของพื้นหลังที่ถูกต้องของ HTML tag คือข้อใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+51,7474,"4. ถ้าต้องการจะสร้าง Hyperlink ควรเขียน HTML tag แบบไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+52,7474,"5. ถ้าต้องการจะสร้าง Hyperlink แบบเมื่อกดแล้วขึ้นหน้าต่างใหม่หรือแทปใหม่ ควรเขียน HTML tag แบบไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+53,7474,"6. HTML tag ไหนที่ทำให้ได้ List รายการแบบมีตัวเลข",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+54,7474,"7. ถ้าต้องการอ้างอิงถึง external style sheet ควรใส่ไว้ตรงไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+55,7474,"8. tag ไหนไว้สำหรับใส่ Internal style sheet",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+56,7474,"9. HTML attribute ไหนสำหรับกำหนด inline styles",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+57,7474,"10. ถ้าอยากเพิ่ม background-color ให้กับ tag ทุก tags ใน Code ควรทำอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+58,7474,"11. ใน HTML element ที่เราจะใส่ Code Java Script ลงไป",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",11
+59,7474,"12. syntax ที่ถูกต้องสำหรับการเปลี่ยนค่าใน HTML element นี้ &lt;p id=&quot;demo&quot;&gt;This is a demonstration.&lt;/p&gt;",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",12
+60,7474,"13. ถ้าต้องการเขียนคำว่า Hello World ใน Alert box ต้องเขียนอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",13
+61,7474,"14. การประกาศอาเรย์ที่ถูกต้องคือข้อไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",14
+62,7474,"15. ข้อใดถูกต้องบ้าง (ถูกได้ตั้งแต่ 1 ถึง 6 ข้อ - ต้องถูกทุกข้อนะครับถึงจะได้คะแนน)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",15
+63,7474,"16. event อันไหนที่เกิดขึ้นเมื่อผู้ใช้คลิกเมาส์",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",16
+64,7474,"17. สัญลักษณ์ไหนที่ถูกใช้แบบย่อใน jQuery",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",17
+65,7474,"18. ถ้าต้องการเขียนโค๊ด jQuery ให้ div element ทั้งหมดเปลี่ยนความสูงเป็น 100 pixels ควรเขียนอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",18
+66,7483,"1. Startup คืออะไร",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+67,7483,"2.การเติบโตของStartup เน้นการเติบโตแบบไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+68,7483,"3.เงินทุนหลักของStartup มาจากไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+69,7483,"4.Keyword หลักของ Startup คือ?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+70,7483,"ถ้าอยากทำร้านข้าวมันไก่ให้เป็นStartup จะทำอย่างไร",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+71,7486,"6.บริษัทยุคใหม่ เกิดจากอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+72,7486,7.อะไรทำให้เราเข้าถึงลูกค้าได้ง่ายขึ้น,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+73,7486,8.อะไรที่จะทำให้บริษัทอยู่รอดต่อไปได้,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+74,7486,"9.คิดว่า Netflix ชนะ BlockBuster ได้อย่างไร?",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+75,7489,"10.ทำไม Startup ต้องรีบหาลูกค้ากลุ่มแรกๆให้เจอ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+76,7489,"11.Starup ไม่ประสบความสำเร็จเพราะอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+77,7489,"12.ข้อใค คือวิธีการทำงานแบบเก่า",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+78,7489,"13.ทำไมการทำงานแบบเก่า (Waterfall) ไม่เหมาะกับ Startup",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+79,7489,"14.ทำไม Startup ไม่ควรเริ่มจากทำเขียนแผนธุรกิจ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+80,7489,"14.ทำไม Startup ไม่ควรเริ่มจากทำเขียนแผนธุรกิจ",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+81,7493,"15.LEAN STARTUP PROCESS มีอะไรบ้าง?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+82,7493,16.ทำไมต้องมีสมมุติฐานทางธุรกิจ,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+83,7493,"17.ข้อใดคือหลักการของ Lean Startup",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+84,7493,"18.VALIDATE LEARNING ทำเพื่ออะไร",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+85,7496,"19.Customer job คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+86,7496,20.ปัญหาแบบไหนที่ควรแก้ที่สุด,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+87,7496,21.ระดับปัญหาของลูกค้าที่รุนแรงที่สุด,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+88,7496,"22.ทำไมเราไม่ควรเริ่มต้นจาก วิธีการแก้ปัญหา(Solution)",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+89,7499,"23.เมื่อเรามีไอเดียแล้ว สิ่งแรกที่ต้องทำเรียกว่าอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+90,7499,"24.จุดประสงค์หลักที่เราไปคุย(Interviews) กับลูกค้าคืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+91,7499,"25.สิ่งที่สำคัญในออกตลาดเพื่อสัมภาษณ์ลูกค้า สิ่งที่ต้องระวังที่สุดคืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+92,7499,"26.จุดประสงค์ของการลงไปทดสอบตลาด คืออะไร?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+93,7502,"27.เมื่อ Customer - Problem Fit เราจะทดลองตลาดด้วยการสร้าง MVP ที่ย่อมาจาก?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+94,7502,"28.ทำไมต้องทำ Solution Test?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+95,7502,"29.LANDING PAGE ที่ดีควรเป็นอย่างไร ?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+96,7505,"30.\"Concierge\" ในการทดสอบตลาด หมายถึงอะไร ?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+97,7505,"31.DoppleGangers MVP ใช้ในสถานการณ์ไหน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+98,7505,"32.https://instapage.com/ ใช้ทำอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+101,7562,"1. JavaScript คือ ______ Side scripting language",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+102,7562,"2. จงเลือกว่าอันไหนเป็น server-side Java Script object",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+103,7562,"3. HTML tag อันไหนที่ใช้เขียน JavaScript code",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+104,7562,"4. syntax อะไรถูกต้อง สำหรับอ้างอิง external script ที่เรียก “geek.js”",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+105,7562,"5. JavaScript เป็นภาษา ________.",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+106,7566,"1. จงเลือก syntax ที่ถูกต้องเพื่อแสดงข้อความ “GeeksforGeeks” ใน alert box โดยใช้ JavaScript",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+107,7566,"2. จงเลือกคำสั่งที่ใช้จับทุกคลิ๊ก events ใน window",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+108,7566,"3.ให้ทายผลลัพธ์จาก code JavaScript จากลิงค์รูปนี้ https://uppic.cc/d/5NZf",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+110,7571,"1. ข้อใดไม่ใช่คำสงวนใน JavaScript",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+111,7571,"จงทายผลลัพธ์จากโค๊ดภาษา JavaScript ต่อไปนี้ :",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+112,7572,"1. ข้อใดไม่ใช่คำสงวนใน JavaScript",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+113,7572,"2.จงทายผลลัพธ์จากโค๊ดภาษา JavaScript ต่อไปนี้ https://uppic.cc/d/5NZi",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+114,7572,"3.จงทายผลลัพธ์จากโค๊ดภาษา JavaScript ต่อไปนี้ https://uppic.cc/d/5NZF",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+115,7572,"4. Method ใน JavaScript ที่ใช้ลบเว้นวรรคที่ข้างหน้าหรือข้างหลัง string",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+116,7572,"5.ให้ทาย output ของ console code JavaScript ต่อไปนี้ https://uppic.cc/d/5NZH",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+117,7581,"1. ไวยากรณ์ที่ถูกต้องเพื่อสร้าง function ใน JavaScript ชื่อ Geekfunc",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+118,7581,"2. จะเรียกใช้ ใน JavaScript อย่างไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",2
+119,7581,"3. ฟังก์ชันนี้ทำงานอย่างไร https://uppic.cc/d/5NZo",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+120,7581,"ฟังก์ชันนี้ทำงานอย่างไร https://uppic.cc/d/5NZ2",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",4
+121,8010,"1. ข้อใดคือความหมายที่ถูกต้องของวิทยาการคอมพิวเตอร์",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+122,8010,"2. คอมพิวเตอร์คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+123,8010,"3. ข้อมูล คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+124,8010,"4. ข้อมูลสารสนเทศ คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+125,8010,"5. ถ้าเปรียบเสมือนคอมพิวเตอร์ เป็นเครื่องซักผ้า แสดงว่าตอนนี้คอมพิวเตอร์ ยังขาด คุณสมบัติอะไรอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+126,8010,"6. ถ้าเปรียบเสมือนคอมพิวเตอร์ เป็นโทรทัศน์ แสดงว่าตอนนี้คอมพิวเตอร์ยังขาด คุณสมบัติอะไรอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+127,8010,"7. ถ้าเปรียบเสมือนคอมพิวเตอร์ เป็นเครื่องบิน แสดงว่าตอนนี้คอมพิวเตอร์ยังขาด คุณสมบัติอะไรอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+128,8010,"8. ฮาร์ดแวร์คอมพิวเตอร์ คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+129,8010,"9. ใครคือผู้พัฒนาพื้นฐานของวิทยาการคอมพิวเตอร์เชิงทฤษฏี",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+130,8010,"10. 1 bit มีค่าเท่ากับกี่ Byte",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+131,8013,"1. ระบบตัวเลขที่นิยมใช้งานในวงจรดิจิตอลใช้เลขฐานใดบ้าง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+132,8013,"2. 1 0 0 0 1 . 1 0 1 2 มีค่าเท่ากับเท่าใดในเลขฐานสิบ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+133,8013,"3. 1 1 0 1 1 1 2 มีค่าเท่ากับเท่าใดในเลขฐานสิบ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+134,8013,"4. 1 0 1 0 1 . 1 2 มีค่าเท่ากับเท่าใดในเลขฐานสิบ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+135,8013,"5. 234 มีค่าเท่ากับเท่าใดในเลขฐานสอง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+136,8013,"6. 99 มีค่าเท่ากับเท่าใดในเลขฐานสอง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+137,8013,"Question 137",,true_false,1.00,a:0:{},7
+138,8013,"7. 925 มีค่าเท่ากับเท่าใดในเลขฐานสอง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+139,8016,"1. ข้อใดคือความหมายของหน่วยแสดงผล (Output Unit)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+140,8016,"2. ข้อใดต่อไปนี้ถูกต้องเกี่ยวกับ Unicode",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+141,8016,"3. ข้อใดกล่าวถึง หน่วยแสดงผล ได้ถูกต้อง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+142,8016,"4. ค่าสีแดง, สีเขียว และสีน้ำเงิน ถูกรวมเข้าด้วยกันเพื่อให้ได้เป็นค่าสีใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+143,8016,"5. หน้าที่ของหน่วยแสดงผล คือข้อใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+144,8016,"6. มาตรฐาน ASCII คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+145,8016,"7. รหัส ASCII ใน Bin : 10110 หมายความว่าอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+146,8016,"8. รหัส ASCII ใน Bin : 1100 หมายความว่าอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+147,8016,"9. รหัส ASCII ในข้อใดหมายถึง Shift In / X-Off",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+148,8016,"10. รหัส ASCII ในข้อใดหมายถึง ตัวพิมพ์ใหญ่ A",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+149,8019,"1.ข้อใดคือสัญลักษณ์แสดงการเริ่มต้น หรือสิ้นสุดของผังงาน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+150,8019,"2.ข้อใดคือสัญลักษณ์การรับ หรือแสดงข้อมูลโดยไม่ระบุชนิดของอุปกรณ์",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+151,8019,3.ข้อใดคือสัญลักษณ์การเปรียบเทียบการตัดสินใจ,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+152,8019,"4. ข้อใดคือสัญลักษณ์การแสดงผลลัพธ์ลงบนกระดาษ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+153,8019,"5. ระหว่างระยะเวลาในการแก้ไขปัญหาถ้ามองผ่านค่า log ข้อใดใดถือว่ามีประสิทธิภาพการทำงานที่เร็วที่สุด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+154,8019,"6. ประสิทธิภาพของอัลกอริทึมขึ้นอยู่กับสิ่งใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+155,8019,"7. ข้อใดคือการเขียนผังงานที่ดี",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+156,8019,"8. อัลกอริทึมที่ดีต้องมีคุณสมบัติอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+157,8019,"9. ข้อใดคืออัลกอริทึมแบบทางเลือก",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+158,8019,"10. ข้อใดไม่ใช่ประโยชน์ของอัลกอริทึม",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+159,8019,"1. การโยนเหรียญเพื่อเสี่ยงทายตัดสินใจจะกินผลไม้หรือขนมปัง โดยมีเงื่อนไขว่า ถ้าออกหัวกินขนมปัง ถ้าออกก้อยกินผลไม้",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",11
+160,8019,"2.จงวิเคราะห์อัลกอริทึมของการทอดไข่เจียวหมูสับ เบื้องต้น พร้อมทั้งเขียน Process ของการแก้ปัญหา",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",12
+161,8019,"จงเขียน Flowchart ด้วยมือลงกระดาษ a4 แล้วถ่ายรูปส่งมา หรือใช้อะไรก็ได้ที่ถนัด ส่งคำตอบให้ Admin ใน Slack รบกวนเขียนชื่อและ e-mail ในกระดาษคำตอบให้ด้วยนะคะ",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",13
+162,8036,"1. “กําหนดให้ A, B, C เป็นจํานวนเต็ม และ A เป็นผลบวกของ B และ C” จากข้อความดังกล่าว ข้อใดเขียนการถ่ายทอดความคิดด้วยรหัสเทียม ที่แสดงผลลัพธ์ของโจทย์ปัญหานี้ได้ถูกต้อง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+164,8036,"2. การเขียนรหัสเทียมมีลักษณะอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+165,8036,"3. ข้อใดเรียงลําดับขั้นตอนการพัฒนาโปรแกรมได้ถูกต้อง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+166,8036,"4. ในการเขียนรหัสเทียมข้อใด ไม่ ถูกต้อง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+167,8036,"5. ในการเขียนรหัสเทียมข้อใดถูกต้อง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+168,8036,"6. คำสั่งพื้นฐานหรือเครื่องหมายใดในการเขียนรหัสเทียมแสดงถึง การกำหนดค่า",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+169,8036,"7. คำสั่งพื้นฐาน หรือเครื่องหมายใดในการเขียนรหัสเทียมแสดงถึง การเปรียบเทียบ หรือตรวจสอบเงื่อนไขการทำงาน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+170,8036,"8. คำสั่งพื้นฐาน หรือเครื่องหมายใดในการเขียนรหัสเทียมแสดงถึง การทำงานวนซ้ำ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+171,8036,"9. ข้อใดคือประโยชน์ของรหัสเทียม",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+172,8036,"10. ข้อใดคือหลักการเขียนรหัสเทียมเบื้องต้น",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",11
+173,8036,"Project 5.รหัสเทียม (Pseudo code)","Quiz 5 ข้อ : จงเขียน flowchart และ pseudocode ของทั้งหมดต่อไปนี้ 
+
+1. รับค่าเกรดของนักเรียน  1 คน แล้วแสดงผลเกรดออกมา
+
+2. รับค่าเกรดของนักเรียน 1 คน  แล้วตรวจว่า ถ้า น้อยกว่า 80% ให้แสดงผลว่า “ตก” ถ้ามากกว่า 80% ให้แสดงผลว่า”ผ่าน” 
+
+3. รับค่าเกรดของนักเรียน 10 คน  แล้วตรวจว่า ถ้า น้อยกว่า 80% ให้แสดงผลว่า “ตก” ถ้ามากกว่า 80% ให้แสดงผลว่า”ผ่าน”
+
+4. รับค่าเกรดของนักเรียน 10 คน  แล้วตรวจว่า 
+
+     a.ถ้า น้อยกว่า 50% ให้แสดงผล “F”
+
+     b.ถ้ามากกว่า 50% แต่น้อยกว่า 80% ให้แสดงผลว่า “Good” 
+
+     c.ถ้ามากกว่าหรือเท่ากับ 80% ให้แสดงผลว่า “Great” 
+
+จงเขียน Flowchart และรหัสเทียม คำนวณค่าแรงต่อวันของพนักงาน (Wage) กำหนดให้โปรแกรมอ่านชื่อ (Name) จำนวนชั่วโมง (Hr) และอัตราค่าแรง (Rate)
+
+   - ถ้าพนักงานทำงานไม่เกิน 6 ชั่วโมง ให้คิดค่าแรงตามปกติ
+
+   - ถ้าพนักงานทำงานเกิน 6 ชั่วโมง ให้คิดค่าแรงส่วนที่เกินจาก 6 ชั่วโมงเป็น 2 เท่าของค่าแรงปกติ
+
+แนะนำให้ใช้ Tools Online ในการทำงาน เพราะว่าจะแก้ไม่เยอะ
+
+ส่งคำตอบให้กับ admin ใน slack รบกวนเขียนชื่อและ e-mail ในกระดาษคำตอบให้ด้วยนะคะ
+
+**ผู้เข้าเรียน  upload file ผ่านนี่ https://imgbb.com/ แล้วให้ใส่ link ลงในคำตอบ
+
+วิธีการส่ง Project
+
+ขั้นตอนที่ 1) ส่งงานโดยการแชร์ link Scratch project ในระบบ Digital Skill 
+
+คู่มือส่งการบ้าน https://coursestudio.digitalskill.org/asset-v1:SOFTWAREPARKTHAILAND_CODECAMP+CC102+2019+type@asset+block@%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA_%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A_%E0%B8%B2%E0%B8%99%E0%B8%9C_%E0%B8%B2%E0%B8%99_Digital_Skill.pdf",open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",12
+174,8038,"1.ทำการเปลี่ยนจาก แมว เป็น Animal ชนิดใดก็ได้ จำนวน 3 ชนิด เช่น Parrot เป็นต้น",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+175,8038,"2.ลองทำการเปลี่ยนพื้นหลัง (Stage) ให้เป็นอะไรก็ได้ จำนวน 1 พื้นหลัง",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+176,8038,"3.ลองทำการ Upload Sprite เป็นรูปของตนเองขึ้น จำนวน 1 ภาพ",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+177,8038,"4.ลองทำการ Upload Backdrop เป็น ภาพอะไรก็ได้ที่เราถ่ายด้วยตนเอง จำนวน 1 ภาพ",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+178,8038,"5.ลองใช้ Paint Sprite วาดสัตว์อะไรก็ได้ขึ้นมา 1 อย่าง และลองใช้ Surprise Backdrop แล้วบอกว่า พื้นหลังที่แสดง คือภาพอะไร",,open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+179,8039,"1. ส่วนประกอบหลักของหน้าต่างการทำงานของโปรแกรม Scratch มีอะไรบ้าง",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+180,8039,"2. โปรแกรม Scratch คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+181,8039,"3. ข้อใด คือ บล็อกที่จะถูกนำมาใช้เป็นอันดับแรกเสมอในการเขียนสคริปต์",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+182,8039,"4. เมื่อเปิดโปรแกรม Scratch ขึ้นมาจะพบว่าแมวอยู่ตำแหน่งใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+183,8039,"5. บล็อกคำสั่ง repeat until หมายถึงคำสั่งอะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+184,8039,"6. การสร้างตัวแปรในโปรแกรม Scratch ทำได้โดยการคลิกที่บล็อกคำสั่งใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+185,8039,"7. หากต้องการให้ตัวละครอยู่ในตำแหน่งที่ต้องการเสมอต้องทำอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+186,8039,"8. หากเปลี่ยนตัวเลขใน บล็อก Move ของกลุ่มบล็อก Motion จากเลข 10 เป็น -10 จะเกิดอะไรขึ้น?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+187,8039,"9. ปุ่มธงเขียวและบล็อกธงเขียว มีความสัมพันธ์ในการทํางานกันอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+188,8039,"10. ข้อใดไม่ใช่ คำสั่งควบคุมการทำงานแบบวนซ้ำ?",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+189,8062,"1.) ข้อใดต่อไปนี้ไม่ใช่ชนิดของเครือข่าย",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+190,8062,"2.) ข้อแตกต่างระหว่าง WAN ต่างกับ LAN อย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+191,8062,"3.) Layers ใด ทำหน้าที่เชื่อมต่อกับ Upper Layer ในการใช้งาน network service",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+192,8062,"4.) ข้อใดกล่าวถูกต้องเกี่ยวกับไฟเบอร์ ออพติก",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+193,8062,"5.) แบบจำลองของ OSI มีจำนวนด้วยกันทั้งหมดกี่ Layers",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+194,8062,"6.) ข้อใดต่อไปนี้ไม่ได้เป็นประเภทของสื่อกลางทางกายภาพ",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+195,8062,"7.) ข้อใดคือความหมายของไฟร์วอลล์",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+196,8062,"8.) กระบวนการใดไม่มีในแบบจำลอง OSI",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+197,8062,"9.) ข้อใดคือ Transport",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",9
+198,8062,"10) ข้อใดคือ Physical",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",10
+199,8065,"1.) ภาษา HTML มีความหมายตรงกับข้อใด",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+200,8065,"2.) ข้อใดกล่าวไม่ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+201,8065,"3.) ข้อใดใช้ Attribute ไม่ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+202,8065,"4.) ข้อใดประกาศชนิดของเอกสารHTML5ได้ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+203,8065,"5.) ส่วนใดที่ใช้ในการแสดงชื่อเรื่องของเว็บ",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+204,8075,"1. ข้อใดคือความหมายของ ISP",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+205,8075,"2. ข้อใดคือความหมายของ Megabyte",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+206,8065,"6.) ส่วนใดที่ใช้ในการแสดงเนื้อหาของเว็บ",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+207,8075,"3. 1 Megabyte สามารถสร้างไบต์ในรูปของทศนิยมได้เท่าไหร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+209,8075,"4. ข้อใดคือความหมายของ POP",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+210,8075,"5. ข้อใดคือความหมายของ FTP",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+211,8075,"6. ข้อใดคือความหมายของ Cybercrime",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+212,8065,"7.) ข้อใดคือคำสั่งในการกำหนดโครงสร้างหลักของเอกสาร HTML",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+213,8075,"7. ข้อใดคือความหมายของ HTML",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+214,8075,"8. ข้อใดคือความหมายของ Python",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+215,8075,"9. การเขียนโปรแกรมไพทอนจะใช้เครื่องมือช่วยในการพัฒนาโปรแกรมที่เรียกว่า อะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+216,8065,"8.) ข้อใดไม่ใช่โปรแกรม Text Editor",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+217,8075,"10. ข้อใดคือความหมายของ MAC",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",11
+218,8065,"9.) ข้อใดไม่ใช่โปรแกรม Web Browser",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",9
+219,8075,"คำจำกัดความของเทคโนโลยีที่สำคัญ จงให้นิยามของคำต่อไปนี้","1.Pixel
+
+2.Pop-up blocker
+
+3.Protocol
+
+4.Proxy
+
+5.Sever
+
+6.Software
+
+7.TrueType
+
+8.UNIX
+
+9.Virtualization
+
+10.VPN
+
+11.WLAN
+
+12.Zip",open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",12
+220,8065,"10.) คำสั่งในภาษา HTML ต่อไปนี้ ข้อใดไม่ถูกต้อง",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",10
+221,8099,"1. ข้อใดคือความหมายของ ISP",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+222,8099,"2. ข้อใดคือความหมายของ Megabyte",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+223,8099,"3. 1 Megabyte สามารถสร้างไบต์ในรูปของทศนิยมได้เท่าไหร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+224,8099,"4. ข้อใดคือความหมายของ POP",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+226,8099,"5. ข้อใดคือความหมายของ FTP",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+227,8099,"6. ข้อใดคือความหมายของ Cybercrime",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+228,8099,"7. ข้อใดคือความหมายของ HTML",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+229,8099,"8. ข้อใดคือความหมายของ Python",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+230,8099,"9. การเขียนโปรแกรมไพทอนจะใช้เครื่องมือช่วยในการพัฒนาโปรแกรมที่เรียกว่า อะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+231,8099,"10. ข้อใดคือความหมายของ MAC",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",11
+232,8099,"คำจำกัดความของเทคโนโลยีที่สำคัญ จงให้นิยามของคำต่อไปนี้","1.Pixel
+
+2.Pop-up blocker
+
+3.Protocol
+
+4.Proxy
+
+5.Sever
+
+6.Software
+
+7.TrueType
+
+8.UNIX
+
+9.Virtualization
+
+10.VPN
+
+11.WLAN
+
+12.Zip",open_ended,1.00,"a:3:{s:13:"question_type";s:10:"open_ended";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",12
+233,8102,"1. 1 บิต (bit) มีกี่ไบต์ หรือกี่ Char",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+234,8102,"2. ข้อใดไม่ใช่โครงสร้างข้อมูล",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+235,8102,"4. array ข้อใดไม่นิยมใช้",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+236,8102,"3. ข้อใดไม่ใช่โครงสร้างที่ใช้ทั่วๆ ไป ในการจัดเก็บข้อมูล",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+237,8102,"5. ในรูปนี้ คือ array กี่มิติ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+238,8102,"6. ข้อใดคือ ข้อมูลแบบคิว",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+239,8102,"7. ข้อใดคือข้อมูลแบบสแต็ก",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+240,8102,"8. ข้อใดคือข้อมูลแบบลิงค์ลิส",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+241,8102,"9. ข้อใดคือข้อมูลแบบอาเรย์",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+242,8102,"10. ในรูปนี้ คือ array กี่มิติ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+243,8108,"1. ข้อใดคือความหมายของระบบบัส",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+244,8108,"2. ข้อใดคือความหมายของ Local Bus",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+245,8108,"3. ข้อใดคือสถาปัตยกรรมระบบบัส",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+246,8108,"4. ข้อใดคือเทคนิคการฟอร์แมตรูปแบบ Multiple Zone Recording",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+247,8108,"5. ข้อใดคือความหมายของ เซกเตอร์",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+248,8108,"6. ข้อใดคือความหมายของ Battery Backup",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+249,8108,"7. โครงสร้างการทำงานของชิพเซ็ตปัจจุบันมีรูปแบบการทำงานเป็นหลักใหญ่อยู่กี่แบบ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+250,8108,"8. ข้อใดคือการติดต่อระหว่างซีพียูกับอุปกรณ์ไอโอ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+251,8108,"9. ข้อใดคือความหมายของ Data Bus",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+252,8108,"10. ในการติดต่อระหว่างซีพียูกับอุปกรณ์ไอโอนั้นมีกี่วิธี",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+254,8119,"ข้อ 1 อะไรคือ การย่อยปัญหา ? (1 คะแนน)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+255,8119,"ข้อ 2 ข้อใดต่อไปนี้อาจเป็นวิธีการย่อยส่วนประกอบ? จงเลือกทั้งหมดที่ใช้ (ตอบได้หลายข้อ และ 1 คะแนน)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+256,8119,"ข้อ 3 คุณถูกขอให้จัดระเบียบการขับรถแจกจ่ายสินค้ากระป๋องในพื้นที่ที่ต้องการ และให้กับผู้ที่ต้องการความช่วยเหลือ ข้อใดต่อไปนี้เป็นตัวอย่างของปัญหาที่สามารถย่อยได้ ? จงเลือกทั้งหมดที่ใช้. (ตอบได้หลายข้อ และ 1 คะแนน)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+258,8122,"ข้อความต่อไปนี้รวบรวมคำจำกัดความของการจดจำรูปแบบจริง หรือไม่ : การจดจำรูปแบบเป็นกระบวนการที่เราค้นหาขั้นตอนการซ้ำภายในปัญหา",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+259,8122,"ข้อใดต่อไปนี้เป็นตัวอย่างของการจดจำรูปแบบ ? เลือกทั้งหมดที่ใช้",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+260,8122,"สมมติว่าคุณได้รับรายชื่อตัวละครดังต่อไปนี้ : a, a, b, b, b, c, a, a ข้อใดต่อไปนี้เป็นรูปแบบการบีบอัดที่ดีที่สุดในรายการนี้",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+261,8125,"ข้อ 1 ข้อใดต่อไปนี้เป็นแง่มุมของการแสดงข้อมูลด้านนามธรรม? (ตอบได้หลายข้อ และ 1 คะแนน)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+262,8125,"ข้อ 2 คุณเป็นเจ้าของสุนัข และต้องการสร้างแอปพลิเคชันเพื่อติดตามสุนัขที่คุณ เพื่อดูการอยู่ กิน และนอน ข้อใดต่อไปนี้เป็นที่ดีที่สุดในการรวบรวมข้อมูลที่คุณอาจต้องการนำเสนอ (1 คะแนน)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+264,8125,"ข้อ 3 ข้อมูลที่เรากล่าวถึงในบริบทของตัวอย่างการปลูกพืชคลุมดิน รวมถึงชื่อ และวิดีโอสแควร์ ของแต่ละดอกไม้ ในรูปแบบของสวน และการมองเห็น สมมติว่าเป้าหมายของคุณในการเลือกลำดับการคลุมด้วยหญ้า คือ การลดขนาดของต้นไม้ โดยวัสดุคลุมดินให้เร็ว ที่สุดเท่าที่จะเป็นไปได้ ข้อใดต่อไปนี้ที่ดีที่สุดในการรวบรวมข้อมูลที่จำเป็น ในการทำเช่นนี้ ? คุณควรสมมติว่าเวลาที่จะเดินไปมาระหว่างวัสดุคลุมด้วยหญ้า และดอกไม้นั้นเล็กน้อย เมื่อเทียบกับเวลาที่ใช้ในการคลุมด้วยหญ้า (1 คะแนน)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+265,8125,"ข้อ 4 ข้อใดต่อไปนี้เป็นเหตุผลที่ดีในการสรุปข้อมูลที่ไม่จำเป็นออกไป (ตอบได้หลายข้อ และ 1 คะแนน)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+266,8128,"ข้อ 1 ข้อใดต่อไปนี้เป็นองค์ประกอบสำคัญของอัลกอริทึม (ตอบได้หลายข้อ)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+267,8128,"ข้อ 2 คุณมีรายการของของชำ และต้องการใช้เวลาให้น้อยที่สุดในการเก็บของให้หมด คำอธิบายใดต่อไปนี้เป็นอัลกอริทึมที่ดีที่สุดสำหรับการทำสิ่งนี้ (ตอบได้หลายข้อ)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+268,8128,"ข้อ 3 ในแต่ละคืนคุณจะแปรงฟัน และใส่ชุดนอนก่อนนอน และถึงจะเข้านอน เพื่อให้สิ่งที่น่าสนใจ ในบางครั้งคุณแปรงฟันของคุณก่อนที่จะใส่ชุดนอนของคุณ ในขณะที่เวลาอื่น ๆ คุณใส่ชุดนอนของคุณ ก่อนที่จะแปรงฟันของคุณ ผังงานใดต่อไปนี้ที่ดีที่สุดโดยแสดงถึงอัลกอริธึม โดยทราบว่าในผังงาน C และ D มีสองขอบออกมาจากคำสั่งเริ่มต้น ซึ่งหมายความว่า คำแนะนำในตอนท้ายของขอบเขต อาจเกิดขึ้นพร้อมกัน หรือเกิดขึ้นในลำดับใด ๆ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+269,8128,"ข้อ 4. ข้อความใดต่อไปนี้ถูกต้องเกี่ยวกับผังงาน (ตอบได้หลายข้อ)",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+270,8135,"1) “อาทิตย์” เป็นชายวัยทำงานที่ขยันขันแข็ง และพยายามทำทุกอย่างเพื่อเป็น พลเมืองดีต่อสังคม แต่วันนี้อาทิตย์ประสบปัญหา โดยรถยนต์ของอาทิตย์ไม่สามารถ เคลื่อนที่ได้เนื่องจากเกิด 2 ปัญหา คือ - รถยนต์ยางแบน - รถยนต์วิ่งได้ช้าเพราะน้ำมันใกล้หมด เมื่ออาทิตย์ต้องการใช้หลักการความคิดเชิงคำนวณแก้ไขปัญหาที่เกิดขึ้น อาทิตย์จะสามารถแก้ไขปัญหาได้อย่างไร",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+271,8135,"2) ในชั้นเรียนวิชาแอนิเมชั่น ก้องภพได้สร้างภาพเคลื่อนไหว หรือแอนิเมชั่น โดยการวาดภาพมาเรียงต่อกัน จำนวน 5 ภาพ และเพื่อให้ภาพเคลื่อนไหวมีความต่อเนื่อง ภาพที่อยู่ติดกันจะมีความแตกต่างกันของส่วนประกอบใบหน้าเพียงหนึ่งอย่างเท่านั้น จงเรียงลำดับภาพที่ก้องภพสร้างขึ้นตาม พร้อมทั้งอธิบาย",,image_answering,1.00,"a:3:{s:13:"question_type";s:15:"image_answering";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+272,8135,"3) รถคันหนึ่งขับด้วยอัตโนมัติ มีปากทางเข้าอยู่ 5 จุด ดังรูป ระหว่างถนนหลักมีซอยเชื่อมต่อระหว่างถนนที่รถสามารถวิ่งผ่านได้ รถถูกโปรแกรมให้ขับ ตามกฏดังต่อไปนี้",,image_answering,1.00,"a:3:{s:13:"question_type";s:15:"image_answering";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+273,8135,"4) ดงพโย ซื้อลูกโป่งจากร้านหนึ่ง ลูกโป่งในร้านมีสีต่าง ๆ ที่แตกต่างกัน 3 สี แต่ละสีมีหมายเลขติดอยู่ คนขายกาหนดหลักเกณฑ์บางอย่างเพื่อจะบอกว่า สีใดจะเขียนตัวเลขอะไรได้บ้างที่อยู่ในช่วง 0-9 โดย ตัวอย่างแสดงต่อไปนี้","0 เขียว
+
+1 เหลือง
+
+2 แดง
+
+3 เขียว
+
+ถ้าจะซื้อลูกโป่งจากร้านดังกล่าว แล้วนามาเรียงกันจาก ซ้ายไปขวา เพื่อให้ตัวเลขบนลูกโป่งเรียงกัน เท่ากับ ทะเบียนรถของ ดงพโย คือ 9381 ลูกโป่งจะมีสีเรียงกัน เป็นอย่างไร
+
+ตัวอย่างการตอบ: แดง แดง แดง แดง",ordering,1.00,"a:3:{s:13:"question_type";s:8:"ordering";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+274,8135,"5. จาก QD-Code ขนาด 4X4 ต่อไปนี้ ภาพใดเข้ารหัสค่าตัวเลขรวมที่มีค่ามากที่สุด","รหัส QR Code เป็นรหัสที่เป็นที่รู้จักและนิยมใช้อย่างมากในปัจจุบัน รหัสดังกล่าวอาศัยรูปแบบของ จุดดำ และจุดขาวในการเข้ารหัสข้อมูลที่สามารถอ่านได้ด้วยโปรแกรมหรือเครื่องอ่าน QR Code
+อึนซัง ได้พัฒนารหัสของเขาขึ้นมาเอง เรียกว่า QD-Code โดยช่องในตารางที่เป็นสีดำจะแทนตัวเลขที่มี ค่าตามข้อกำหนดต่อไปนี้:
+
+● ช่องล่างขวาสุดของตารางมีค่าเป็น 1 ช่องถัดไปทางซ้าย จะมีค่าเพิ่มขึ้นเป็น 2 เท่าของช่องก่อนหน้า นั้น
+
+● เมื่อสุดแถวช่องถัดไปคือช่องขวาสุดของแถวถัดขึ้นไปหนึ่งแถว
+
+● ค่าตัวเลขที่ QD-Code นั้น ๆ เข้ารหัสไว้ คือการนำค่าของแต่ละตำแหน่งที่เป็นสีดำมารวมกัน",image_answering,1.00,"a:3:{s:13:"question_type";s:15:"image_answering";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+275,9487,Test,,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+276,9487,"Question 276",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",2
+277,9494,esereres,,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+278,9494,"Question 278",,true_false,1.00,"a:2:{s:13:"question_type";s:10:"true_false";s:13:"question_mark";s:4:"1.00";}",2
+280,9503,"1 + 1 = 2 ?",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+281,9513,"วันนี้วันพฤหัสฯ ใช้ไหม?",,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+282,9513,"1 +1",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+283,9518,ข้อใดไม่ใช่สถิติในการวัดแนวโน้มเข้าสู่ส่วนกลางของข้อมูล,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+284,9518,ข้อใดต่อไปนี้ผิด,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+285,9518,ข้อใดต่อไปนี้ไม่ใช่พารามิเตอร์,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+286,9518,ข้อใดต่อไปนี้ผิด,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+287,9518,ข้อใดต่อไปนี้ถูกต้อง,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+288,9561,"HTML ย่อมาจาก",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+289,9561,"ถ้าจะเพิ่มการขึ้นบรรทัดใหม่ใน HTML ต้องใช้ HTML Element ไหน",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+290,9561,"ถ้าต้องการเพิ่มพื้นหลังของ body ให้มีสีต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+291,9561,"HTML Element ไหนที่บอกว่าข้อความดังกล่าวสำคัญ",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",4
+292,9561,"ถ้าต้องการจะสร้าง Hyperlink ไปที่ google.com ต้องใช้",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+293,9518,"โรงงานผลิตหลอดไฟฟ้าแห่งหนึ่ง ผลิตหลอดไฟฟ้า ซึ่งอายุการใช้งานมีการแจกแจงปกติที่มีค่าเฉลี่ยเลขคณิต 800 ชั่วโมง และส่วนเบี่ยงเบนมาตรฐาน 40 ชั่วโมง จงหาความน่าจะเป็นที่ตัวอย่างสุ่มของหลอดไฟ 16 หลอด จะมีอายุเฉลี่ยมากกว่า 815 ชั่วโมง",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+294,9518,"จากการสำรวจปรากฏว่า นิสิตชายชั้นปีที่ 1 ของมหาวิทยาลัยแห่งหนึ่งมีส่วนสูงเฉลี่ย 68.5 นิ้ว และส่วนเบี่ยงเบนมาตรฐาน 2.7 นิ้ว ถ้าส่วนสูงของนิสิตมีการแจกแจงปกติ สุ่มตัวอย่างนิสิตกลุ่มนี้มา 100 คน ค่าส่วนเบี่ยงเบนมาตรฐานของค่าเฉลี่ยของตัวอย่างของ x̄ (x bar) จะมีค่าเป็นเท่าใด",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+295,9518,"\\overline{x}โรงงานผลิตหลอดไฟฟ้ากล่าวอ้างหลอดไฟที่ผลิต ได้จะใช้ได้นานโดยเฉลี่ย 10000 ชั่วโมง เพื่อรักษาค่าเฉลี่ยไว้ตามที่กล่าวอ้าง เขาจึงสุ่มตัวอย่างหลอดไฟออกมาทดสอบ จากตัวอย่างที่ 16 หลอด ได้ส่วนเบี่ยงเบนมาตรฐาน s = 400 ชั่วโมง กำหนด μ เป็น ค่าเฉลี่ยของอายุการใช้งานของหลอดไฟทั้งหมด และ x̄ ป็นค่าเฉลี่ยของอายุการใช้งานของหลอดไฟที่สุ่มได้ ข้อใดต่อไปนี้ถูกต้อง",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+296,9561,"สัญลักษณ์เป็นตัวบ่งบอกว่าเป็น Tag ปิด",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+297,9561,"ถ้าต้องการจะเพิ่ม Image ต้องเขียน HTML อย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+298,9561,"ถ้าต้องการจะเพิ่ม Background เป็นรูปภาพต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+299,9561,"การเขียนคอมเม้นต์ใน HTML เริ่มด้วย",,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",9
+300,9561,"HTML attribute ไหนที่จะแสดงแทนรูปภาพเมื่อ รูปภาพนั้นไม่สามารถแสดงได้",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",10
+301,9561,"ใน HTML onblur และ onclick คืออะไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",11
+303,9561,"CSS ย่อมาจากอะไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",12
+304,9561,"ใน HTML การอ้างอิง External style sheet เขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",13
+305,9561,"ใน HTML การอ้างอิง external style sheet ต้องใส่ไว้ในส่วนไหน",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",14
+306,9561,"HTML tag ใดที่ใช้สำหรับการกำหนด internal style sheet?",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",15
+307,9561,"Attributes ใดที่ใช้ในการกำหนด inline styles",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",16
+308,9503,"1 + 1 + 1",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+309,9561,"Syntax ข้อใดใน CSS ถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",17
+310,9561,"ถ้าต้องการเขียน Comment ในไฟล์ CSS จะต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",18
+311,9561,"Property ไหนใน CSS จะใช้สำหรับการกำหนดสีของพื้นหลัง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",19
+312,9561,"ถ้าต้องการเพิ่มพื้นหลังสีดำลงไปใน Background ของทุก ๆ &lt;h1> element",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",20
+313,9561,"property ของ CSS อันไหนที่ใช้สำหรับกำหนดสีของข้อความ",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",21
+314,9561,"ถ้าต้องการจะ select element ที่มี id เป็น \'simple\' ต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",22
+315,9561,"ถ้าต้องการ select element ที่มี class name เป็น \'demo\' ต้องเขียนอย่างไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",23
+316,9561,"ถ้าต้องการ select p elements ทั้งหมดที่อยู่ใน div element ต้องเขียนอย่างไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",24
+318,9628,"HTML Element ไหนที่ใช้สำหรับใส่ Code JavaScript",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+319,9628,"Java เป็นชื่อย่อของ JavaScript คนส่วนใหญ่เลยเรียก JavaScript สั้น ๆ ว่า Java",,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+320,9628,"การเขียนอ้างอิง External script ที่ถูกต้องควรเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+321,9628,"Code ที่เขียนในไฟล์ .js ที่ถูกอ้างอิงใน &lt;Script> Tag(External JavaScript File) จะต้องเขียนใน &lt;script> tag ด้วย",,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+322,9628,"ถ้าอยากให้แสดงข้อความว่า Hello Codecamp ในกล่อง alert box ต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+323,9628,"การประกาศฟังก์ชันใน JavaScript ข้อใดถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+324,9628,"ข้อใดเป็นการเรียก function ที่ชื่อ codecamp ได้ถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+325,9628,"การเขียน if statement ใน JavaScript ข้อใดถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+326,9774,ข้อใดต่อไปนี้ถูกต้อง,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+327,9774,"ข้อใดต่อไปนี้ ไม่ใช่ปัญหาจากสภาวะการทำงานพร้อมกัน",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+328,9774,ข้อใดต่อไปนี้ถูกต้อง,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+329,9774,"ล็อคค้าง (Deadlock) คืออะไร",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+330,9774,ข้อใดต่อไปนี้ถูกต้อง,,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+331,9628,"ถ้าต้องการเขียนเงื่อนไขใน IF Statement ว่า \"ตัวแปร c มากกว่าเท่ากับ 3\" ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",9
+332,9628,"ข้อใดคือการเขียน while loop ที่ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",10
+333,9628,"ข้อใดคือการเขียน For Loop ที่ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",11
+334,9628,"ข้อใดคือการเขียน Comment ใน JavaScript ที่ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",12
+335,9628,"ถ้าต้องการ Comment หลาย ๆ บรรทัดต้องเขียนอย่างไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",13
+336,9628,"ข้อใดประกาศ Array ได้ถูกต้อง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",14
+337,9628,"ถ้าต้องการจะปัดเศษ 6.54 ตามหลักคณิตศาสตร์ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",15
+338,9628,"ถ้าต้องการหาค่ามากที่สุดระหว่าง a กับ b ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",16
+340,9628,"event ใดที่เกิดขึ้นเมื่อ user กดคลิกเมาส์",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",17
+341,9628,"สิ่งที่ได้จาก Boolean(56 > 75) คืออะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",18
+342,9628,"JavaScript เป็นภาษาแบบ Dynamic",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",19
+343,9628,"JavaScript เป็น Case-sensitive",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",20
+344,9854,"SQL ย่อมาจากอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+345,9854,"คำสั่งในใน SQL ที่ใช้ในการอ่าน Record(s) ในตาราง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+346,9854,"คำสั่งในใน SQL ที่ใช้ในการแก้ไข Record(s) ในตาราง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+347,9854,"คำสั่งในใน SQL ที่ใช้ในการลบ Record(s) ในตาราง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+348,9854,"คำสั่งในใน SQL ที่ใช้ในการเพิ่ม Record(s) ในตาราง",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+349,9854,"ถ้าต้องการดึงข้อมูลจากตาราง Persons แต่เอามาแค่ first_name ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+350,9854,"ถ้าต้องการข้อมูลจากตาราง Persons โดยให้แสดงทุก Columns ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+351,9854,"ถ้าต้องการข้อมูลทุก Record(s) ทั้งหมดจากตาราง Persons ที่ first_name นั้นขึ้นต้นด้วย a ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+352,9854,"(---)ใน SQL ถ้าต้องการดึงข้อมูลทุก Record(s) จากตาราง Persons ที่ first_name เป็น Harry และ last_name เป็น Potter ต้องเขียนอย่างไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",9
+353,9854,"ใน SQL ถ้าต้องการดึงข้อมูลทุก Record(s) จากตาราง Persons ที่คนอายุตั้งแต่ 20 ถึง 30 ปี ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",10
+354,9854,"( === ) ถ้าเราต้องการผลลัพธ์ที่ได้จากการ Query ข้อมูลเป็น Unique ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",11
+355,9854,"ถ้าต้องการให้ผลลัพธ์ที่ออกมามีการเรียง ต้องใช้ Keyword อะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",12
+356,9854,"( === ) ใน SQL ถ้าต้องการให้ผลลัพธ์ที่ออกมาเรียงลำดับจากมากไปน้อยใน Column first_name ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",13
+357,9854,"ใน SQL ถ้าต้องการเพิ่มข้อมูลเข้าไปในตาราง Persons ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",14
+358,9854,"ใน SQL ถ้าเราต้องการเพิ่มข้อมูลตัวเลข 19 ใส่ใน Column Age สามารถเขียนได้อย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",15
+359,9854,"ถ้าต้องการแก้ไข Column first_name ของ record ที่มี id เป็น 245 ให้มีค่าเป็น \'Codecamp\' ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",16
+360,9854,"ถ้าต้องการจะลบ record(s) ที่มีอายุมากกว่า 70 จะต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",17
+361,9854,"ถ้าต้องการทราบจำนวน Record(s) ทั้งหมดในตาราง Persons ต้องเขียนอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",18
+363,9628,"ใน JavaScript การเปรียบเทียบ String จะได้ว่า \"A\" &lt; \&quot;Z\&quot;",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",21
+364,9628,"ใน JavaScript การเปรียบเทียบ String จะได้ว่า \"Good\" > \"Gold\"",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",22
+365,9628,"ใน JavaScript การเปรียบเทียบ String ให้เรียง String จากที่มีค่าน้อยไปมาก",,ordering,1.00,"a:5:{s:13:"question_type";s:8:"ordering";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",23
+366,9628,"ความแตกต่างระหว่าง == และ === คืออะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",24
+367,9628,"alert(true || false || false) จะได้ค่าออกมาเป็นอะไร",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",25
+368,9628,"alert(undefined || null || 0) จะได้ค่าออกมาเป็นอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",26
+369,9628,"alert(true && true && false) จะได้ค่าออกมาเป็นอะไร",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",27
+370,9628,"alert(true && true && true) จะได้ค่าออกมาเป็นอะไร",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",28
+371,9628,"alert(1 && 0) จะได้ค่าออกมาเป็นอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",29
+372,9628,"จาก Code ดังกล่าวบรรทัดสุดท้ายจะแสดงเป็นอะไร","function showMessage() {
+  let message = \"Hello, I\'m Codecamp!\"; // local variable
+  alert( message );
+}
+
+showMessage(); // \"Hello, I\'m Codecamp!\"
+alert( message ); ",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",30
+373,9628,"จาก Code ดังกล่าวบรรทัดสุดท้ายจะแสดงเป็นอะไร","let userName = \'John\';
+
+function showMessage() {
+  let userName = \"Bob\"; // ประกาศตัวแปร local variable
+
+  let message = \'Hello, \' + userName; // Bob
+  alert(message);
+}
+// function จะสร้าง userName ของมันเองขึ้นมา
+showMessage();
+alert( userName );",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",31
+374,9628,"จาก Code ดังกล่าวบรรทัดสุดท้ายจะแสดงเป็นอะไร","function showMessage(from, text = \"no text given\") {
+  alert( from + \": \" + text );
+}
+
+showMessage(\"Ann\"); ",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",32
+375,9628,"จาก Code ดังกล่าวบรรทัดสุดท้ายจะแสดงเป็นอะไร","function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",33
+376,9628,"ฟังก์ชันที่ไม่มีการเขียน return จะได้ return ค่าเป็นอะไร","function doNothing() {
+ /* empty */ 
+}",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",34
+377,9628,"จงเขียนฟังก์ชันดังกล่าวในรูปของ Arrow Function","function(a, b) {
+  return a + b;
+};",short_answer,1.00,"a:5:{s:13:"question_type";s:12:"short_answer";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",35
+378,9628,"จงเขียนฟังก์ชันดังกล่าวในรูปของ Arrow Function","function (n) {
+  return n * 2
+}
+",short_answer,1.00,"a:5:{s:13:"question_type";s:12:"short_answer";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",36
+379,9628,"Babel ทำหน้าที่อะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",37
+380,9565,"ตัวสถิติตัวใด เป็นตัวสถิติที่ไม่ลำเอียงของ μ",,single_choice,2.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"2.00";}",1
+381,9628,บรรทัดสุดท้ายจะแสดงออกมาเป็นอย่างไร,"let user = {
+  name: \"John\",
+  age: 30
+};
+
+alert( user.age );",fill_in_the_blank,1.00,"a:5:{s:13:"question_type";s:17:"fill_in_the_blank";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",38
+382,9628,บรรทัดสุดท้ายจะออกมาเป็นอะไร,"function makeUser(name, age) {
+  return {
+    name,
+    age,
+  };
+}
+let user = makeUser(\"John\", 30); 
+alert(user.name);",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",39
+383,9628,สองบรรทัดสุดท้ายจะได้ค่าออกมาเป็นอะไร,"let user = { name: \"John\", age: 30 };
+
+alert( \"age\" in user );
+alert( \"blabla\" in user );",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",40
+384,9628,"บรรทัดสุดท้ายค่าจะออกมาเป็นอะไร (10)","let user = { name: \'John\' };
+
+let admin = user;
+
+admin.name = \'Pete\';
+alert(user.name);",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",41
+385,9628,"ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร (11)","let user = { name: \"John\" };
+
+let permissions1 = { canView: true };
+let permissions2 = { canEdit: true };
+
+Object.assign(user, permissions1, permissions2);",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",42
+386,9628,"ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร (12)","let user = { name: \"John\" };
+
+// overwrite name, add isAdmin
+Object.assign(user, { name: \"Pete\", isAdmin: true });
+
+// now user = ",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",43
+387,9628,"ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร (13)","let user = {
+  name: \"John\",
+  age: 30,
+
+  sayHi() {
+    alert(this.name);
+  }
+
+};
+
+user.sayHi();",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",44
+388,9628,สองบรรทัดสุดท้ายจะได้ค่าออกมาเป็นอะไร,"let user = { name: \"John\" };
+let admin = { name: \"Admin\" };
+
+function sayHi() {
+  alert( this.name );
+}
+
+user.f = sayHi;
+admin.f = sayHi;
+
+user.f();
+admin.f();",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",45
+389,9628,ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร,"function User(name) {
+  this.name = name;
+  this.isAdmin = false;
+}
+
+let user = new User(\"Jack\");
+
+alert(user.name);",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",46
+390,9628,"\"Widget\".startsWith(\"Wid\")",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",47
+391,9628,"\"Widget with id\".includes(\"Widget\")",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",48
+392,9628,"\"Hello\".includes(\"Bye\")",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",49
+393,9628,"ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร (16)","let fruits = [\"Apple\", \"Orange\", \"Pear\"];
+
+fruits.pop()
+
+alert( fruits );",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",50
+394,9628,"ค่าของบรรทัดสุดท้ายจะได้ออกมาเป็นอะไร (17)","let fruits = [\"Orange\", \"Pear\"];
+
+fruits.unshift(\'Apple\');
+
+alert( fruits );",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",51
+395,9628,"ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร (18)","let arr = [\"I\", \"study\", \"JavaScript\", \"right\", \"now\"];
+
+arr.splice(0, 3, \"Let\'s\", \"dance\");
+
+alert( arr )",single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",52
+396,9628,ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร,"let arr = [\"I\", \"study\", \"JavaScript\"];
+
+arr.splice(2, 0, \"complex\", \"language\");
+
+alert( arr );",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",53
+397,9628,"ค่าของบรรทัดสุดท้ายจะออกมาเป็นอะไร (20)","let users = [
+  {id: 1, name: \"John\"},
+  {id: 2, name: \"Pete\"},
+  {id: 3, name: \"Mary\"}
+];
+
+let user = users.find(item => item.id == 1);
+
+alert(user.name);",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",54
+398,9628,ค่าของบรรทัดสุดท้ายจะได้ออกมาเป็นอะไร,"let students = [
+  { id: 1, name: \"Mr. A\" },
+  { id: 2, name: \"Mr. B\" },
+  { id: 3, name: \"Mr. C\" },
+  { id: 4, name: \"Mr. D\" },
+]
+
+students.find(function(item) {
+  return item.id === 3
+})",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",55
+399,9565,"การตัดสินใจว่าจะใช้ตัวสถิติตัวใด มาใช้เป็นตัวประมาณค่าพารามิเตอร์ ต้องพิจารณาจากอะไร",,single_choice,2.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"2.00";}",2
+400,9565,"สุ่มตัวอย่างนักศึกษาหญิงในมหาวิทยาลัยราชภัฏสวนสุนันทามาจำนวน 50 คน เพื่อมาหาค่าเฉลี่ยของส่วนสูง เมื่อทำการคำนวณแล้วได้กล่าวว่า ค่าส่วนสูงเฉลี่ยอยู่ในช่วง (157.5, 165.5) ด้วยความเชื่อมั่น 90% แสดงว่าค่า α มีค่าเป็นเท่าใด",,single_choice,2.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"2.00";}",3
+401,9565,"อายุหลอดไฟฟ้าของบริษัทอุปกรณ์ไฟฟ้าแห่งหนึ่ง มีการแจกแจงใกล้เคียงการแจกแจงปกติ ถ้าเลือกตัวอย่างแบบสุ่มจากหลอดไฟฟ้าของบริษัทมา 40 หลอด และเมื่อคำนวณค่าเฉลี่ยอายุของหลอดไฟฟ้าได้เป็น 750 ชั่วโมง หากต้องการหาช่วงความเชื่อมั่น 98.9 % ของค่าเฉลี่ยประชากรของหลอดไฟฟ้าจากบริษัทนี้ โดยการใช้ตารางพื้นที่ใต้โค้งปกติมาตรฐาน Z มาช่วยในการหา อยากทราบว่าจะต้องใช้ค่า \\(Z_{\\frac{\\alpha }{2}}\\) มีค่าเป็นเท่าใด เพื่อมาใช้ในการคำนวณหาจุดปลายช่วงด้านขอบเขตบน (upper limit) ของช่วงความเชื่อมั่น",,single_choice,2.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"2.00";}",4
+402,9565,"ภาชนะที่บรรจุแอลกอฮอร์ มีน้ำหนัก (หน่วยออนซ์) ดังข้อมูลด้านล่าง โดยจากข้อมูลดังกล่าวสามารถคำนวณ \\(\\bar{x}\\) ได้ 10 และค่า s = 0.283 จงหาช่วงเชื่อมั่น 90% สำหรับค่าเฉลี่ยของน้ำหนักภาชนะสำหรับบรรจุแอลกอฮอร์ ซึ่งสมมติว่ามีการแจกเจงปกติ","ข้อมูลตัวอย่างหลอดไฟที่สุ่มมา: 9.8, 10.2, 10.4, 9.8, 10.0, 10.2, 9.6",single_choice,2.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"2.00";}",5
+404,9882,"ข้อไหนอธิบายเรื่อง Git ได้ถูกต้อง(ที่สุด)",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+405,9882,"ถ้าต้องการเพิ่มไฟล์ทั้งหมดก่อนที่จะ Commit ต้องใช้คำสั่งใด",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+406,9882,"วิธีเช็คว่าตอนนี้เราอยู่ที่ Brach ไหน เราจะต้องใช้คำสั่งอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+407,9882,"ถ้าเราเผลอไปใช้คำสั่ง git add *html จะทำให้ทุกไฟล์ที่ลงท้ายด้วย html ถูกเปลี่ยนสถานะเป็น Staged ซึ่งพร้อมจะ commit แล้ว แต่ว่าเรายังไม่ต้องการ commit และต้องการให้ไฟล์กลับมาเป็น unstaged จะต้องใช้คำสั่งใด ?",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+408,9882,"คำสั่งใดใช้ในการ chechout ออกจาก branch ที่เรากำลังใช้งานอยู่ไปยัง Branch อื่น",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+409,9882,"คำสั่งที่ใช้ตรวจสอบสถานะของ Source Code ว่าเป็น Staged หรือ Unstaged",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+410,9882,"คำสั่งใดต่อไปนี้ใช้ในการลบ Branch ที่เราไม่ต้องการ",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+411,9882,"ถ้าต้องการ clone code จาก github [https://github.com/NewGame0/Android_HelloWorld.git] จะต้องใช้คำสั่งใด ?",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+412,9882,"ผู้ให้บริการ Version Control (Git) มีเจ้าไหนบ้าง ?",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",9
+413,9872,"Foreign Key มีหน้าที่ทำอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+414,9872,"Composite Attribute คืออะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+415,9872,"Descriptive Attributes คืออะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+416,9872,"ข้อใดเป็นวิธีการจัดการ(Handle)กับ Multivalued Attributes",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+417,9872,ความสัมพันธ์แบบใดที่ต้องมีตารางความสัมพันธ์เพิ่มขึ้นมาเสมอ,,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+418,9885,"Express.js มีหน้าที่ทำอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+419,9885,"Node.js มี Library 3 ประเภทมีอะไรบ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+420,9885,"JSON ย่อมาจากอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+421,9885,"JSON จะต้องมี double quote เสมอสำหรับ key และ value ที่เป็น String",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+422,9885,"HTTP Request Method ใดที่มี Body บ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+423,9885,"Code 2 บรรทัดแรกใส่มาเพื่ออะไร","const express = require(\'express\');
+const app = express();
+
+app.get(\'/\', (req, res) => {
+    res.send(\"Hello World\");
+})
+
+app.listen(3000)",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+424,9885,"ถ้าเราใส่ localhost:3000/user/add/1/2 ข้อใดคือ output ที่ถูกต้อง","const express = require(\"express\");
+const router = express.Router();
+
+router.get(\"/add/:a/:b\", function (req, res) {
+  let a = req.params.a;
+  let b = req.params.b;
+  res.send(a + b);
+});
+module.exports = router;",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+425,9885,"ถ้าเราใส่ localhost:3000/user/add/1/2 ข้อใดคือ output ที่ถูกต้อง","const express = require(\"express\");
+const router = express.Router();
+
+router.get(\"/add/:a/:b\", function (req, res) {
+  let a = Number(req.params.a);
+  let b = Number(req.params.b);
+  res.send(a + b);
+});
+module.exports = router;",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",8
+426,9885,"ถ้าเราใส่ localhost:3000/user/add/1/2 ข้อใดคือ output ที่ถูกต้อง","const express = require(\"express\");
+const router = express.Router();
+
+router.get(\"/add/:a/:b\", function (req, res) {
+  let a = Number(req.params.a);
+  let b = Number(req.params.b);
+  res.send(String(a + b));
+});
+module.exports = router;",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",9
+427,9885,"จงจับคู่ HTTP Method กับ ความหมายของมัน ให้ถูกต้อง",,matching,1.00,"a:5:{s:13:"question_type";s:8:"matching";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",10
+428,9885,"ต้องพิม url อย่างไรจึงจะสามารถกำหนดตัวแปรให้ :variable มีค่าเป็น 2 ได้","router.get(\"/add/:variable\", function (req, res) {
+    // body
+});",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",11
+429,9885,"ถ้าต้องการดึงค่าของ :variable มาใช้จะต้องเขียนอย่างไร","router.get(\"/add/:variable\", function (req, res) {
+    const variable = ... 
+});",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",12
+430,9885,"ต้องพิม url อย่างไรจึงจะสามารถกำหนดตัวแปรให้ :variable มีค่าเป็น 2 ได้","router.get(\"/add\", function (req, res) {
+    const variable = req.query.variable
+});",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",13
+431,9885,"ถ้าพิมพ์ url เป็น localhost:3000/student/3/26 console.log ทั้งสองจะออกมาเป็นอะไร","app.get(\'/stduent/:id/:age\', function (req, res) {
+    console.log(req.params.age)
+    console.log(req.params.id)
+    res.send(req.params)
+})",single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",14
+432,9887,"Sequelize.js มีหน้าที่ทำอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+433,9887,จงจับคู่คำสั่งและหน้าที่ของคำสั่งต่อไปนี้,,matching,1.00,"a:5:{s:13:"question_type";s:8:"matching";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+434,9887,"การสร้างความสัมพันธ์แบบ One-to-one ต้องใช้ฟังก์ชันใดบ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+435,9887,"การสร้างความสัมพันธ์แบบ One-to-many ต้องใช้ฟังก์ชันใดบ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+436,9887,"การสร้างความสัมพันธ์แบบ Many-to-many ต้องใช้ฟังก์ชันใดบ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+438,9888,"Virtual DOM มีข้อดีอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+439,9888,"จงจับคู่ Components กับคุณสมบัติของ Components",,matching,1.00,"a:2:{s:13:"question_type";s:8:"matching";s:13:"question_mark";s:4:"1.00";}",2
+440,9888,"Component ใน React เขียนแบบใดได้บ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+441,9888,"Component Lifecycle ในเฟส Creation มีการทำงานลำดับอย่างไรบ้าง",,ordering,1.00,"a:5:{s:13:"question_type";s:8:"ordering";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+442,9888,"Component Lifecycle ในเฟส Update มีการทำงานลำดับอย่างไรบ้าง",,ordering,1.00,"a:5:{s:13:"question_type";s:8:"ordering";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+443,9888,"ใน Hook Components ถ้าต้องการให้เหมือน componentDidMount() จะเขียนได้ดังนี้","useEffect(() => {
+  // Do something
+}, []);",true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+444,9890,"JWT ประกอบไปด้วย 3 ส่วน ได้แก่อะไรบ้าง",,multiple_choice,1.00,"a:5:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+445,9890,"JWT แก้ไขปัญหาในด้านอะไร ต่างจาก Token ปกติอย่างไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+446,9890,"BCrypt.js แก้ไขปัญหา Security เรื่องอะไร",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+447,9890,"ในการ Hash BCrypt ถ้ารหัสผ่านเดียวกัน Hash ออกมาจะเหมือนกันเสมอ",,true_false,1.00,"a:5:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+448,9890,"ทำไมในการ Hash BCrypt ถ้ารหัสผ่านเดียวกัน Hash ออกมาจะไม่เหมือนกันเสมอ",,single_choice,1.00,"a:5:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+449,9893,ข้อใดต่อไปนี้ถูก,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+450,9893,ข้อใดต่อไปนี้ผิด,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+451,9893,"การทดสอบแบบใด ไม่จัดว่าเป็นการทดสอบระดับการรวมหน่วย (integration testing)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",3
+452,9893,"การทดสอบการถดถอย (regression testing) คืออะไร",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",4
+453,9893,"การทดสอบแบบเบตา คือ",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",5
+454,9893,"ข้อใดต่อไปนี้ ไม่ใช่การทดสอบแรงตึงเครียด (stress testing)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",6
+455,9893,"การที่ระบบยอมให้สามารถใส่ข้อมูลชนิดตัวอักษรเข้าไป ในฟิลด์ ฟิลด์หนึ่งซึ่งจริง ๆ แล้ว ฟิลด์นั้นต้องใส่เฉพาะข้อมูลชนิดตัวเลขเท่านั้นเพื่อนำไปทำการคำนวณ ความบกพร่องในเรื่องนี้ จัดเป็นความบกพร่องของการออกแบบกรณีทดสอบในเรื่องใด",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",7
+456,9893,"ข้อใดต่อไปนี้ ไม่เกี่ยวข้องกับการทดสอบแบบกล่องขาว (white-box testing)",,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",8
+457,9893,การทดสอบโมดูลที่วิกฤตก่อนคืออะไร,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",9
+458,9893,ช้อใดไม่เกี่ยวข้องกับการทดสอบระบบ,,single_choice,1.00,"a:3:{s:13:"question_type";s:13:"single_choice";s:18:"randomize_question";s:1:"1";s:13:"question_mark";s:4:"1.00";}",10
+461,14324,"ถ้าต้องการจะสร้าง Hyperlink ไปที่ google.com ต้องใช้",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",1
+462,14324,"ใน HTML onblur และ onclick คืออะไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",2
+464,14324,"property ของ CSS อันไหนที่ใช้สำหรับกำหนดสีของข้อความ",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",3
+465,14324,"ถ้าต้องการเขียน Comment ในไฟล์ CSS จะต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+466,14324,"ถ้าต้องการจะ select element ที่มี id เป็น \'simple\' ต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+467,14324,"Syntax ข้อใดใน CSS ถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+472,14324,"ถ้าต้องการ select p elements ทั้งหมดที่อยู่ใน div element ต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",11
+473,14324,"ถ้าต้องการจะเพิ่ม Image ต้องเขียน HTML อย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",12
+474,14324,"Attributes ใดที่ใช้ในการกำหนด inline styles",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",13
+475,14324,"ถ้าต้องการ select element ที่มี class name เป็น \'demo\' ต้องเขียนอย่างไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",14
+476,14285,"ถ้าต้องการเพิ่มไฟล์ทั้งหมดก่อนที่จะ Commit ต้องใช้คำสั่งใด",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+477,14285,"วิธีเช็คว่าตอนนี้เราอยู่ที่ Brach ไหน เราจะต้องใช้คำสั่งอะไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+478,14285,"ถ้าต้องการ clone code จาก github [https://github.com/NewGame0/Android_HelloWorld.git] จะต้องใช้คำสั่งใด ?",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+479,14285,"คำสั่งที่ใช้ตรวจสอบสถานะของ Source Code ว่าเป็น Staged หรือ Unstaged",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+480,14285,"คำสั่งใดต่อไปนี้ใช้ในการลบ Branch ที่เราไม่ต้องการ",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",6
+481,14285,"ถ้าเราเผลอไปใช้คำสั่ง git add *html จะทำให้ทุกไฟล์ที่ลงท้ายด้วย html ถูกเปลี่ยนสถานะเป็น Staged ซึ่งพร้อมจะ commit แล้ว แต่ว่าเรายังไม่ต้องการ commit และต้องการให้ไฟล์กลับมาเป็น unstaged จะต้องใช้คำสั่งใด ?",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",7
+484,14411,"ข้อไหนเรียงลำดับ design Process ได้ถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+485,14411,"ข้อไหนบ่งบอกถึง UI ได้ถูกต้องครอบคลุมมากที่สุด",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+486,14411,"ข้อไหนบ่งบอกถึง UX ได้ถูกต้องครอบคลุมมากที่สุด",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",3
+487,14411,"Persona จัดทำเพื่อสิ่งไหน",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+488,14411,"Customer Journey Map คืออะไร",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+491,14412,"HTML Element ไหนที่ใช้สำหรับใส่ Code JavaScript",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+492,14412,"การเขียนอ้างอิง External script ที่ถูกต้องควรเขียนอย่างไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",2
+493,14412,"ถ้าอยากให้แสดงข้อความว่า Hello Codecamp ในกล่อง alert box ต้องเขียนอย่างไร",,single_choice,1.00,"a:2:{s:13:"question_type";s:13:"single_choice";s:13:"question_mark";s:4:"1.00";}",3
+494,14412,"การประกาศฟังก์ชันใน JavaScript ข้อใดถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+495,14412,"ข้อใดคือการเขียน For Loop ที่ถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+496,14414,"ข้อใดประกาศ Array ได้ถูกต้อง",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+497,14414,"\"Widget\".startsWith(\"Wid\")",,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",2
+498,14414,"event ใดที่เกิดขึ้นเมื่อ user กดคลิกเมาส์",,single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3
+499,14414,"ฟังก์ชันที่ไม่มีการเขียน return จะได้ return ค่าเป็นอะไร","function doNothing() {
+ /* empty */ 
+}",single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",4
+500,14414,"ข้อใดเขียน arrow function ได้ถูกต้อง","function  (n) { return  x*2}",single_choice,1.00,"a:4:{s:13:"question_type";s:13:"single_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",5
+501,14616,"Big Data หมายถึงปริมาณข้อมูลที่มหาศาล ทั้งแบบข้อมูลที่มีโครงสร้างและไม่มีโครงสร้าง",,true_false,1.00,"a:4:{s:13:"question_type";s:10:"true_false";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",1
+502,14616,"อะไรคือ 3Vs ของ Big Data",,multiple_choice,1.00,"a:3:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";}",2
+503,14616,"Velocity ในคุณลักษณะของ Big Data มีความหมายว่าอย่างไร",,multiple_choice,1.00,"a:4:{s:13:"question_type";s:15:"multiple_choice";s:15:"answer_required";s:1:"1";s:13:"question_mark";s:4:"1.00";s:18:"show_question_mark";s:1:"1";}",3

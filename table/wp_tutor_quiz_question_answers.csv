@@ -1,0 +1,1858 @@
+answer_id,belongs_question_id,belongs_question_type,answer_title,is_correct,image_id,answer_two_gap_match,answer_view_format,answer_settings,answer_order
+1,5,single_choice,ไม่สนใจรายละเอียดที่ไม่จำเป็นในปัญหา,0,0,NULL,text,NULL,1
+2,5,single_choice,"แก้ไขปัญหาทั่วไป เพื่อให้สามารถแก้ไขได้ง่ายขึ้น",0,0,NULL,text,NULL,2
+3,5,single_choice,การแบ่งปัญหาหรือระบบที่ซับซ้อนออกเป็นปัญหาย่อยที่เล็กกว่าและจัดการได้มากกว่า,1,0,NULL,text,NULL,3
+4,5,single_choice,จัดลำดับความสำคัญของงานภายในปัญหาและกำหนดลำดับการปฏิบัติงาน,0,0,NULL,text,NULL,4
+5,6,single_choice,True,1,0,NULL,text,NULL,1
+6,6,single_choice,False,0,0,NULL,text,NULL,2
+7,7,multiple_choice,การพิจารณาว่าต้องการข้อมูลใดบ้าง,1,0,NULL,text,NULL,1
+8,7,multiple_choice,การแบ่งปัญหาออกเป็นปัญหาย่อยที่เล็กกว่า,NULL,0,NULL,text,NULL,2
+9,7,multiple_choice,การสรุปข้อมูลที่ไม่สำคัญ,1,0,NULL,text,NULL,3
+10,7,multiple_choice,ค้นหารูปแบบในข้อมูลนั้นๆ,NULL,0,NULL,text,NULL,4
+11,8,multiple_choice,"จะต้องทำอะไรบ้าง (คำสั่ง)",1,0,NULL,text,NULL,1
+12,8,multiple_choice,เวลาที่ต้องทำการสั่งคำสั่ง,NULL,0,NULL,text,NULL,2
+13,8,multiple_choice,ลำดับของคำแนะนำ,NULL,0,NULL,text,NULL,3
+14,8,multiple_choice,"คำอธิบายว่า คอมพิวเตอร์จะปฏิบัติตามคำสั่งแต่ละวิธีอย่างไร",1,0,NULL,text,NULL,4
+15,9,single_choice,"ศาสตร์เกี่ยวกับการศึกษาค้นคว้าทฤษฎีการคำนวณสำหรับคอมพิวเตอร์ และทฤษฎีการประมวลผลสารสนเทศ ทั้งด้านซอฟต์แวร์ ฮาร์ดแวร์ และ เครือข่าย",1,0,NULL,text,NULL,1
+16,9,single_choice,"ศาสตร์ที่เกี่ยวข้องกับการออกแบบและสร้างเครื่องหรือระบบคอมพิวเตอร์ และ ระบบที่ใช้คอมพิวเตอร์ ศาสตร์นี้เกี่ยวข้องกับการศึกษาทางด้านฮาร์ดแวร์ ซอฟต์แวร์ การสื่อสาร",0,0,NULL,text,NULL,2
+17,9,single_choice,"ศาสตร์ที่เป็นการศึกษาการเก็บ การวิเคราะห์ การตีความ การนำเสนอ และการจัดระเบียบข้อมูล",0,0,NULL,text,NULL,3
+18,9,single_choice,"ศาสตร์ที่นำข้อมูลมาผ่านระบบการประมวลผล คำนวณ วิเคราะห์และแปลความหมายเป็นข้อความที่สามารถนำไปใช้ประโยชน์ในด้านต่างๆ",0,0,NULL,text,NULL,4
+19,10,single_choice,"1 1 0 0 1 0 1 0",0,0,NULL,text,NULL,1
+20,10,single_choice,"1 1 1 0 1 1 1 0",0,0,NULL,text,NULL,2
+21,10,single_choice,"1 1 1 0 1 0 1 0",1,0,NULL,text,NULL,3
+22,10,single_choice,"1 0 1 0 1 0 1 1",0,0,NULL,text,NULL,4
+23,11,single_choice,66,0,0,NULL,text,NULL,1
+24,11,single_choice,55,1,0,NULL,text,NULL,2
+25,11,single_choice,44,0,0,NULL,text,NULL,3
+26,11,single_choice,33,0,0,NULL,text,NULL,4
+27,12,single_choice,"รหัสมาตรฐานของการพัฒนาเทคโนโลยี และสารสนเทศขั้นพื้นฐาน",0,0,NULL,text,NULL,1
+28,12,single_choice,"รหัสมาตรฐานเพื่อการประมวลผลข้อมูล ผ่านทางอินเตอร์พลีเตอร์",0,0,NULL,text,NULL,2
+29,12,single_choice,รหัสมาตรฐานสำหรับการเขียนโปรแกรมขั้นพื้นฐานทางคอมพิวเตอร์,0,0,NULL,text,NULL,3
+30,12,single_choice,รหัสมาตรฐานของสหรัฐอเมริกาเพื่อการแลกเปลี่ยนสารสนเทศ,1,0,NULL,text,NULL,4
+31,13,single_choice,"ทุกแผนภาพต้องลูกศรแสดงทิศทางการเข้า และออก",1,0,NULL,text,NULL,1
+32,13,single_choice,ใช้สัญลักษณ์ตามที่กำหนดไว้เพียงบางครั้ง,NULL,0,NULL,text,NULL,2
+33,13,single_choice,"ใช้คำอธิบายเนื้อหาให้ยาวได้มากที่สุด เพื่อให้ผู้อ่านเข้าใจในผังงาน",NULL,0,NULL,text,NULL,3
+34,13,single_choice,ไม่จำเป็นต้องมีการทดสอบความถูกต้องของผังงาน,NULL,0,NULL,text,NULL,4
+35,14,single_choice,ใช้คําสั่งเป็นภาษาคอมพิวเตอร์ระดับสูง,0,0,NULL,text,NULL,1
+36,14,single_choice,"ใช้ย่อหน้าในการแสดงกลุ่มของเงื่อนไข และคําสั่งย่อย",1,0,NULL,text,NULL,2
+37,14,single_choice,ในการเขียนคําส่ังสามารถมีทางออกหรือสิ้นสุดได้หลายทาง,NULL,0,NULL,text,NULL,3
+38,14,single_choice,ในการเขียนคําสั่งไม่จําเป็นต้องเรียงลําดับการทํางาน,NULL,0,NULL,text,NULL,4
+39,15,single_choice,"โปรแกรมภาษาพัฒนาโดยทีมงาน Media Lap MIT",0,0,NULL,text,NULL,1
+40,15,single_choice,โปรแกรมฝึกการเขียนคำสั่งด้วยการเขียนโปรแกรมภาษาอย่างง่าย,0,0,NULL,text,NULL,2
+41,15,single_choice,โปรแกรมในการต่อบล็อกคําสั่งเพื่อสร้างโปรแกรมสคริปต์ให้กับตัวละครเท่านั้น,0,0,NULL,text,NULL,3
+42,15,single_choice,"โปรแกรมภาษาที่ผู้เรียนสามารถสร้างชิ้นงานได้อย่างง่าย เช่น นิทานที่สามารถโต้ตอบกับผู้อ่านได้ ภาพเคลื่อนไหว เกม ดนตรี และศิลปะ",1,0,NULL,text,NULL,4
+43,16,single_choice,"ภาษาที่ใช้ในการสร้างหน้าเว็บ มีการใช้คำแนะนำและชุดแท็กต่าง ๆ เพื่อกำหนดลักษณะของเอกสาร",1,0,NULL,text,NULL,1
+44,16,single_choice,ชุดคำสั่งที่กำหนดวิธีที่เว็บเซิร์ฟเวอร์และเบราว์เซอร์ควรโต้ตอบ,NULL,0,NULL,text,NULL,2
+45,16,single_choice,ภาษาเขียนโปรแกรมระดับสูงที่ใช้กันอย่างกว้างขวางในการเขียนโปรแกรมสำหรับวัตถุประสงค์ทั่วไป,NULL,0,NULL,text,NULL,3
+46,16,single_choice,"ชื่อภาษาที่ใช้ในการเขียนโปรแกรมภาษาหนึ่ง ซึ่งถูกพัฒนาขึ้นมาโดย ไม่ยึดติดกับ แพลตฟอร์ม",NULL,0,NULL,text,NULL,4
+47,17,single_choice,เป็นโครงสร้างข้อมูลพื้นฐาน,0,0,NULL,text,NULL,1
+48,17,single_choice,ข้อมูลในลักษณะที่เป็นชุดข้อมูลเชื่อมโยงต่อเนื่องกันได้,0,0,NULL,text,NULL,2
+49,17,single_choice,"เป็นโครงสร้างการเก็บข้อมูลแบบเรียงทับซ้อน ที่ใช้นโยบายการจัดการข้อมูลแบบเข้าก่อน ออกทีหลัง",0,0,NULL,text,NULL,3
+50,17,single_choice,"เป็นโครงสร้างการเก็บข้อมูลที่ใช้นโยบายการจัดการ ข้อมูลแบบเข้าก่อน ออกก่อน",1,0,NULL,text,NULL,4
+51,18,single_choice," เป็นบัสแบบสองทิศทางใช้ในการส่งถ่ายข้อมูลระหว่างซีพียูกับยังหน่วยความจำ",1,0,NULL,text,NULL,1
+52,18,single_choice,เป็นบัสที่ใช้สำหรับเป็นเส้นทางเดินของสัญญาณกำหนดเวลา,NULL,0,NULL,text,NULL,2
+53,18,single_choice,เป็นบัสแบบทิศทางเดียวเป็นสัญญาณที่สร้างจากซีพียูที่ใช้ในการระบุตำแหน่งของหน่วยความจำ,NULL,0,NULL,text,NULL,3
+54,18,single_choice,ถูกทุกข้อ,NULL,0,NULL,text,NULL,4
+55,19,single_choice,"อ่านคำสั่งจากหน่วยความจำเข้ามาไว้ภายใน CPU",0,0,NULL,text,NULL,1
+56,19,single_choice,"เปลี่ยนค่า Program Counter (PC)",0,0,NULL,text,NULL,2
+57,19,single_choice,เปรียบเสมือนสมองของคอมพิวเตอร์,0,0,NULL,text,NULL,3
+58,19,single_choice,ทำการถอดรหัสคำสั่ง,1,0,NULL,text,NULL,4
+59,20,single_choice,เหมือนสายสัญญาณโทรศัพท์มีทองแดงอยู่ตรงแนวกลางหุ้มด้วยฉนวนและสายดิน,0,0,NULL,text,NULL,1
+60,20,single_choice,"เหมือนสายโทรศัพท์ตามบ้านภายในประกอบด้วยสายทองแดง 4 เส้น และหุ้มด้วยฉนวนภายนอก",1,0,NULL,text,NULL,2
+61,20,single_choice,"คล้ายสายโทรศัพท์ตามบ้านภายในประกอบด้วยสายทองแดง 8 เส้น",0,0,NULL,text,NULL,3
+62,20,single_choice,"คล้ายสายโทรศัพท์ตามบ้านภายในประกอบด้วยสายทองแดง 8 เส้น ด้านนอกมีฉนวนหุ้ม",0,0,NULL,text,NULL,4
+63,21,single_choice,"True or False statements",1,0,NULL,text,NULL,1
+64,21,single_choice,"A way to learn the coding to one side.",NULL,0,NULL,text,NULL,2
+65,21,single_choice,"A way to write numbers.",NULL,0,NULL,text,NULL,3
+66,21,single_choice,"They are the proper way of writing code.",NULL,0,NULL,text,NULL,4
+67,22,single_choice,การเลือกลายเส้นมาประกอบกันเพื่อให้เกิดความทันสมัย,0,0,NULL,text,NULL,1
+68,22,single_choice,การจัดการกับเส้นเพื่อให้อยู่ในรูปความสวยงาม,0,0,NULL,text,NULL,2
+69,22,single_choice,"การนำเส้นรูปต่าง ๆ มาประกอบเข้าด้วยกันเพื่อให้เกิดเป็นรูปร่างตามต้องการ",0,0,NULL,text,NULL,3
+70,22,single_choice,การถ่ายทอดรูปแบบความคิดออกมาเป็นผลงานที่ผู้อื่นสามารถรับรู้และมีความเข้าใจที่ตรงกัน,1,0,NULL,text,NULL,4
+71,23,single_choice,"เป็นเครือข่ายสาธารณะซึ่งสามารถใช้แลกเปลี่ยนข้อมูลและทำงานรูปแบบต่าง ๆ ได้",1,0,NULL,text,NULL,1
+72,23,single_choice,เป็นเครือข่ายที่จัดตั้งขึ้นเพื่อระดมมวลชนในการเปลี่ยนแปลงทางการเมือง,NULL,0,NULL,text,NULL,2
+73,23,single_choice,"เป็นเครือข่ายภายในองค์กรซึ่งสามารถใช้แจ้งข่าวสารข้อมูลต่าง ๆ ได้",NULL,0,NULL,text,NULL,3
+74,23,single_choice,เป็นเครือข่ายเฉพาะซึ่งผู้เข้าใช้งานจะต้องมีการลงชื่อเข้าใช้ทุกครั้ง,NULL,0,NULL,text,NULL,4
+75,24,single_choice,การเดารหัสผ่าน,0,0,NULL,text,NULL,1
+76,24,single_choice,"การโจมตี Denial of Service (DoS)",0,0,NULL,text,NULL,2
+77,24,single_choice,"การปล่อยไวรัส ที่เรียกตัวเองว่า “สมอง”",1,0,NULL,text,NULL,3
+78,24,single_choice,การใส่รหัสผ่านหลายๆครั้ง,0,0,NULL,text,NULL,4
+79,25,single_choice," แตกต่างตรงที่สามารถเชื่อมโยงได้ ในระยะทางที่ไกลมากกว่า",1,0,NULL,text,NULL,1
+80,25,single_choice,"มีการใช้งานที่คุ้มค่ากว่า และสามารถเชื่อมต่อได้อย่างหลากหลาย",NULL,0,NULL,text,NULL,2
+81,25,single_choice,"มีประสิทธิภาพกว่าประมวนผลไม่ค่อยถูกต้อง และไม่ค่อยแม่นยำ",NULL,0,NULL,text,NULL,3
+82,25,single_choice,"ราคาถูกกว่าเป็นอย่างมาก เมื่อเทียบกับ LAN",NULL,0,NULL,text,NULL,4
+83,26,single_choice,"1 Layer",0,0,NULL,text,NULL,1
+84,26,single_choice,"3 Layers",0,0,NULL,text,NULL,2
+85,26,single_choice,"5 Layers",0,0,NULL,text,NULL,3
+86,26,single_choice,"7 Layers",1,0,NULL,text,NULL,4
+87,27,single_choice,"การรวมกันของฮาร์ดแวร์ และซอฟต์แวร์",0,0,NULL,text,NULL,1
+88,27,single_choice,"ระบบหรือกลุ่ม ที่จัดการการเข้าถึงระหว่างเครือข่ายสองเครือข่ายหรือมากกว่า",1,0,NULL,text,NULL,2
+89,27,single_choice,"กำหนดเส้นทางพื้นฐานระหว่าง LAN เสมือน",0,0,NULL,text,NULL,3
+90,27,single_choice,อำนวยความสะดวกในการสื่อสารภายในอินเตอร์เน็ต,NULL,0,NULL,text,NULL,4
+91,28,single_choice,เป็นภาษาที่อธิบายถึงรายละเอียดของโครงสร้างและแบบของข้อมูล,0,0,NULL,text,NULL,1
+92,28,single_choice," เป็นภาษาพื้นฐานของการพัฒนาเว็บไซต์โดยเฉพาะ",1,0,NULL,text,NULL,2
+93,28,single_choice,เป็นภาษาที่ให้การชัดเจนในการแสดงรายละเอียดเกี่ยวกับข้อมูล,0,0,NULL,text,NULL,3
+94,28,single_choice,ภาษาโปรแกรมเชิงวัตถุ,NULL,0,NULL,text,NULL,4
+95,29,single_choice,Server,0,0,NULL,text,NULL,1
+96,29,single_choice,Client,1,0,NULL,text,NULL,2
+97,29,single_choice,ISP,NULL,0,NULL,text,NULL,3
+98,29,single_choice,Browser,NULL,0,NULL,text,NULL,4
+99,30,single_choice,"script src=”geek.js”",1,0,NULL,text,NULL,1
+100,30,single_choice,"script href=”geek.js”",NULL,0,NULL,text,NULL,2
+101,30,single_choice,"script ref=”geek.js”",NULL,0,NULL,text,NULL,3
+102,30,single_choice,"script name=”geek.js”",NULL,0,NULL,text,NULL,4
+103,31,single_choice,compiled,0,0,NULL,text,NULL,1
+104,31,single_choice,Interpreted,1,0,NULL,text,NULL,2
+105,31,single_choice,"ถูกทั้ง A และ B",NULL,0,NULL,text,NULL,3
+106,31,single_choice,ไม่มีข้อถูก,NULL,0,NULL,text,NULL,4
+107,32,single_choice,alertbox(“GeeksforGeeks”);,0,0,NULL,text,NULL,1
+108,32,single_choice,msg(“GeeksforGeeks”);,0,0,NULL,text,NULL,2
+109,32,single_choice,msgbox(“GeeksforGeeks”);,0,0,NULL,text,NULL,3
+110,32,single_choice,alert(“GeeksforGeeks”);,1,0,NULL,text,NULL,4
+111,33,single_choice,16,0,0,NULL,text,NULL,1
+112,33,single_choice,"Compilation Error",0,0,NULL,text,NULL,2
+113,33,single_choice,88,1,0,NULL,text,NULL,3
+114,33,single_choice,"Run Time Error",0,0,NULL,text,NULL,4
+115,34,single_choice,Interface,0,0,NULL,text,NULL,1
+116,34,single_choice,Throws,0,0,NULL,text,NULL,2
+117,34,single_choice,Program,1,0,NULL,text,NULL,3
+118,34,single_choice,Short,NULL,0,NULL,text,NULL,4
+119,35,single_choice,strip(),0,0,NULL,text,NULL,1
+120,35,single_choice,trim(),1,0,NULL,text,NULL,2
+121,35,single_choice,stripped(),0,0,NULL,text,NULL,3
+122,35,single_choice,trimmed(),0,0,NULL,text,NULL,4
+123,36,single_choice,"string / number",1,0,NULL,text,NULL,1
+124,36,single_choice,"string / string",0,0,NULL,text,NULL,2
+125,36,single_choice,"null / null",0,0,NULL,text,NULL,3
+126,36,single_choice,"string / integer",0,0,NULL,text,NULL,4
+127,37,single_choice,"function = Geekfunc()",0,0,NULL,text,NULL,1
+128,37,single_choice,"function  Geekfunc()",1,0,NULL,text,NULL,2
+129,37,single_choice,"function := Geekfunc()",NULL,0,NULL,text,NULL,3
+130,37,single_choice,"function : Geekfunc()",NULL,0,NULL,text,NULL,4
+131,38,single_choice,"มัน return object ด้วยกลุ่มสี และ array ที่มีค่าของ param",0,0,NULL,text,NULL,1
+132,38,single_choice,"มันเปลี่ยน red,green และ blue เป็นค่า hex values ของมัน",1,0,NULL,text,NULL,2
+133,38,single_choice,"ถูกทั้ง A และ B",NULL,0,NULL,text,NULL,3
+134,38,single_choice,ไม่มีข้อถูก,NULL,0,NULL,text,NULL,4
+135,39,multiple_choice,บริษัทที่ใช้แต่Technology,NULL,0,NULL,text,NULL,1
+136,39,multiple_choice,บริษัทที่เน้นการเติบโตอย่างรวดเร็ว,1,0,NULL,text,NULL,2
+137,39,multiple_choice,บริษัทที่เน้นขายผ่านช่องทางออนไลน์,NULL,0,NULL,text,NULL,3
+138,39,multiple_choice,บริษัทที่สามารถขยายตัวได้รวดเร็ว,1,0,NULL,text,NULL,4
+139,40,single_choice,"ความสามารถในการสร้าง Technology",0,0,NULL,text,NULL,1
+140,40,single_choice,ความสามารถในการทำกำไร,0,0,NULL,text,NULL,2
+141,40,single_choice,ความสามารถในการหาเงินทุน,0,0,NULL,text,NULL,3
+142,40,single_choice,ความสามารถในการปรับตัว,1,0,NULL,text,NULL,4
+143,42,single_choice,Agile,0,0,NULL,text,NULL,1
+144,42,single_choice,Scrum,0,0,NULL,text,NULL,2
+145,42,single_choice,Waterfall,1,0,NULL,text,NULL,3
+146,42,single_choice,Learn,0,0,NULL,text,NULL,4
+147,43,single_choice,เพื่อหาเงินลงทุน,0,0,NULL,text,NULL,1
+148,43,single_choice,เพื่อพิสูจน์ปัญหาและกลุ่มเป้าหมาย,1,0,NULL,text,NULL,2
+149,43,single_choice,เพื่อขายสินค้าล่วงหน้า,NULL,0,NULL,text,NULL,3
+150,43,single_choice,เพื่อสร้างฐานลูกค้า,NULL,0,NULL,text,NULL,4
+151,44,single_choice,รู้ว่าตัวเองมีปัญหา,0,0,NULL,text,NULL,1
+152,44,single_choice,มองหาวิธีแก้ปัญหา,0,0,NULL,text,NULL,2
+153,44,single_choice,จ่ายเงินเพื่อแก้ปัญหา,1,0,NULL,text,NULL,3
+154,44,single_choice,มีปัญหาจริง,NULL,0,NULL,text,NULL,4
+155,45,single_choice,เพื่อไปรับฟังปัญหาของลูกค้า,1,0,NULL,text,NULL,1
+156,45,single_choice,เพื่อไปเสนอวิธีแก้ปัญหา,0,0,NULL,text,NULL,2
+157,45,single_choice,เพื่อไปขายสินค้า,NULL,0,NULL,text,NULL,3
+158,45,single_choice,เพื่อไปขอคำปรึกษา,NULL,0,NULL,text,NULL,4
+159,46,single_choice,สวยงามทันสมัย,0,0,NULL,text,NULL,1
+160,46,single_choice,"ใช้ Technology ที่ดี",0,0,NULL,text,NULL,2
+161,46,single_choice,สื่อสารได้ว่าสินค้าของเราคืออะไร,1,0,NULL,text,NULL,3
+162,46,single_choice,"ควรจะยาว ๆ เพื่อของ Page สามารถขึ้นบินได้ง่าย",NULL,0,NULL,text,NULL,4
+163,47,single_choice,"ทำ PAPER PROTOTYPE",0,0,NULL,text,NULL,1
+164,47,single_choice,"ทำ Landing Page เพื่อทดสอบความสนใจ",1,0,NULL,text,NULL,2
+165,47,single_choice,"ทำ CONCIERGE MVP",NULL,0,NULL,text,NULL,3
+166,47,single_choice,"ทำ instant page เพื่อทดสอบข้อจำกัดของเพจ",NULL,0,NULL,text,NULL,4
+168,48,single_choice,h1,1,0,NULL,text,NULL,1
+169,48,single_choice,h6,0,0,NULL,text,NULL,2
+170,48,single_choice,heading,NULL,0,NULL,text,NULL,3
+171,48,single_choice,head,NULL,0,NULL,text,NULL,4
+172,48,single_choice,top,NULL,0,NULL,text,NULL,5
+173,48,single_choice,toping,NULL,0,NULL,text,NULL,6
+174,48,single_choice,highlight,NULL,0,NULL,text,NULL,7
+175,48,single_choice,important,NULL,0,NULL,text,NULL,8
+176,49,single_choice,callline,0,0,NULL,text,NULL,1
+177,49,single_choice,breakline,0,0,NULL,text,NULL,2
+178,49,single_choice,bl,0,0,NULL,text,NULL,3
+179,49,single_choice,nl,0,0,NULL,text,NULL,4
+180,49,single_choice,newline,0,0,NULL,text,NULL,5
+181,49,single_choice,linebreak,0,0,NULL,text,NULL,6
+182,49,single_choice,br,1,0,NULL,text,NULL,7
+183,49,single_choice,break,0,0,NULL,text,NULL,8
+184,50,single_choice,"[body bg=yellow]",0,0,NULL,text,NULL,1
+185,50,single_choice,"[background] yellow [/background]",0,0,NULL,text,NULL,2
+186,50,single_choice,"[bg] yellow [/bg]",0,0,NULL,text,NULL,3
+187,50,single_choice,"[ body style = backgroundColor :yellow ]",0,0,NULL,text,NULL,4
+188,50,single_choice,"[ body style = background-color: yellow ]",1,0,NULL,text,NULL,5
+189,50,single_choice,"[ body style = background_Color: yellow ]",0,0,NULL,text,NULL,6
+190,50,single_choice,"[ body background = yellow ]",0,0,NULL,text,NULL,7
+191,50,single_choice,"[ body color_background = yellow ]",NULL,0,NULL,text,NULL,8
+192,51,single_choice,"[a url = http://course.digitalskill.org] CodeCamps [/a]",0,0,NULL,text,NULL,1
+193,51,single_choice,"[a name = http://course.digitalskill.org] CodeCamps [/a]",0,0,NULL,text,NULL,2
+194,51,single_choice,"[a] http://course.digitalskill.org [/a]",0,0,NULL,text,NULL,3
+195,51,single_choice,"[a href= http://course.digitalskill.org] CodeCamps [/a]",1,0,NULL,text,NULL,4
+196,51,single_choice,"[link url= http://course.digitalskill.org] CodeCamps [/link]",NULL,0,NULL,text,NULL,5
+197,51,single_choice,"[link name= http://course.digitalskill.org] CodeCamps [/link]",NULL,0,NULL,text,NULL,6
+198,51,single_choice,"[link] http://course.digitalskill.org [/link]",NULL,0,NULL,text,NULL,7
+199,51,single_choice,"[link href= http://course.digitalskill.org] CodeCamps [/link]",NULL,0,NULL,text,NULL,8
+200,52,single_choice,"&lt;a url=&quot;http://course.digitalskill.org&quot; new&gt;CodeCamps&lt;/a&gt;",0,0,NULL,text,NULL,1
+201,52,single_choice,"&lt;a name=&quot;http://course.digitalskill.org&quot; target=&quot;_blank&quot;&gt;CodeCamps&lt;/a&gt;",0,0,NULL,text,NULL,2
+202,52,single_choice,"&lt;a new&gt;http://course.digitalskill.org&lt;/a&gt;",0,0,NULL,text,NULL,3
+203,52,single_choice,"&lt;a href=&quot;http://course.digitalskill.org&quot; target=&quot;_blank&quot;&gt;CodeCamps&lt;/a&gt;",1,0,NULL,text,NULL,4
+204,52,single_choice,"&lt;link url=&quot;http://course.digitalskill.org&quot; new&gt;CodeCamps&lt;/link&gt;",NULL,0,NULL,text,NULL,5
+205,52,single_choice,"&lt;link name=&quot;http://course.digitalskill.org&quot; target=&quot;_blank&quot;&gt;CodeCamps&lt;/link&gt;",NULL,0,NULL,text,NULL,6
+206,52,single_choice,"&lt;link new&gt;http://course.digitalskill.org&lt;/link&gt;",NULL,0,NULL,text,NULL,7
+207,52,single_choice,"&lt;link href=&quot;http://course.digitalskill.org&quot; target=&quot;_blank&quot;&gt;CodeCamps&lt;/link&gt;",NULL,0,NULL,text,NULL,8
+208,53,single_choice,dl,0,0,NULL,text,NULL,1
+209,53,single_choice,list,0,0,NULL,text,NULL,2
+210,53,single_choice,ul,0,0,NULL,text,NULL,3
+211,53,single_choice,ol,1,0,NULL,text,NULL,4
+212,53,single_choice,numlist,NULL,0,NULL,text,NULL,5
+213,53,single_choice,orderlist,NULL,0,NULL,text,NULL,6
+214,53,single_choice,numericlist,NULL,0,NULL,text,NULL,7
+215,53,single_choice,breaklist,NULL,0,NULL,text,NULL,8
+216,54,single_choice,ตรงไหนก็ได้,0,0,NULL,text,NULL,1
+217,54,single_choice,"ในtag  head ",1,0,NULL,text,NULL,2
+218,54,single_choice,"ใน tag body",0,0,NULL,text,NULL,3
+219,54,single_choice,"ใน tag stylesheet",0,0,NULL,text,NULL,4
+220,54,single_choice,"ใน tag ref",0,0,NULL,text,NULL,5
+221,54,single_choice,ไว้ล่างสุด,NULL,0,NULL,text,NULL,6
+222,54,single_choice,"ไว้ด้านบนสุดเหนือ tag html",NULL,0,NULL,text,NULL,7
+223,55,single_choice,iss,0,0,NULL,text,NULL,1
+224,55,single_choice,script,0,0,NULL,text,NULL,2
+225,55,single_choice,link,0,0,NULL,text,NULL,3
+226,55,single_choice,ref,0,0,NULL,text,NULL,4
+227,55,single_choice,internalsheet,0,0,NULL,text,NULL,5
+228,55,single_choice,style,1,0,NULL,text,NULL,6
+229,55,single_choice,css,0,0,NULL,text,NULL,7
+230,55,single_choice,scr,NULL,0,NULL,text,NULL,8
+231,56,single_choice,ils,0,0,NULL,text,NULL,1
+232,56,single_choice,inline,0,0,NULL,text,NULL,2
+233,56,single_choice,inlinestyles,0,0,NULL,text,NULL,3
+234,56,single_choice,style,1,0,NULL,text,NULL,4
+235,56,single_choice,styles,NULL,0,NULL,text,NULL,5
+236,56,single_choice,css,NULL,0,NULL,text,NULL,6
+237,56,single_choice,script,NULL,0,NULL,text,NULL,7
+238,57,single_choice,"ทำใจให้ชิน แล้วดิ่ง ข.ไข่",0,0,NULL,text,NULL,1
+239,57,single_choice,"h1 {background-color:#FFFFFF;}",1,0,NULL,text,NULL,2
+240,57,single_choice,"h1.all {background-color:#FFFFFF;}",0,0,NULL,text,NULL,3
+241,57,single_choice,"all.h1 {background-color:#FFFFFF;}",0,0,NULL,text,NULL,4
+242,57,single_choice,"h1#all {background-color:#FFFFFF;}",NULL,0,NULL,text,NULL,5
+243,57,single_choice,"all#h1 {background-color:#FFFFFF;}",NULL,0,NULL,text,NULL,6
+244,57,single_choice,"h1;all {background-color:#FFFFFF;}",NULL,0,NULL,text,NULL,7
+245,57,single_choice,"all;h1 {background-color:#FFFFFF;}",NULL,0,NULL,text,NULL,8
+246,58,single_choice,link,0,0,NULL,text,NULL,1
+247,58,single_choice,jquery,0,0,NULL,text,NULL,2
+248,58,single_choice,js,0,0,NULL,text,NULL,3
+249,58,single_choice,javascript,0,0,NULL,text,NULL,4
+250,58,single_choice,mairookub,0,0,NULL,text,NULL,5
+251,58,single_choice,scripting,0,0,NULL,text,NULL,6
+252,58,single_choice,scripts,0,0,NULL,text,NULL,7
+253,58,single_choice,script,1,0,NULL,text,NULL,8
+254,59,single_choice,"#demo.innerHTML = \"Hello World!\";",0,0,NULL,text,NULL,1
+255,59,single_choice,"document.getElement(\"p\") = \"Hello World!\";",0,0,NULL,text,NULL,2
+256,59,single_choice,"document.getElement(\"p\").innerHTML = \"Hello World!\";",0,0,NULL,text,NULL,3
+257,59,single_choice,"document.getElementById(\"demo\") = \"Hello World!\";",0,0,NULL,text,NULL,4
+258,59,single_choice,"document.getElementById(\"demo\").innerHTML = \"Hello World!\";",1,0,NULL,text,NULL,5
+259,59,single_choice,"document.getElementByName(\"p\") = \"Hello World!\";",NULL,0,NULL,text,NULL,6
+260,59,single_choice,"document.getElementByName(\"p\").innerHTML = \"Hello World!\";",NULL,0,NULL,text,NULL,7
+261,59,single_choice,"document.getElementByName(\"demo\").innerHTML = \"Hello World!\";",NULL,0,NULL,text,NULL,8
+262,60,single_choice,"alertBox(\"Hello World\");",0,0,NULL,text,NULL,1
+263,60,single_choice," log(\"Hello World\");",0,0,NULL,text,NULL,2
+264,60,single_choice,"msgbox(\"Hello World\");",0,0,NULL,text,NULL,3
+265,60,single_choice,"msg(\"Hello World\");",0,0,NULL,text,NULL,4
+266,60,single_choice,"alert-box(\"Hello World\");",0,0,NULL,text,NULL,5
+267,60,single_choice,"alerts(\"Hello World\");",0,0,NULL,text,NULL,6
+268,60,single_choice,"alert(\"Hello World\");",1,0,NULL,text,NULL,7
+269,60,single_choice,"alt(\"Hello World\");",NULL,0,NULL,text,NULL,8
+270,61,single_choice,"var colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")",0,0,NULL,text,NULL,1
+271,61,single_choice,"var colors = \"red\", \"green\", \"blue\"",0,0,NULL,text,NULL,2
+272,61,single_choice,"var colors = [\"red\", \"green\", \"blue\"]",1,0,NULL,text,NULL,3
+273,61,single_choice,"var colors = (1:\"red\", 2:\"green\", 3:\"blue\")",NULL,0,NULL,text,NULL,4
+274,61,single_choice,"arrays colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")",NULL,0,NULL,text,NULL,5
+275,61,single_choice,"arrays colors = \"red\", \"green\", \"blue\"",NULL,0,NULL,text,NULL,6
+276,61,single_choice,"arrays colors = [\"red\", \"green\", \"blue\"]",NULL,0,NULL,text,NULL,7
+277,61,single_choice,"arrays colors = (1:\"red\", 2:\"green\", 3:\"blue\")",NULL,0,NULL,text,NULL,8
+278,62,multiple_choice,"Java เป็นชื่อเรียกแบบสั้น ๆ ของภาษา JavaScript",NULL,0,NULL,text,NULL,1
+279,62,multiple_choice,"JavaScript จะมีการประกาศตัวแปรอยู่ 4 วิธีคือใช้ var, let, const หรือจะไม่ระบุอะไรเลยก็ได้(เช่น x = 1)",1,0,NULL,text,NULL,2
+280,62,multiple_choice,"console.log(1 === \'1\') จะแสดงค่าออกมาเป็น True",NULL,0,NULL,text,NULL,3
+281,62,multiple_choice,"console.log(1 == \'1\') จะแสดงค่าออกมาเป็น True",1,0,NULL,text,NULL,4
+282,62,multiple_choice,"JavaScript สามารถส่ง function เป็น argument เข้าไปใน function อื่นๆ ได้",1,0,NULL,text,NULL,5
+283,62,multiple_choice,"Function ใน JavaScript สามารถ return ค่าออกมาเป็น function ได้",1,0,NULL,text,NULL,6
+284,62,multiple_choice,"setInterval ทำงานแบบ Asynchronous ใน JavaScript",1,0,NULL,text,NULL,7
+285,62,multiple_choice,"JavaScript พัฒนามาจากภาษา Java",NULL,0,NULL,text,NULL,8
+286,63,single_choice,onchange,0,0,NULL,text,NULL,1
+287,63,single_choice,on_change,0,0,NULL,text,NULL,2
+288,63,single_choice,onmouseover,0,0,NULL,text,NULL,3
+289,63,single_choice,on_mouse_over,0,0,NULL,text,NULL,4
+290,63,single_choice,onmouseclick,0,0,NULL,text,NULL,5
+291,63,single_choice,on_mouse_click,0,0,NULL,text,NULL,6
+292,63,single_choice,onclick,1,0,NULL,text,NULL,7
+293,63,single_choice,on_click,0,0,NULL,text,NULL,8
+294,64,single_choice,€,0,0,NULL,text,NULL,1
+295,64,single_choice,?,0,0,NULL,text,NULL,2
+296,64,single_choice,฿,0,0,NULL,text,NULL,3
+297,64,single_choice,₩,0,0,NULL,text,NULL,4
+298,64,single_choice,$,1,0,NULL,text,NULL,5
+299,64,single_choice,¥,NULL,0,NULL,text,NULL,6
+300,64,single_choice,*,NULL,0,NULL,text,NULL,7
+301,64,single_choice,^,NULL,0,NULL,text,NULL,8
+302,65,single_choice,"€(\"div\").yPos(100)",0,0,NULL,text,NULL,1
+303,65,single_choice,"€(\"div\").height=\"100\"",0,0,NULL,text,NULL,2
+304,65,single_choice,"€(\"div\").height(100)",0,0,NULL,text,NULL,3
+305,65,single_choice,"?(\"div\").yPos(100)",0,0,NULL,text,NULL,4
+306,65,single_choice,"?(\"div\").height=\"100\"",0,0,NULL,text,NULL,5
+307,65,single_choice,"?(\"div\").height(100)",0,0,NULL,text,NULL,6
+308,65,single_choice,"$(\"div\").yPos(100)",0,0,NULL,text,NULL,7
+309,65,single_choice,"$(\"div\").height=\"100\"",0,0,NULL,text,NULL,8
+310,65,single_choice,"$(\"div\").height(100)",1,0,NULL,text,NULL,9
+311,65,single_choice,"฿(\"div\").yPos(100)",NULL,0,NULL,text,NULL,10
+312,65,single_choice,"฿(\"div\").height=\"100\"",NULL,0,NULL,text,NULL,11
+313,65,single_choice,"฿(\"div\").height(100)",NULL,0,NULL,text,NULL,12
+314,65,single_choice,"₩(\"div\").yPos(100)",NULL,0,NULL,text,NULL,13
+315,65,single_choice,"₩(\"div\").height=\"100\"",NULL,0,NULL,text,NULL,14
+316,65,single_choice,"₩(\"div\").height(100)",NULL,0,NULL,text,NULL,15
+317,65,single_choice,"¥(\"div\").yPos(100)",NULL,0,NULL,text,NULL,16
+318,65,single_choice,"¥(\"div\").height=\"100\"",NULL,0,NULL,text,NULL,17
+319,65,single_choice,"¥(\"div\").height(100)",NULL,0,NULL,text,NULL,18
+320,65,single_choice,"*(\"div\").yPos(100)",NULL,0,NULL,text,NULL,19
+321,65,single_choice,"*(\"div\").height=\"100\"",NULL,0,NULL,text,NULL,20
+322,65,single_choice,"*(\"div\").height(100)",NULL,0,NULL,text,NULL,21
+323,65,single_choice,"^(\"div\").yPos(100)",NULL,0,NULL,text,NULL,22
+324,65,single_choice,"^(\"div\").height=\"100\"",NULL,0,NULL,text,NULL,23
+325,65,single_choice,"^(\"div\").height(100)",NULL,0,NULL,text,NULL,24
+326,66,multiple_choice,บริษัทที่ใช้แต่Technology,NULL,0,NULL,text,NULL,1
+327,66,multiple_choice,บริษัทที่เน้นการเติบโตอย่างรวดเร็ว,1,0,NULL,text,NULL,2
+328,66,multiple_choice,บริษัทที่เน้นขายผ่านช่องทางออนไลน์,NULL,0,NULL,text,NULL,3
+329,66,multiple_choice,บริษัทที่สามารถขยายตัวได้รวดเร็ว,1,0,NULL,text,NULL,4
+330,67,single_choice,การเติบโตที่รวดเร็ว,0,0,NULL,text,NULL,1
+331,67,single_choice,การเติบโตที่ยั่งยืน,1,0,NULL,text,NULL,2
+332,67,single_choice,การเติบโตด้านเงินทุน,NULL,0,NULL,text,NULL,3
+333,67,single_choice,การเติบโตของกำไร,NULL,0,NULL,text,NULL,4
+334,68,single_choice,การกู้ยืม,0,0,NULL,text,NULL,1
+335,68,single_choice,สินเชื่อธนาคาร,0,0,NULL,text,NULL,2
+336,68,single_choice,"ระดมทุนจากนักลงทุน เช่น Venture capital",1,0,NULL,text,NULL,3
+337,68,single_choice,เงินจากเจ้าของ,NULL,0,NULL,text,NULL,4
+338,69,single_choice,ทำซ้ำได้ง่าย+ขยายได้ง่าย,1,0,NULL,text,NULL,1
+339,69,single_choice,กำไรเยอะ+ยอดขายเยอะ,NULL,0,NULL,text,NULL,2
+340,69,single_choice,หุ้นส่วนเยอะ+เงินทุนเยอะ,NULL,0,NULL,text,NULL,3
+341,69,single_choice,ซื้อง่าย+ขายคล่อง,NULL,0,NULL,text,NULL,4
+342,71,single_choice,อยากทำกำไรเยอะๆ,0,0,NULL,text,NULL,1
+343,71,single_choice,อยากแก้ปัญหาของลูกค้า,1,0,NULL,text,NULL,2
+344,71,single_choice,อยากสร้างของเจ๋งๆ,NULL,0,NULL,text,NULL,3
+345,71,single_choice,"อยากดัง อยากเป็นที่รู้จัก",NULL,0,NULL,text,NULL,4
+346,72,single_choice,สินค้าที่ดี,0,0,NULL,text,NULL,1
+347,72,single_choice,"Technology ล้ำสมัย",0,0,NULL,text,NULL,2
+348,72,single_choice,Internet,1,0,NULL,text,NULL,3
+349,72,single_choice,การบอกต่อของลูกค้า,0,0,NULL,text,NULL,4
+350,73,single_choice,"ความสามารถในการสร้าง Technology",0,0,NULL,text,NULL,1
+351,73,single_choice,ความสามารถในการทำกำไร,0,0,NULL,text,NULL,2
+352,73,single_choice,ความสามารถในการหาเงินทุน,0,0,NULL,text,NULL,3
+353,73,single_choice,ความสามารถในการปรับตัว,1,0,NULL,text,NULL,4
+354,75,single_choice,"เพราะ Startup มีเงินจำกัด",1,0,NULL,text,NULL,1
+355,75,single_choice,"เพื่อนำมาพัฒนา Technology",0,0,NULL,text,NULL,2
+356,75,single_choice,เพราะช่วยให้ขยายตลาดได้ง่าย,0,0,NULL,text,NULL,3
+357,75,single_choice,เพื่อให้โปรโมตได้เร็ว,0,0,NULL,text,NULL,4
+358,76,single_choice,เพราะStartupทำการตลาดไม่ดี,0,0,NULL,text,NULL,1
+359,76,single_choice,เพราะStartupสร้างสิ่งที่ไม่มีคนต้องการ,1,0,NULL,text,NULL,2
+360,76,single_choice,เพราะStartupมีเงินจำกัด,NULL,0,NULL,text,NULL,3
+361,76,single_choice,เพราะStartupมีต้นทุนสูง,NULL,0,NULL,text,NULL,4
+362,77,single_choice,Agile,0,0,NULL,text,NULL,1
+363,77,single_choice,Scrum,0,0,NULL,text,NULL,2
+364,77,single_choice,Waterfall,1,0,NULL,text,NULL,3
+365,77,single_choice,Lean,NULL,0,NULL,text,NULL,4
+366,78,single_choice,พฤติกรรมผู้ใช้ไม่เปลี่ยน,0,0,NULL,text,NULL,1
+367,78,single_choice,เราไม่รู้ชัดเจนว่าจะต้องสร้างอะไร,1,0,NULL,text,NULL,2
+368,78,single_choice,เพราะเราไม่ต้องการความเร็ว,NULL,0,NULL,text,NULL,3
+369,78,single_choice,"Technology ไม่เปลี่ยนไป",NULL,0,NULL,text,NULL,4
+370,79,single_choice,"เนื่องจากเรายังไม่มั่นใจว่าเราจะทำ Product อะไรและอาจจะมีเปลี่ยงแปลงในภายหลัง",1,0,NULL,text,NULL,1
+371,79,single_choice,เพราะการเขียนแผนธุรกิจจะทำให้เราโฟกัสกับกำไรมากเกินแทนที่จะโฟกัสกับคุณภาพสินค้าในปัจจุบัน,0,0,NULL,text,NULL,2
+372,79,single_choice,"เนื่องจาก Technology ที่เราจะทำในตอนนี้มีเยอะเกินไปจึงต้องแน่ใจก่อนเขียนแผนธุรกิจ",NULL,0,NULL,text,NULL,3
+373,79,single_choice,"เพราะ Startup ต้อง Start จากข้างบนก่อนคือ กำไร",NULL,0,NULL,text,NULL,4
+374,81,single_choice,Agile-Scrum,0,0,NULL,text,NULL,1
+375,81,single_choice,"Marketing 6P",0,0,NULL,text,NULL,2
+376,81,single_choice,BUILD-MEASURE-LEARN,1,0,NULL,text,NULL,3
+377,81,single_choice,"Minimum Viable Product (MVP)",NULL,0,NULL,text,NULL,4
+378,82,single_choice,เพื่อหาเงินลงทุน,0,0,NULL,text,NULL,1
+379,82,single_choice,เพื่อพิสูจน์ปัญหาและกลุ่มเป้าหมาย,1,0,NULL,text,NULL,2
+380,82,single_choice,เพื่อขายสินค้าล่วงหน้า,NULL,0,NULL,text,NULL,3
+381,82,single_choice,เพื่อสร้างฐานลูกค้า,NULL,0,NULL,text,NULL,4
+382,83,single_choice,"Get out of the Building",0,0,NULL,text,NULL,1
+383,83,single_choice,"Idea Generation",0,0,NULL,text,NULL,2
+384,83,single_choice,Sell,0,0,NULL,text,NULL,3
+385,83,single_choice,"Build > Measure > Learn",1,0,NULL,text,NULL,4
+386,85,single_choice,งานประจำของลูกค้า,0,0,NULL,text,NULL,1
+387,85,single_choice,สิ่งที่ลูกค้าอยากทำให้เสร็จ,1,0,NULL,text,NULL,2
+388,85,single_choice,งานที่ลูกค้าอยากจะจ้างคนมาทำ,NULL,0,NULL,text,NULL,3
+389,85,single_choice,งานของลูกค้า,NULL,0,NULL,text,NULL,4
+390,86,single_choice,ปัญหาที่เกิดกับเราด้วย,0,0,NULL,text,NULL,1
+391,86,single_choice,ปัญหาระดับประเทศ,0,0,NULL,text,NULL,2
+392,86,single_choice,ปัญหาที่แก้ได้ง่าย,0,0,NULL,text,NULL,3
+393,86,single_choice,"ปัญหาที่ลูกค้าเจอหนักๆ และ เจอบ่อยๆ",1,0,NULL,text,NULL,4
+394,87,single_choice,รู้ว่าตัวเองมีปัญหา,0,0,NULL,text,NULL,1
+395,87,single_choice,มองหาวิธีแก้ปัญหา,0,0,NULL,text,NULL,2
+396,87,single_choice,จ่ายเงินเพื่อแก้ปัญหา,1,0,NULL,text,NULL,3
+397,87,single_choice,มีปัญหาจริง,NULL,0,NULL,text,NULL,4
+398,89,single_choice,"ทดลองขายเพื่อทดสอบตลาด (Pre-sell)",0,0,NULL,text,NULL,1
+399,89,single_choice,"ออกสำรวจตลาด (Exploration)",1,0,NULL,text,NULL,2
+400,89,single_choice,"ทดลองให้บริการจริง (Concierge)",NULL,0,NULL,text,NULL,3
+401,89,single_choice,ทำการตลาด,NULL,0,NULL,text,NULL,4
+402,90,single_choice,เพื่อไปรับฟังปัญหาของลูกค้า,1,0,NULL,text,NULL,1
+403,90,single_choice,เพื่อไปเสนอวิธีแก้ปัญหา,NULL,0,NULL,text,NULL,2
+404,90,single_choice,เพื่อไปขายสินค้า,NULL,0,NULL,text,NULL,3
+405,90,single_choice,เพื่อไปขอคำปรึกษา,NULL,0,NULL,text,NULL,4
+406,91,single_choice,ไอเดียไม่ดี,0,0,NULL,text,NULL,1
+407,91,single_choice,สินค้าไม่ดี,0,0,NULL,text,NULL,2
+408,91,single_choice,"อคติ ของเราที่จะชี้นำลูกค้าให้ตอบตามที่เราคิด",1,0,NULL,text,NULL,3
+409,91,single_choice,สถานที่ไม่อำนวย,NULL,0,NULL,text,NULL,4
+410,92,single_choice,พิสูจน์ว่าไอเดียของเราถูก,0,0,NULL,text,NULL,1
+411,92,single_choice,พิสูจน์สมมติฐานและเก็บข้อมูลเพิ่มเติม,1,0,NULL,text,NULL,2
+412,92,single_choice,ขายสินค้าจากไอเดียของเรา,NULL,0,NULL,text,NULL,3
+413,92,single_choice,ทำการตลาด,NULL,0,NULL,text,NULL,4
+414,93,single_choice,"MVP - Minimum Viable Product",1,0,NULL,text,NULL,1
+415,93,single_choice,"MVP - Maximum Vision Possible",NULL,0,NULL,text,NULL,2
+416,93,single_choice,"MVP - Most Valuable Person",NULL,0,NULL,text,NULL,3
+417,94,single_choice,ทดสอบว่าจะขายดีไหม,0,0,NULL,text,NULL,1
+418,94,single_choice,"ทดสอบว่า Technology ดีพอไหม",0,0,NULL,text,NULL,2
+419,94,single_choice,ทดสอบว่าคุณค่านี้ลูกค้ายอมจ่ายไหม,1,0,NULL,text,NULL,3
+420,95,single_choice,สวยงามทันสมัย,0,0,NULL,text,NULL,1
+421,95,single_choice,"ใช้ Technology ที่ดี",0,0,NULL,text,NULL,2
+422,95,single_choice,สื่อสารได้ว่าสินค้าของเราคืออะไร,1,0,NULL,text,NULL,3
+423,96,single_choice,การทดสอบตลาดด้วยการส่งมอบประสบการณ์จริงให้กับลูกค้า,1,0,NULL,text,NULL,1
+424,96,single_choice,"การบริการหน้า Reception โรงแรม",NULL,0,NULL,text,NULL,2
+425,96,single_choice,"การทำ Landing Page เพื่อทดสอบความสนใจ",NULL,0,NULL,text,NULL,3
+426,97,single_choice,สร้างหน้าร้านเพื่อทดสอบ,0,0,NULL,text,NULL,1
+427,97,single_choice,ใช้ทดสอบขายสินค้าตรงๆ,0,0,NULL,text,NULL,2
+428,97,single_choice,"ใช้ solution ที่มีอยู่แล้ว หรือของคู่แข่ง เอามา test",1,0,NULL,text,NULL,3
+429,98,single_choice,"ทำ PAPER PROTOTYPE",0,0,NULL,text,NULL,1
+430,98,single_choice,"ทำ Landing Page เพื่อทดสอบความสนใจ",1,0,NULL,text,NULL,2
+431,98,single_choice,"ทำ CONCIERGE MVP",NULL,0,NULL,text,NULL,3
+432,101,single_choice,"Server ",0,0,NULL,text,NULL,1
+433,101,single_choice,"Client ",1,0,NULL,text,NULL,2
+434,101,single_choice,ISP,0,0,NULL,text,NULL,3
+435,101,single_choice,"Browser ",0,0,NULL,text,NULL,4
+436,102,single_choice,Function,0,0,NULL,text,NULL,1
+437,102,single_choice,File,1,0,NULL,text,NULL,2
+438,102,single_choice,FileUpload,0,0,NULL,text,NULL,3
+439,102,single_choice,Date,0,0,NULL,text,NULL,4
+440,103,single_choice,javascript,0,0,NULL,text,NULL,1
+441,103,single_choice,scripted,0,0,NULL,text,NULL,2
+442,103,single_choice,script,1,0,NULL,text,NULL,3
+443,103,single_choice,js,0,0,NULL,text,NULL,4
+444,104,single_choice,"script src=”geek.js”",1,0,NULL,text,NULL,1
+445,104,single_choice,"script href=”geek.js”",0,0,NULL,text,NULL,2
+446,104,single_choice,"script ref=”geek.js”",0,0,NULL,text,NULL,3
+447,104,single_choice,"script name=”geek.js”",0,0,NULL,text,NULL,4
+448,105,single_choice,compiled,0,0,NULL,text,NULL,1
+449,105,single_choice,interpreted,1,0,NULL,text,NULL,2
+450,105,single_choice,"ถูกทั้ง A และ B",0,0,NULL,text,NULL,3
+451,105,single_choice,ไม่มีข้อถูก,0,0,NULL,text,NULL,4
+452,106,single_choice,alertbox(“GeeksforGeeks”);,0,0,NULL,text,NULL,1
+453,106,single_choice,msg(“GeeksforGeeks”);,0,0,NULL,text,NULL,2
+454,106,single_choice,msgbox(“GeeksforGeeks”);,0,0,NULL,text,NULL,3
+455,106,single_choice,alert(“GeeksforGeeks”);,1,0,NULL,text,NULL,4
+456,107,single_choice,window.captureEvents(Event.CLICK);,1,0,NULL,text,NULL,1
+457,107,single_choice,"window.routeEvents(Event.CLICK );",0,0,NULL,text,NULL,2
+458,107,single_choice,"window.handleEvents (Event.CLICK);",0,0,NULL,text,NULL,3
+459,107,single_choice,"window.raiseEvents(Event.CLICK );",0,0,NULL,text,NULL,4
+460,108,multiple_choice,16,0,0,NULL,text,NULL,1
+461,108,multiple_choice,"Complilation Error",0,0,NULL,text,NULL,2
+462,108,multiple_choice,88,0,0,NULL,text,NULL,3
+463,108,multiple_choice,"Run Time Error",0,0,NULL,text,NULL,4
+464,108,single_choice,16,0,0,NULL,text,NULL,1
+465,108,single_choice,"Complilation Error",0,0,NULL,text,NULL,2
+466,108,single_choice,88,1,0,NULL,text,NULL,3
+467,108,single_choice,"Run Time Error",NULL,0,NULL,text,NULL,4
+468,110,single_choice,interface,0,0,NULL,text,NULL,1
+469,110,single_choice,throws,0,0,NULL,text,NULL,2
+470,110,single_choice,program,1,0,NULL,text,NULL,3
+471,110,single_choice,short,0,0,NULL,text,NULL,4
+472,111,single_choice,sk,0,0,NULL,text,NULL,1
+473,111,single_choice,ks,0,0,NULL,text,NULL,2
+474,111,single_choice,s,1,0,NULL,text,NULL,3
+475,111,single_choice,k,0,0,NULL,text,NULL,4
+476,112,single_choice,interface,0,0,NULL,text,NULL,1
+477,112,single_choice,throws,0,0,NULL,text,NULL,2
+478,112,single_choice,program,1,0,NULL,text,NULL,3
+479,112,single_choice,short,0,0,NULL,text,NULL,4
+480,113,single_choice,sk,0,0,NULL,text,NULL,1
+481,113,single_choice,ks,0,0,NULL,text,NULL,2
+482,113,single_choice,s,1,0,NULL,text,NULL,3
+483,113,single_choice,k,0,0,NULL,text,NULL,4
+484,114,single_choice,"\"30\"",0,0,NULL,text,NULL,1
+485,114,single_choice,30,1,0,NULL,text,NULL,2
+486,114,single_choice,5*6,0,0,NULL,text,NULL,3
+487,114,single_choice,"\"5*6\"",0,0,NULL,text,NULL,4
+488,115,single_choice,strip(),0,0,NULL,text,NULL,1
+489,115,single_choice,trim(),1,0,NULL,text,NULL,2
+490,115,single_choice,stripped(),0,0,NULL,text,NULL,3
+491,115,single_choice,trimmed(),0,0,NULL,text,NULL,4
+492,116,single_choice,"string / number",1,0,NULL,text,NULL,1
+493,116,single_choice,"string / string",NULL,0,NULL,text,NULL,2
+494,116,single_choice,"null / null",NULL,0,NULL,text,NULL,3
+495,116,single_choice,"string / integer",NULL,0,NULL,text,NULL,4
+496,117,single_choice,"function = Geekfunc()",0,0,NULL,text,NULL,1
+497,117,single_choice,"function Geekfunc()",1,0,NULL,text,NULL,2
+498,117,single_choice,"function := Geekfunc()",0,0,NULL,text,NULL,3
+499,117,single_choice,"function : Geekfunc()",0,0,NULL,text,NULL,4
+500,118,single_choice,"call Geekfunc();",0,0,NULL,text,NULL,1
+501,118,single_choice,"call function GeekFunc();",0,0,NULL,text,NULL,2
+502,118,single_choice,Geekfunc();,1,0,NULL,text,NULL,3
+503,118,single_choice,"function Geekfunc();",0,0,NULL,text,NULL,4
+504,119,single_choice,"มัน return val",0,0,NULL,text,NULL,1
+505,119,single_choice,"มัน return 2 เสมอ",0,0,NULL,text,NULL,2
+506,119,single_choice,"มัน return 1 ถ้าเป็นจริง ไม่เช่นนั้นก็ return 2",1,0,NULL,text,NULL,3
+507,119,single_choice,ไม่มีข้อใดถูก,0,0,NULL,text,NULL,4
+508,120,single_choice,"มัน return object ด้วยกลุ่มสี และ array ที่มีค่าของ param",0,0,NULL,text,NULL,1
+509,120,single_choice,"มันเปลี่ยน red,green และ blue เป็นค่า hex values ของมั",1,0,NULL,text,NULL,2
+510,120,single_choice,"ถูกทั้ง A และ B",NULL,0,NULL,text,NULL,3
+511,120,single_choice,ไม่มีข้อใดถูก,NULL,0,NULL,text,NULL,4
+512,121,single_choice,"ศาสตร์เกี่ยวกับการศึกษาค้นคว้าทฤษฎีการคำนวณสำหรับคอมพิวเตอร์ และทฤษฎีการประมวลผลสารสนเทศ ทั้งด้านซอฟต์แวร์ ฮาร์ดแวร์ และ เครือข่าย",1,0,NULL,text,NULL,1
+513,121,single_choice,"ศาสตร์ที่เกี่ยวข้องกับการออกแบบและสร้างเครื่องหรือระบบคอมพิวเตอร์ และ ระบบที่ใช้คอมพิวเตอร์ ศาสตร์นี้เกี่ยวข้องกับการศึกษาทางด้านฮาร์ดแวร์ ซอฟต์แวร์ การสื่อสาร",0,0,NULL,text,NULL,2
+514,121,single_choice,"ศาสตร์ที่เป็นการศึกษาการเก็บ การวิเคราะห์ การตีความ การนำเสนอ และการจัดระเบียบข้อมูล",0,0,NULL,text,NULL,3
+515,121,single_choice,"ศาสตร์ที่นำข้อมูลมาผ่านระบบการประมวลผล คำนวณ วิเคราะห์และแปลความหมายเป็นข้อความที่สามารถนำไปใช้ประโยชน์ในด้านต่างๆ",0,0,NULL,text,NULL,4
+516,122,single_choice,ระบบโปรแกรมการทำงาน,0,0,NULL,text,NULL,1
+517,122,single_choice,การคำนวณ,0,0,NULL,text,NULL,2
+518,122,single_choice,เครื่องจักรอิเล็กทรอนิกส์ที่ทำงานตามขั้นตอนของโปรแกรม,1,0,NULL,text,NULL,3
+519,122,single_choice,อุปกรณ์ที่ประกอบขึ้น,0,0,NULL,text,NULL,4
+520,123,single_choice,"ข้อมูลที่ได้รับการกรอง และเรียบเรียง ที่สามารถนำไปใช้งานได้",0,0,NULL,text,NULL,1
+521,123,single_choice,ข้อมูลที่ประมวลผลแล้ว,0,0,NULL,text,NULL,2
+522,123,single_choice,"ความเป็นจริงที่ยังเป็นข้อมูลดิบซึ่งไม่ได้ผ่านการประมวลผลใด ๆ",1,0,NULL,text,NULL,3
+523,123,single_choice,ผลลัพท์ของการทำงาน,NULL,0,NULL,text,NULL,4
+524,124,single_choice,"ข้อมูลที่ได้รับการกรอง และเรียบเรียง ที่สามารถนำไปใช้งานได้",0,0,NULL,text,NULL,1
+525,124,single_choice,ข้อมูลที่ประมวลผลแล้ว,1,0,NULL,text,NULL,2
+526,124,single_choice,"ความเป็นจริงที่ยังเป็นข้อมูลดิบซึ่งไม่ได้ผ่านการประมวลผลใด ๆ",NULL,0,NULL,text,NULL,3
+527,124,single_choice,ผลลัพท์ของการทำงาน,NULL,0,NULL,text,NULL,4
+528,125,single_choice,การจัดการข้อมูล,1,0,NULL,text,NULL,1
+529,125,single_choice,การทำงานได้อย่างหลากหลาย,NULL,0,NULL,text,NULL,2
+530,125,single_choice,การจดจำลำดับการทำงาน,NULL,0,NULL,text,NULL,3
+531,125,single_choice,การประมวลผล,NULL,0,NULL,text,NULL,4
+532,126,single_choice,การจัดการข้อมูล,0,0,NULL,text,NULL,1
+533,126,single_choice,การทำงานได้อย่างหลากหลาย,0,0,NULL,text,NULL,2
+534,126,single_choice,การจดจำลำดับการทำงาน,0,0,NULL,text,NULL,3
+535,126,single_choice,การประมวลผล,1,0,NULL,text,NULL,4
+536,127,single_choice,การจัดการข้อมูล,0,0,NULL,text,NULL,1
+537,127,single_choice,การทำงานได้อย่างหลากหลาย,1,0,NULL,text,NULL,2
+538,127,single_choice,การจดจำลำดับการทำงาน,NULL,0,NULL,text,NULL,3
+539,127,single_choice,การประมวลผล,NULL,0,NULL,text,NULL,4
+540,128,single_choice,อุปกรณ์ที่ประกอบขึ้นเป็นเครื่องคอมพิวเตอร์,1,0,NULL,text,NULL,1
+541,128,single_choice,การคำนวณ,0,0,NULL,text,NULL,2
+542,128,single_choice,เครื่องจักรอิเล็กทรอนิกส์ที่ทำงานตามขั้นตอนของโปรแกรม,NULL,0,NULL,text,NULL,3
+543,128,single_choice,ระบบโปรแกรมการทำงาน,NULL,0,NULL,text,NULL,4
+544,129,single_choice,"แอรัส ทัวริง",0,0,NULL,text,NULL,1
+545,129,single_choice,"มัวริส วิลค์ส",0,0,NULL,text,NULL,2
+546,129,single_choice,"จอห์น แบกคัส",0,0,NULL,text,NULL,3
+547,129,single_choice,"อลอนโซ เชิร์ช",1,0,NULL,text,NULL,4
+548,130,single_choice,0.250,0,0,NULL,text,NULL,1
+549,130,single_choice,0.125,1,0,NULL,text,NULL,2
+550,130,single_choice,0.375,NULL,0,NULL,text,NULL,3
+551,130,single_choice,0.150,NULL,0,NULL,text,NULL,4
+552,131,single_choice,"เลขฐาน 2, เลขฐาน 16",0,0,NULL,text,NULL,1
+553,131,single_choice,"เลขฐาน 2, เลขฐาน 8",0,0,NULL,text,NULL,2
+554,131,single_choice,"เลขฐาน 2, เลขฐาน 10",0,0,NULL,text,NULL,3
+555,131,single_choice,"เลขฐาน 2, เลขฐาน 8, เลขฐาน 10, เลขฐาน 16",1,0,NULL,text,NULL,4
+556,132,single_choice,17.625,1,0,NULL,text,NULL,1
+557,132,single_choice,16.750,0,0,NULL,text,NULL,2
+558,132,single_choice,15.255,0,0,NULL,text,NULL,3
+559,132,single_choice,14.630,0,0,NULL,text,NULL,4
+560,133,single_choice,66,0,0,NULL,text,NULL,1
+561,133,single_choice,55,1,0,NULL,text,NULL,2
+562,133,single_choice,44,NULL,0,NULL,text,NULL,3
+563,133,single_choice,33,NULL,0,NULL,text,NULL,4
+564,134,single_choice,23.5,0,0,NULL,text,NULL,1
+565,134,single_choice,22.5,0,0,NULL,text,NULL,2
+566,134,single_choice,21.5,1,0,NULL,text,NULL,3
+567,134,single_choice,20.5,NULL,0,NULL,text,NULL,4
+568,135,single_choice,"1 1 0 0 1 0 1 0",0,0,NULL,text,NULL,1
+569,135,single_choice,"1 1 1 0 1 1 1 0",0,0,NULL,text,NULL,2
+570,135,single_choice,"1 1 1 0 1 0 1 0",1,0,NULL,text,NULL,3
+571,135,single_choice,"1 0 1 0 1 0 1 1",NULL,0,NULL,text,NULL,4
+572,136,single_choice,"1 1 1 0 0 0 1",0,0,NULL,text,NULL,1
+573,136,single_choice,"1 0 0 0 0 1 1",0,0,NULL,text,NULL,2
+574,136,single_choice,"1 1 0 1 0 1 1",0,0,NULL,text,NULL,3
+575,136,single_choice,"1 1 0 0 0 1 1",1,0,NULL,text,NULL,4
+576,138,single_choice,"1 1 1 0 0 1 1 1 0 1",1,0,NULL,text,NULL,1
+577,138,single_choice,"1 1 0 1 0 1 1 1 0 1",NULL,0,NULL,text,NULL,2
+578,138,single_choice,"1 1 1 1 0 1 0 0 0 1",NULL,0,NULL,text,NULL,3
+579,138,single_choice,"1 0 1 0 0 1 1 0 0 1",NULL,0,NULL,text,NULL,4
+580,139,single_choice,"ทำหน้าที่รับข้อมูลจากหน่วยคำนวณและตรรกะ มาแสดงผ่านอุปกรณ์แสดงผล",0,0,NULL,text,NULL,1
+581,139,single_choice,"ทำหน้าที่รับข้อมูลจากหน่วยความจำ ซึ่งผ่านการประมวลแล้วมาแสดงโดยอาศัย",0,0,NULL,text,NULL,2
+582,139,single_choice,"ทำหน้าที่รับข้อมูลจากหน่วยควบคุม นำมาแสดงผล โดยผ่านอุปกรณ์แสดงผล",0,0,NULL,text,NULL,3
+583,139,single_choice,"ทำหน้าที่รับข้อมูลจากหน่วยแสดงผล นำมาประมวลผล แล้วแสดงผลโดยอาศัยอุปกรณ์แสดงผล",1,0,NULL,text,NULL,4
+584,140,single_choice,"Unicode สามารถเก็บข้อมูลได้มากกว่า 3 byte",0,0,NULL,text,NULL,1
+585,140,single_choice,"Unicode เป็นรหัสคอมพิวเตอร์ใช้แทนตัวอักขระ สามารถใช้แทน ตัวอักษร,ตัวเลข,สัญลักษณ์ต่างๆ",1,0,NULL,text,NULL,2
+586,140,single_choice,"Unicode สามารถเก็บอักษรได้มากกว่า 1,250 ตัวอักษรจากภาษาทั้งหมด",NULL,0,NULL,text,NULL,3
+587,140,single_choice,"ทุกอักขระใน Unicode ไม่สามารถข้ามแพลตฟอร์มไปมาได้",NULL,0,NULL,text,NULL,4
+588,141,single_choice,ทำหน้าที่เป็นสื่อกลางระหว่างคนกับคอมพิวเตอร์,0,0,NULL,text,NULL,1
+589,141,single_choice,แสดงข้อมูลให้ผู้ใช้รับรู้ผลการทำงานการแสดงผล,0,0,NULL,text,NULL,2
+590,141,single_choice,สามารถแสดงให้รู้ถึงการมองเห็นและการได้ยินเสียง,0,0,NULL,text,NULL,3
+591,141,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+592,142,single_choice,สีส้มอ่อน,0,0,NULL,text,NULL,1
+593,142,single_choice,สีฟ้าอ่อน,0,0,NULL,text,NULL,2
+594,142,single_choice,สีเหลืองอ่อน,1,0,NULL,text,NULL,3
+595,142,single_choice,สีน้ำตาลอ่อน,NULL,0,NULL,text,NULL,4
+596,143,single_choice,"เพื่อรับข้อมูลต่างๆ เข้ามาในระบบ",0,0,NULL,text,NULL,1
+597,143,single_choice,"เพื่อแสดงข้อมูลต่างๆ ที่ได้จากการประมวลผล",1,0,NULL,text,NULL,2
+598,143,single_choice,"เพื่อประมวลผลข้อมูล เปรียบเสมือนสมองของมนุษย์",NULL,0,NULL,text,NULL,3
+599,143,single_choice,เพื่อควบคุมการทำงานต่างๆ,NULL,0,NULL,text,NULL,4
+600,144,single_choice,"รหัสมาตรฐานของการพัฒนาเทคโนโลยี และสารสนเทศขั้นพื้นฐาน",0,0,NULL,text,NULL,1
+601,144,single_choice,"รหัสมาตรฐานเพื่อการประมวลผลข้อมูล ผ่านทางอินเตอร์พลีเตอร์",0,0,NULL,text,NULL,2
+602,144,single_choice,รหัสมาตรฐานสำหรับการเขียนโปรแกรมขั้นพื้นฐานทางคอมพิวเตอร์,0,0,NULL,text,NULL,3
+603,144,single_choice,รหัสมาตรฐานของสหรัฐอเมริกาเพื่อการแลกเปลี่ยนสารสนเทศ,1,0,NULL,text,NULL,4
+604,145,single_choice,ไม่ได้ใช้งานแบบซิงโครนัส,1,0,NULL,text,NULL,1
+605,145,single_choice,รับทราบเชิงลบ,NULL,0,NULL,text,NULL,2
+606,145,single_choice,จุดสิ้นสุดของบล็อกการส่ง,NULL,0,NULL,text,NULL,3
+607,145,single_choice,ตัวแยกไฟล์,NULL,0,NULL,text,NULL,4
+608,146,single_choice,การรับทราบ,0,0,NULL,text,NULL,1
+609,146,single_choice,แท็บแนวนอน,0,0,NULL,text,NULL,2
+610,146,single_choice,ฟีดรูปแบบ,1,0,NULL,text,NULL,3
+611,146,single_choice,ตัวแอักษรว่างเปล่า,NULL,0,NULL,text,NULL,4
+612,147,single_choice,111101,0,0,NULL,text,NULL,1
+613,147,single_choice,1010,0,0,NULL,text,NULL,2
+614,147,single_choice,1111,1,0,NULL,text,NULL,3
+615,147,single_choice,1011,NULL,0,NULL,text,NULL,4
+616,148,single_choice,1000001,1,0,NULL,text,NULL,1
+617,148,single_choice,1100001,NULL,0,NULL,text,NULL,2
+618,148,single_choice,1010100,NULL,0,NULL,text,NULL,3
+619,148,single_choice,1000010,NULL,0,NULL,text,NULL,4
+620,149,single_choice,,0,8020,NULL,image,NULL,1
+621,149,single_choice,,1,8021,NULL,text,NULL,2
+622,149,single_choice,,0,8023,NULL,image,NULL,3
+623,149,single_choice,,0,8024,NULL,image,NULL,4
+624,150,single_choice,,0,8025,NULL,image,NULL,1
+625,150,single_choice,,0,8026,NULL,image,NULL,2
+626,150,single_choice,,0,8027,NULL,text,NULL,3
+627,150,single_choice,,1,8028,NULL,text,NULL,4
+628,151,single_choice,,1,8025,NULL,image,NULL,1
+629,151,single_choice,,NULL,8023,NULL,image,NULL,2
+630,151,single_choice,,NULL,8026,NULL,image,NULL,3
+631,151,single_choice,,NULL,8029,NULL,text,NULL,4
+632,152,single_choice,,0,8030,NULL,image,NULL,1
+633,152,single_choice,,0,8023,NULL,image,NULL,2
+634,152,single_choice,,0,8031,NULL,image,NULL,3
+635,152,single_choice,,1,8032,NULL,image,NULL,4
+636,153,single_choice,n,0,0,NULL,text,NULL,1
+637,153,single_choice,"log n",1,0,NULL,text,NULL,2
+638,153,single_choice,n/2,0,0,NULL,text,NULL,3
+639,153,single_choice,n^2,NULL,0,NULL,text,NULL,4
+640,154,single_choice,"การนำเข้า และการส่งออกของข้อมูล",0,0,NULL,text,NULL,1
+641,154,single_choice,"หน่วยความจำ และเวลาที่ใช้ในการประมวลผล",1,0,NULL,text,NULL,2
+642,154,single_choice,"หน่วยความจำ และการวิเคราะห์ข้อมูล",0,0,NULL,text,NULL,3
+643,154,single_choice,"การวิเคราะห์ข้อมูล และสารสนเทศที่คาดว่าจะได้รับ",0,0,NULL,text,NULL,4
+644,155,single_choice,"ทุกแผนภาพต้องลูกศรแสดงทิศทางการเข้า และออก",1,0,NULL,text,NULL,1
+645,155,single_choice,ใช้สัญลักษณ์ตามที่กำหนดไว้เพียงบางครั้ง,0,0,NULL,text,NULL,2
+646,155,single_choice,"ใช้คำอธิบายเนื้อหาให้ยาวได้มากที่สุด เพื่อให้ผู้อ่านเข้าใจในผังงาน",NULL,0,NULL,text,NULL,3
+647,155,single_choice,ไม่จำเป็นต้องมีการทดสอบความถูกต้องของผังงาน,NULL,0,NULL,text,NULL,4
+648,156,single_choice," ต้องมีความถูกต้อง",0,0,NULL,text,NULL,1
+649,156,single_choice,ต้องสามารถนำกลับมาใช้ใหม่ได้,0,0,NULL,text,NULL,2
+650,156,single_choice,"ต้องสามารถปรับปรุงได้ง่าย ถ้านำมาใช้ต่อในอนาคต",0,0,NULL,text,NULL,3
+651,156,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+652,157,single_choice,"มีลำดับการทำงานเป็นไปตามขั้นตอนก่อน และหลัง",0,0,NULL,text,NULL,1
+653,157,single_choice,มีเงื่อนไขเป็นตัวกำหนดเส้นทาง,1,0,NULL,text,NULL,2
+654,157,single_choice,"มีการกลับไปทำงานอีกครั้ง จนกระทั้งผ่านเงื่อนไข",NULL,0,NULL,text,NULL,3
+655,157,single_choice,"ต้องทำงานนั้นให้เสร็จก่อน จึงจะสามารถทำงานต่อไปได้",NULL,0,NULL,text,NULL,4
+656,158,single_choice,"การตรวจสอบความถูกต้อง และแก้ไขได้ยากเมื่อเกิดข้อผิดพลาด",1,0,NULL,text,NULL,1
+657,158,single_choice,"ปรับปรุง เปลี่ยนแปลง และแก้ไขได้อย่างรวดเร็ว",NULL,0,NULL,text,NULL,2
+658,158,single_choice,ทำให้ผู้อื่นสามารถศึกษาการทำงานของโปรแกรมการทำงานได้ง่าย,NULL,0,NULL,text,NULL,3
+659,158,single_choice,"สามารถเขียน Pseudo code ได้อย่างไม่สับสน",NULL,0,NULL,text,NULL,4
+660,162,single_choice,"BeginRead A,B A =B+C Print A End",0,0,NULL,text,NULL,1
+661,162,single_choice,"BeginRead B,C Print A A =B+C End",0,0,NULL,text,NULL,2
+662,162,single_choice,"BeginRead B,C A =B+C Print A End",1,0,NULL,text,NULL,3
+663,162,single_choice,"BeginRead A,B Print C C =A+B End",0,0,NULL,text,NULL,4
+664,164,single_choice,ใช้คําสั่งเป็นภาษาคอมพิวเตอร์ระดับสูง,0,0,NULL,text,NULL,1
+665,164,single_choice,"ใช้ย่อหน้าในการแสดงกลุ่มของเงื่อนไข และคําสั่งย่อย",1,0,NULL,text,NULL,2
+666,164,single_choice,ในการเขียนคําส่ังสามารถมีทางออกหรือสิ้นสุดได้หลายทาง,0,0,NULL,text,NULL,3
+667,164,single_choice,ในการเขียนคําสั่งไม่จําเป็นต้องเรียงลําดับการทํางาน,0,0,NULL,text,NULL,4
+668,165,single_choice,วิเคราะห์ปัญหา->เขียนโปรแกรม->เขียนผังงานและรหัสเทียม->ทดสอบและแก้ไขโปรแกรม->ทําเอกสาร,0,0,NULL,text,NULL,1
+669,165,single_choice,วิเคราะห์ปัญหา->เขียนผังงานและรหัสเทียม->เขียนโปรแกรม->ทดสอบและแก้ไขโปรแกรม->ทําเอกสาร,1,0,NULL,text,NULL,2
+670,165,single_choice,วิเคราะห์ปัญหา->เขียนโปรแกรม->ทดสอบและแก้ไขโปรแกรม->เขียนผังงานและรหัสเทียม–>ทําเอกสาร,0,0,NULL,text,NULL,3
+671,165,single_choice,"วิเคราะห์ปัญหา-> เขียนผังงานและรหัสเทียม-> ทดสอบและแก้ไขโปรแกรม-> เขียนโปรแกรม–>ทําเอกสาร",NULL,0,NULL,text,NULL,4
+672,166,single_choice,"ใช้คําว่า FOR ในการทําซ้ำ",0,0,NULL,text,NULL,1
+673,166,single_choice,"ใช้คําว่า if ในการแสดงผลข้อมูล",1,0,NULL,text,NULL,2
+674,166,single_choice,"ใช้คําว่า print ในการแสดงข้อมูล",NULL,0,NULL,text,NULL,3
+675,166,single_choice,"ใช้คําว่า READ ในการรับข้อมูล",NULL,0,NULL,text,NULL,4
+677,167,single_choice,"ใช้คําว่า END ในการเริ่มต้นคำสั่ง",0,0,NULL,text,NULL,1
+678,167,single_choice,"ใช้คําว่า SET ในการกำหนดค่า",1,0,NULL,text,NULL,2
+679,167,single_choice,"ใช้คําว่า Boolean ในการรับข้อมูล",0,0,NULL,text,NULL,3
+680,167,single_choice,"ใช้คําว่า NOR ในการเว้นบรรทัด",0,0,NULL,text,NULL,4
+681,168,single_choice,^,0,0,NULL,text,NULL,1
+682,168,single_choice,DISPLAY,0,0,NULL,text,NULL,2
+683,168,single_choice,"READ, GET",0,0,NULL,text,NULL,3
+684,168,single_choice,"SET, =",1,0,NULL,text,NULL,4
+685,169,single_choice,FOR...ENDFOR,0,0,NULL,text,NULL,1
+686,169,single_choice,BEGIN...END,0,0,NULL,text,NULL,2
+687,169,single_choice,CAST...OF...ENDCASE,1,0,NULL,text,NULL,3
+688,169,single_choice,*,0,0,NULL,text,NULL,4
+689,170,single_choice,GET,0,0,NULL,text,NULL,1
+690,170,single_choice,REPEAT...UNTIL,1,0,NULL,text,NULL,2
+691,170,single_choice,INPUT,NULL,0,NULL,text,NULL,3
+692,170,single_choice,IF...THEN...ELSE...ENDIF,NULL,0,NULL,text,NULL,4
+693,171,single_choice,"ไม่สามารถแก้ไข หรือปรับปรุงแบบพื้นฐานงานได้หากเราต้องการเพิ่มเติมความคิดใหม่ๆ",0,0,NULL,text,NULL,1
+694,171,single_choice,เป็นเครื่องมือในการจัดทำผังงานเบื้องต้น,0,0,NULL,text,NULL,2
+695,171,single_choice,"เป็นตัวกำหนดงานเขียนโปรแกรมในขั้นต้น เพื่อให้นักโปรแกรมนำองค์ความรู้ไปพัฒนา",1,0,NULL,text,NULL,3
+696,171,single_choice,ไม่มีข้อใดถูกต้อง,0,0,NULL,text,NULL,4
+697,172,single_choice,"ในหนึ่งบรรทัด ให้เขียนประโยคคำได้มากสุดเพียงสองคำสั่งเท่านั้น",0,0,NULL,text,NULL,1
+698,172,single_choice,"ไม่จำเป็นต้องมีย่อหน้าในการเขียนรหัสเทียม แต่ต้องเข้าใจภาพรวมให้ได้",0,0,NULL,text,NULL,2
+699,172,single_choice,"ต้องเขียนรหัสเทียมลำดับจากบน ลงล่าง มีทิศทางจากขวา ไปซ้ายเพื่อให้ง่ายต่อการประมวลผล",0,0,NULL,text,NULL,3
+700,172,single_choice,"กลุ่มของประโยคคำสั่ง อาจจัดให้อยู่ในรูปของโมดูล",1,0,NULL,text,NULL,4
+701,179,single_choice,"Stage, Sheet, File",0,0,NULL,text,NULL,1
+702,179,single_choice,"Stage, Sheet, File",0,0,NULL,text,NULL,2
+703,179,single_choice,"stage, sprite, script",1,0,NULL,text,NULL,3
+704,179,single_choice,"Database, Sheet",0,0,NULL,text,NULL,4
+705,180,single_choice,"โปรแกรมภาษาพัฒนาโดยทีมงาน Media Lap MIT",0,0,NULL,text,NULL,1
+706,180,single_choice,โปรแกรมฝึกการเขียนคำสั่งด้วยการเขียนโปรแกรมภาษาอย่างง่าย,0,0,NULL,text,NULL,2
+707,180,single_choice,โปรแกรมในการต่อบล็อกคําสั่งเพื่อสร้างโปรแกรมสคริปต์ให้กับตัวละครเท่านั้น,0,0,NULL,text,NULL,3
+708,180,single_choice,"โปรแกรมภาษาที่ผู้เรียนสามารถสร้างชิ้นงานได้อย่างง่าย เช่น นิทานที่สามารถโต้ตอบกับผู้อ่านได้ ภาพเคลื่อนไหว เกม ดนตรี และศิลปะ",1,0,NULL,text,NULL,4
+709,181,single_choice,ทำซ้ำตลอด,0,0,NULL,text,NULL,1
+710,181,single_choice,เคลื่อน...ก้าว,0,0,NULL,text,NULL,2
+711,181,single_choice,เมื่อธงเขียวถูกคลิก,1,0,NULL,text,NULL,3
+712,181,single_choice,พูด...เป็นเวลา...วินาที,NULL,0,NULL,text,NULL,4
+713,182,single_choice,"X : 0, Y : 0",1,0,NULL,text,NULL,1
+714,182,single_choice,"X : 1, Y : 0",NULL,0,NULL,text,NULL,2
+715,182,single_choice,"X : -1, Y : 1",NULL,0,NULL,text,NULL,3
+716,182,single_choice,"X : 1, Y : -1",NULL,0,NULL,text,NULL,4
+717,183,single_choice,คำสั่งที่กำหนดการทำงานแบบวนซ้ำไม่รู้จบ,0,0,NULL,text,NULL,1
+718,183,single_choice,คำสั่งที่ใช้ในการทำงานแบบวนซ้ำแบบมีเงื่อนไข,1,0,NULL,text,NULL,2
+719,183,single_choice,คำสั่งที่กำหนดการทำงานแบบวนซ้ำตามจำนวนรอบที่กำหนด,NULL,0,NULL,text,NULL,3
+720,183,single_choice,คำสั่งกำหนดค่าเริ่มต้นให้กับตัวแปร,NULL,0,NULL,text,NULL,4
+721,184,single_choice,"บล็อกคำสั่ง Make a Varible",1,0,NULL,text,NULL,1
+722,184,single_choice,"บล็อกคำสั่ง Motion",NULL,0,NULL,text,NULL,2
+723,184,single_choice,"บล็อกคำสั่ง Looks",NULL,0,NULL,text,NULL,3
+724,184,single_choice,"บล็อกคำสั่ง Pen",NULL,0,NULL,text,NULL,4
+725,185,single_choice,"ลากตัวละครไปวาง ณ ตำแหน่งที่ต้องการทุกครั้งก่อนคลิกธงเขียว",0,0,NULL,text,NULL,1
+726,185,single_choice,"ลากตัวละครไปวาง ณ ตำแหน่งที่ต้องการ > เขียนสคริปต์โดยใช้บล็อกเมื่อธงเขียวถูกคลิก > ไปยัง X : Y : สังเกตค่า X และ Y ของตัวละครบริเวณเวที แล้วเติมค่า X และ Y ลงไป",0,0,NULL,text,NULL,2
+727,185,single_choice,"ลากตัวละครไปวาง ณ ตำแหน่งที่ต้องการ > เขียนสคริปต์โดยใช้บล็อกเมื่อธงเขียวถูกคลิก > ไปยัง X : Y : สังเกตค่า X และ Y ของตัวละครบริเวณตัวละครที่ถูกเลือก แล้วเติมค่า X และ Y ลงไป",1,0,NULL,text,NULL,3
+728,185,single_choice,"ลากตัวละครไปวาง ณ ตำแหน่งที่ต้องการ > เขียนสคริปต์โดยใช้บล็อกเมื่อธงเขียวถูกคลิก > ไปยัง X : Y : สังเกตค่า X และ Y ของตัวละครบริเวณเวที แล้วเติมค่า X : 0 และ Y : 0 ลงไป",NULL,0,NULL,text,NULL,4
+729,186,single_choice,ตัวละครเดินถอยหลัง,1,0,NULL,text,NULL,1
+730,186,single_choice,ตัวละครก้าวเร็วขึ้น,NULL,0,NULL,text,NULL,2
+731,186,single_choice,ตัวละครก้าวช้าลง,NULL,0,NULL,text,NULL,3
+732,186,single_choice,ตัวละครตีลังกา,NULL,0,NULL,text,NULL,4
+733,187,single_choice,เมื่อคลิกที่ปุ่มธงเขียวเป็นการเริ่มต้นการทํางานทุกสคริปต์ที่เริ่มต้นสคริปต์ด้วยบล็อกธงเขียว,0,0,NULL,text,NULL,1
+734,187,single_choice,เมื่อคลิกที่ปุ่มธงเขียวตัวละครที่แสดงสคริปต์อยู่ในขณะนั้นจะทํางานเพียงตัวละครเดียว,0,0,NULL,text,NULL,2
+735,187,single_choice,เมื่อคลิกที่สคริปต์ที่เริ่มต้นด้วยบล็อกธงเขียวสคริปต์นั้นจะทํางานเพียงสคริปต์เดียว,0,0,NULL,text,NULL,3
+736,187,single_choice,"ถูกทั้งข้อ A และข้อ C",1,0,NULL,text,NULL,4
+737,188,single_choice,Repeat,0,0,NULL,text,NULL,1
+738,188,single_choice,Forever,0,0,NULL,text,NULL,2
+739,188,single_choice,"Wait until",1,0,NULL,text,NULL,3
+740,188,single_choice,"Repeat until",NULL,0,NULL,text,NULL,4
+741,189,single_choice,LAN,0,0,NULL,text,NULL,1
+742,189,single_choice,MAN,0,0,NULL,text,NULL,2
+743,189,single_choice,WAN,0,0,NULL,text,NULL,3
+744,189,single_choice,NAN,1,0,NULL,text,NULL,4
+745,190,single_choice,"แตกต่างตรงที่สามารถเชื่อมโยงได้ ในระยะทางที่ไกลมากกว่า",1,0,NULL,text,NULL,1
+746,190,single_choice,"มีการใช้งานที่คุ้มค่ากว่า และสามารถเชื่อมต่อได้อย่างหลากหลาย",0,0,NULL,text,NULL,2
+747,190,single_choice,"มีประสิทธิภาพกว่าประมวนผลไม่ค่อยถูกต้อง และไม่ค่อยแม่นยำ",0,0,NULL,text,NULL,3
+748,190,single_choice,"ราคาถูกกว่าเป็นอย่างมาก เมื่อเทียบกับ LAN",0,0,NULL,text,NULL,4
+749,191,single_choice,"Transport Layer",1,0,NULL,text,NULL,1
+750,191,single_choice,"Session Layer",NULL,0,NULL,text,NULL,2
+751,191,single_choice,"Application Layer",NULL,0,NULL,text,NULL,3
+752,191,single_choice,"Data link Laye",NULL,0,NULL,text,NULL,4
+753,192,single_choice,"ระบบหรือกลุ่ม ของระบบที่จัดการการเข้าถึงระหว่าง เครือข่ายสองเครือข่าย",0,0,NULL,text,NULL,1
+754,192,single_choice,"การรวมกันของฮาร์ดแวร์ และซอฟต์แวร์ ที่เชื่อมต่อสภาพแวดล้อม เครือข่ายที่แตกต่างกัน",0,0,NULL,text,NULL,2
+755,192,single_choice,ป้องกันสัญญาณรบกวนจากอุปกรณ์ไฟฟ้าอื่นๆ,0,0,NULL,text,NULL,3
+756,192,single_choice,"เป็นสื่อหรือตัวกลางที่ใช้ส่งข้อมูลในรูปของแสง โดยเปลี่ยนสัญญาณข้อมูล หรือสัญญาณไฟฟ้าให้เป็นคลื่นแสงก่อน ",1,0,NULL,text,NULL,4
+757,193,single_choice,"1 Layer",0,0,NULL,text,NULL,1
+758,193,single_choice,"3 Layers",0,0,NULL,text,NULL,2
+759,193,single_choice,"5 Layers",0,0,NULL,text,NULL,3
+760,193,single_choice,"7 Layers",1,0,NULL,text,NULL,4
+761,194,single_choice,Twisted-Pair,0,0,NULL,text,NULL,1
+762,194,single_choice,Coaxial,0,0,NULL,text,NULL,2
+763,194,single_choice,"Fiber Optics",0,0,NULL,text,NULL,3
+764,194,single_choice,"Rapid miner",1,0,NULL,text,NULL,4
+765,195,single_choice,"การรวมกันของฮาร์ดแวร์ และซอฟต์แวร์",0,0,NULL,text,NULL,1
+766,195,single_choice,"ระบบหรือกลุ่ม ที่จัดการการเข้าถึงระหว่างเครือข่ายสองเครือข่ายหรือมากกว่า",1,0,NULL,text,NULL,2
+767,195,single_choice,"กำหนดเส้นทางพื้นฐานระหว่าง LAN เสมือน",0,0,NULL,text,NULL,3
+768,195,single_choice,อำนวยความสะดวกในการสื่อสารภายในอินเตอร์เน็ต,0,0,NULL,text,NULL,4
+769,196,single_choice,Network,0,0,NULL,text,NULL,1
+770,196,single_choice,"Data Link",0,0,NULL,text,NULL,2
+771,196,single_choice,Analytics,1,0,NULL,text,NULL,3
+772,196,single_choice,Session,NULL,0,NULL,text,NULL,4
+773,197,single_choice,จัดเตรียมการเชื่อมต่อระหว่างสองระบบโฮสต์,0,0,NULL,text,NULL,1
+774,197,single_choice,"กำหนดวิธีการจัดรูปแบบข้อมูลสำหรับการส่ง และการควบคุมการเข้าถึงเครือข่าย",0,0,NULL,text,NULL,2
+775,197,single_choice,ควบคุมการไหลของข้อมูล,1,0,NULL,text,NULL,3
+776,197,single_choice,"การสื่อสาร InterHost",0,0,NULL,text,NULL,4
+777,198,single_choice,จัดเตรียมการเชื่อมต่อระหว่างสองระบบโฮสต์,0,0,NULL,text,NULL,1
+778,198,single_choice,การส่งค่าไบนารี,1,0,NULL,text,NULL,2
+779,198,single_choice,ควบคุมการไหลของข้อมูล,NULL,0,NULL,text,NULL,3
+780,198,single_choice,"กำหนดวิธีการจัดรูปแบบข้อมูลสำหรับการส่ง และการควบคุมการเข้าถึงเครือข่าย",NULL,0,NULL,text,NULL,4
+781,199,single_choice,เป็นภาษาที่อธิบายถึงรายละเอียดของโครงสร้างและแบบของข้อมูล,0,0,NULL,text,NULL,1
+782,199,single_choice,เป็นภาษาพื้นฐานของการพัฒนาเว็บไซต์โดยเฉพาะ,1,0,NULL,text,NULL,2
+783,199,single_choice,เป็นภาษาที่ให้การชัดเจนในการแสดงรายละเอียดเกี่ยวกับข้อมูล,0,0,NULL,text,NULL,3
+784,199,single_choice,ภาษาโปรแกรมเชิงวัตถุ,0,0,NULL,text,NULL,4
+785,200,single_choice,"คำสั่งใน HTML เรียกว่า Tag",0,0,NULL,text,NULL,1
+786,200,single_choice,"Tag แบ่งออกเป็น Tagเดี่ยว และTagคู่",0,0,NULL,text,NULL,2
+787,200,single_choice,"Tag จะเขียนอยู่ในเครื่องหมาย",1,0,NULL,text,NULL,3
+788,200,single_choice,ที่กล่าวมาถูกทุกข้อ,0,0,NULL,text,NULL,4
+789,201,single_choice,,0,8066,NULL,image,NULL,1
+790,201,single_choice,,1,8067,NULL,image,NULL,2
+791,201,single_choice,,0,8068,NULL,image,NULL,3
+792,201,single_choice,,0,8069,NULL,text,NULL,4
+793,202,single_choice,,1,8071,NULL,image,NULL,1
+794,202,single_choice,,0,8072,NULL,image,NULL,2
+795,202,single_choice,,0,8073,NULL,image,NULL,3
+796,202,single_choice,ถูกทุกข้อ,0,0,NULL,text,NULL,4
+797,204,single_choice,"เป็นบริษัทที่ให้การเข้าถึงอินเทอร์เน็ตในออสเตรเลีย โดยที่ใช้กันอย่างแพร่หลาย ได้แก่ Bigpond, iinet และ Dodo",1,0,NULL,text,NULL,1
+798,204,single_choice,"การควบคุมการเข้าถึงสื่อ ที่อยู่ฮาร์ดแวร์ของอุปกรณ์ที่เชื่อมต่อกับเครือข่ายที่ใช้ร่วมกัน",0,0,NULL,text,NULL,2
+799,204,single_choice,อุปกรณ์ที่อนุญาตให้คอมพิวเตอร์ที่มีอุปกรณ์ไร้สายเชื่อมต่อ,0,0,NULL,text,NULL,3
+800,203,single_choice,,0,8076,NULL,image,NULL,1
+801,204,single_choice,"เป็นระบบที่เชื่อมต่อคอมพิวเตอร์และอุปกรณ์อื่น ๆ ที่ใช้สายสื่อสารร่วมกัน และลิงค์ไร้สายโดยทั่วไปภายในพื้นที่ทางภูมิศาสตร์ที่จำกัด เช่น อาคารบ้านหรือสำนักงาน",0,0,NULL,text,NULL,4
+802,203,single_choice,,0,8077,NULL,image,NULL,2
+803,203,single_choice,,1,8078,NULL,image,NULL,3
+804,203,single_choice,,0,8079,NULL,image,NULL,4
+805,205,single_choice,"การวัดหน่วยเก็บข้อมูลตัวประมวลผลคอมพิวเตอร์ และหน่วยความจำจริง",1,0,NULL,text,NULL,1
+806,205,single_choice,เป็นหน่วยที่ใช้วัดความเร็วของโปรเซสเซอร์ของคอมพิวเตอร์,0,0,NULL,text,NULL,2
+807,205,single_choice,"เป็นอุปกรณ์ที่อนุญาตให้คอมพิวเตอร์ส่งข้อมูลระหว่างกัน ผ่านสายโทรศัพท์ธรรมดา",0,0,NULL,text,NULL,3
+808,205,single_choice,เป็นซอฟต์แวร์ที่จัดการกระบวนการทั้งหมดของคอมพิวเตอร์และอนุญาตให้โปรแกรมและแอปพลิเคชันทำงาน,0,0,NULL,text,NULL,4
+809,207,single_choice,"1,032,505",0,0,NULL,text,NULL,1
+810,207,single_choice,"1,042,487",0,0,NULL,text,NULL,2
+811,207,single_choice,"1,120,243",0,0,NULL,text,NULL,3
+812,207,single_choice,"1,048,576",1,0,NULL,text,NULL,4
+813,209,single_choice,เป็นสมองของคอมพิวเตอร์,0,0,NULL,text,NULL,1
+814,209,single_choice,"เป็นโปรโตคอลอินเทอร์เน็ตที่ใช้โดยผู้ให้บริการอินเทอร์เน็ต (ISP) เพื่อจัดการกับอีเมล",1,0,NULL,text,NULL,2
+815,209,single_choice,เป็นมาตรฐานหรือชุดของกฎที่คอมพิวเตอร์และอุปกรณ์อื่นใช้เมื่อสื่อสารกับอุปกรณ์อื่น,0,0,NULL,text,NULL,3
+816,209,single_choice,"เป็นภาษาการเขียนโปรแกรมที่ใช้กันทั่วไปในการพัฒนาเว็บแอปพลิเคชัน ไคลเอนต์เซิร์ฟเวอร์",0,0,NULL,text,NULL,4
+819,210,single_choice,"เป็นวิธีการที่ผู้ใช้เข้าถึงและบันทึกหรือ \"ดึง\" ซอฟต์แวร์หรือไฟล์อื่น ๆ ไปยังคอมพิวเตอร์ของตนเองจากคอมพิวเตอร์ระยะไกลผ่านทางอินเทอร์เน็ต",0,0,NULL,text,NULL,1
+820,210,single_choice," เป็นวิธีการส่งข้อความผ่านอินเทอร์เน็ต โปรแกรมอีเมลยอดนิยม ได้แก่ Outlook, Mozilla Thunderbird, Gmail และ Yahoo Mail",0,0,NULL,text,NULL,2
+821,210,single_choice,เป็นวิธีการทั่วไปในการถ่ายโอนไฟล์ผ่านอินเทอร์เน็ตจากโฮสต์หนึ่งไปยังโฮสต์อื่น,1,0,NULL,text,NULL,3
+822,206,single_choice,,0,8080,NULL,image,NULL,1
+823,210,single_choice,คือกระบวนการแปลงข้อมูลอิเล็กทรอนิกส์เป็นรูปแบบที่ไม่สามารถจดจำได้หรือเข้ารหัสซึ่งไม่สามารถเข้าใจได้ง่ายโดยบุคคลที่ไม่ได้รับอนุญาต,NULL,0,NULL,text,NULL,4
+824,206,single_choice,,1,8081,NULL,image,NULL,2
+825,206,single_choice,,0,8082,NULL,image,NULL,3
+826,206,single_choice,,0,8083,NULL,image,NULL,4
+827,211,single_choice,"โปรแกรมที่ออกแบบมาสำหรับวัตถุประสงค์เฉพาะ นั้นคือ โปรแกรมการประมวลผลคำ",0,0,NULL,text,NULL,1
+828,211,single_choice,กลุ่มของเลขฐานสองที่อยู่ติดกันซึ่งคอมพิวเตอร์ดำเนินการเป็นหน่วยในการสร้างอักขระ,0,0,NULL,text,NULL,2
+829,211,single_choice,กลุ่มคอมพิวเตอร์ที่เชื่อมต่อระหว่างกันสามารถแลกเปลี่ยนข้อมูลได้,0,0,NULL,text,NULL,3
+830,211,single_choice,เป็นกิจกรรมที่ผิดกฎหมายทุกประเภทที่ดำเนินการบนคอมพิวเตอร์,1,0,NULL,text,NULL,4
+831,213,single_choice,"ภาษาที่ใช้ในการสร้างหน้าเว็บ มีการใช้คำแนะนำและชุดแท็กต่าง ๆ เพื่อกำหนดลักษณะของเอกสาร",1,0,NULL,text,NULL,1
+832,213,single_choice,ชุดคำสั่งที่กำหนดวิธีที่เว็บเซิร์ฟเวอร์และเบราว์เซอร์ควรโต้ตอบ,NULL,0,NULL,text,NULL,2
+833,213,single_choice,ภาษาเขียนโปรแกรมระดับสูงที่ใช้กันอย่างกว้างขวางในการเขียนโปรแกรมสำหรับวัตถุประสงค์ทั่วไป,NULL,0,NULL,text,NULL,3
+834,213,single_choice,"ชื่อภาษาที่ใช้ในการเขียนโปรแกรมภาษาหนึ่ง ซึ่งถูกพัฒนาขึ้นมาโดย ไม่ยึดติดกับ แพลตฟอร์ม",NULL,0,NULL,text,NULL,4
+835,214,single_choice,"ชื่อภาษาที่ใช้ในการเขียนโปรแกรมภาษาหนึ่ง ซึ่งถูกพัฒนาขึ้นมาโดยไม่ยึด ติดกับแพลตฟอร์ม",0,0,NULL,text,NULL,1
+836,214,single_choice,ภาษาเขียนโปรแกรมระดับสูงที่ใช้กันอย่างกว้างขวางในการเขียนโปรแกรมสำหรับวัตถุประสงค์ทั่วไป,0,0,NULL,text,NULL,2
+837,212,single_choice,,0,8084,NULL,image,NULL,1
+838,214,single_choice,"ภาษาโปรแกรมชั้นสูงชนิดหนึ่ง ถูกออกแบบให้ code สามารถ อ่านได้ง่าย โดยการใช้ “ช่องไฟ” หรือ whitespace",0,0,NULL,text,NULL,3
+839,212,single_choice,,0,8085,NULL,image,NULL,2
+840,214,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+841,212,single_choice,,0,8086,NULL,image,NULL,3
+842,212,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+843,215,single_choice,"Integrated Environment Development",0,0,NULL,text,NULL,1
+844,215,single_choice,"Integrated Development Environment",1,0,NULL,text,NULL,2
+845,215,single_choice,"Environment Integrated Development",0,0,NULL,text,NULL,3
+846,215,single_choice,"Environment Development Integrated",0,0,NULL,text,NULL,4
+847,216,single_choice,Safari,1,0,NULL,text,NULL,1
+848,217,single_choice,"โปรแกรมที่ใช้ในการเข้าถึงเว็บเพจทั่วโลก ตัวอย่าง: Firefox, Safari หรือ Internet Explorer",0,0,NULL,text,NULL,1
+849,216,single_choice,Notepad++,0,0,NULL,text,NULL,2
+850,217,single_choice,ระบบปฏิบัติการโอเพ่นซอร์สที่ทำงานบนแพลตฟอร์มฮาร์ดแวร์จำนวนมาก,0,0,NULL,text,NULL,2
+851,216,single_choice,Notepad,0,0,NULL,text,NULL,3
+852,217,single_choice,"การควบคุมการเข้าถึงสื่อ ที่อยู่ฮาร์ดแวร์ของอุปกรณ์ที่เชื่อมต่อกับเครือข่ายที่ใช้ร่วมกัน",1,0,NULL,text,NULL,3
+853,216,single_choice,Gedit,0,0,NULL,text,NULL,4
+854,217,single_choice,กลุ่มของเลขฐานสองที่อยู่ติดกันซึ่งคอมพิวเตอร์ดำเนินการเป็นหน่วยในการสร้างอักขระ,0,0,NULL,text,NULL,4
+855,218,single_choice,Opera,0,0,NULL,text,NULL,1
+856,218,single_choice,Safari,0,0,NULL,text,NULL,2
+857,218,single_choice,"Windows Explorer",1,0,NULL,text,NULL,3
+858,218,single_choice,"Internet Explorer",0,0,NULL,text,NULL,4
+859,220,single_choice,,0,8087,NULL,image,NULL,1
+860,220,single_choice,,0,8088,NULL,image,NULL,2
+861,220,single_choice,,0,8089,NULL,image,NULL,3
+862,220,single_choice,,1,8090,NULL,image,NULL,4
+863,221,single_choice,"เป็นบริษัทที่ให้การเข้าถึงอินเทอร์เน็ตในออสเตรเลีย โดยที่ใช้กันอย่างแพร่หลาย ได้แก่ Bigpond, iinet และ Dodo",1,0,NULL,text,NULL,1
+864,221,single_choice,"การควบคุมการเข้าถึงสื่อ ที่อยู่ฮาร์ดแวร์ของอุปกรณ์ที่เชื่อมต่อกับเครือข่ายที่ใช้ร่วมกัน",0,0,NULL,text,NULL,2
+865,221,single_choice,อุปกรณ์ที่อนุญาตให้คอมพิวเตอร์ที่มีอุปกรณ์ไร้สายเชื่อมต่อ,0,0,NULL,text,NULL,3
+866,221,single_choice,"เป็นระบบที่เชื่อมต่อคอมพิวเตอร์และอุปกรณ์อื่น ๆ ที่ใช้สายสื่อสารร่วมกัน และลิงค์ไร้สายโดยทั่วไปภายในพื้นที่ทางภูมิศาสตร์ที่จำกัด เช่น อาคารบ้านหรือสำนักงาน",0,0,NULL,text,NULL,4
+867,222,single_choice,"การวัดหน่วยเก็บข้อมูลตัวประมวลผลคอมพิวเตอร์ และหน่วยความจำจริง",1,0,NULL,text,NULL,1
+868,222,single_choice,เป็นหน่วยที่ใช้วัดความเร็วของโปรเซสเซอร์ของคอมพิวเตอร์,NULL,0,NULL,text,NULL,2
+869,222,single_choice,"เป็นอุปกรณ์ที่อนุญาตให้คอมพิวเตอร์ส่งข้อมูลระหว่างกัน ผ่านสายโทรศัพท์ธรรมดา",NULL,0,NULL,text,NULL,3
+870,222,single_choice,เป็นซอฟต์แวร์ที่จัดการกระบวนการทั้งหมดของคอมพิวเตอร์และอนุญาตให้โปรแกรมและแอปพลิเคชันทำงาน,NULL,0,NULL,text,NULL,4
+871,223,single_choice,"1,032,505",0,0,NULL,text,NULL,1
+872,223,single_choice,"1,042,487",0,0,NULL,text,NULL,2
+873,223,single_choice,"1,120,243",0,0,NULL,text,NULL,3
+874,223,single_choice,"1,048,576",1,0,NULL,text,NULL,4
+875,224,single_choice,เป็นสมองของคอมพิวเตอร์,0,0,NULL,text,NULL,1
+876,224,single_choice,"เป็นโปรโตคอลอินเทอร์เน็ตที่ใช้โดยผู้ให้บริการอินเทอร์เน็ต (ISP) เพื่อจัดการกับอีเมล",1,0,NULL,text,NULL,2
+877,224,single_choice,เป็นมาตรฐานหรือชุดของกฎที่คอมพิวเตอร์และอุปกรณ์อื่นใช้เมื่อสื่อสารกับอุปกรณ์อื่น,0,0,NULL,text,NULL,3
+878,224,single_choice,"เป็นภาษาการเขียนโปรแกรมที่ใช้กันทั่วไปในการพัฒนาเว็บแอปพลิเคชัน ไคลเอนต์เซิร์ฟเวอร์",0,0,NULL,text,NULL,4
+879,226,single_choice,"เป็นวิธีการที่ผู้ใช้เข้าถึงและบันทึกหรือ \"ดึง\" ซอฟต์แวร์หรือไฟล์อื่น ๆ ไปยังคอมพิวเตอร์ของตนเองจากคอมพิวเตอร์ระยะไกลผ่านทางอินเทอร์เน็ต",0,0,NULL,text,NULL,1
+880,226,single_choice,"เป็นวิธีการส่งข้อความผ่านอินเทอร์เน็ต โปรแกรมอีเมลยอดนิยม ได้แก่ Outlook, Mozilla Thunderbird, Gmail และ Yahoo Mail",0,0,NULL,text,NULL,2
+881,226,single_choice,เป็นวิธีการทั่วไปในการถ่ายโอนไฟล์ผ่านอินเทอร์เน็ตจากโฮสต์หนึ่งไปยังโฮสต์อื่น,1,0,NULL,text,NULL,3
+882,226,single_choice,คือกระบวนการแปลงข้อมูลอิเล็กทรอนิกส์เป็นรูปแบบที่ไม่สามารถจดจำได้หรือเข้ารหัสซึ่งไม่สามารถเข้าใจได้ง่ายโดยบุคคลที่ไม่ได้รับอนุญาต,0,0,NULL,text,NULL,4
+883,227,single_choice,"โปรแกรมที่ออกแบบมาสำหรับวัตถุประสงค์เฉพาะ นั้นคือ โปรแกรมการประมวลผลคำ",0,0,NULL,text,NULL,1
+884,227,single_choice,กลุ่มของเลขฐานสองที่อยู่ติดกันซึ่งคอมพิวเตอร์ดำเนินการเป็นหน่วยในการสร้างอักขระ,0,0,NULL,text,NULL,2
+885,227,single_choice,กลุ่มคอมพิวเตอร์ที่เชื่อมต่อระหว่างกันสามารถแลกเปลี่ยนข้อมูลได้,0,0,NULL,text,NULL,3
+886,227,single_choice,เป็นกิจกรรมที่ผิดกฎหมายทุกประเภทที่ดำเนินการบนคอมพิวเตอร์,1,0,NULL,text,NULL,4
+887,228,single_choice,"ภาษาที่ใช้ในการสร้างหน้าเว็บ มีการใช้คำแนะนำและชุดแท็กต่าง ๆ เพื่อกำหนดลักษณะของเอกสาร",1,0,NULL,text,NULL,1
+888,228,single_choice,ชุดคำสั่งที่กำหนดวิธีที่เว็บเซิร์ฟเวอร์และเบราว์เซอร์ควรโต้ตอบ,0,0,NULL,text,NULL,2
+889,228,single_choice,ภาษาเขียนโปรแกรมระดับสูงที่ใช้กันอย่างกว้างขวางในการเขียนโปรแกรมสำหรับวัตถุประสงค์ทั่วไป,0,0,NULL,text,NULL,3
+890,228,single_choice,"ชื่อภาษาที่ใช้ในการเขียนโปรแกรมภาษาหนึ่ง ซึ่งถูกพัฒนาขึ้นมาโดย ไม่ยึดติดกับ แพลตฟอร์ม",NULL,0,NULL,text,NULL,4
+891,229,single_choice,"ชื่อภาษาที่ใช้ในการเขียนโปรแกรมภาษาหนึ่ง ซึ่งถูกพัฒนาขึ้นมาโดยไม่ยึด ติดกับแพลตฟอร์ม",0,0,NULL,text,NULL,1
+892,229,single_choice,ภาษาเขียนโปรแกรมระดับสูงที่ใช้กันอย่างกว้างขวางในการเขียนโปรแกรมสำหรับวัตถุประสงค์ทั่วไป,0,0,NULL,text,NULL,2
+893,229,single_choice,"ภาษาโปรแกรมชั้นสูงชนิดหนึ่ง ถูกออกแบบให้ code สามารถ อ่านได้ง่าย โดยการใช้ “ช่องไฟ” หรือ whitespace",0,0,NULL,text,NULL,3
+894,229,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+895,230,single_choice,"Integrated Environment Development",0,0,NULL,text,NULL,1
+896,230,single_choice,"Integrated Development Environment",1,0,NULL,text,NULL,2
+897,230,single_choice,"Environment Integrated Development",0,0,NULL,text,NULL,3
+898,230,single_choice,"Environment Development Integrated",0,0,NULL,text,NULL,4
+899,231,single_choice,"โปรแกรมที่ใช้ในการเข้าถึงเว็บเพจทั่วโลก ตัวอย่าง: Firefox, Safari หรือ Internet Explorer",0,0,NULL,text,NULL,1
+900,231,single_choice,ระบบปฏิบัติการโอเพ่นซอร์สที่ทำงานบนแพลตฟอร์มฮาร์ดแวร์จำนวนมาก,0,0,NULL,text,NULL,2
+901,231,single_choice,"การควบคุมการเข้าถึงสื่อ ที่อยู่ฮาร์ดแวร์ของอุปกรณ์ที่เชื่อมต่อกับเครือข่ายที่ใช้ร่วมกัน",1,0,NULL,text,NULL,3
+902,231,single_choice,กลุ่มของเลขฐานสองที่อยู่ติดกันซึ่งคอมพิวเตอร์ดำเนินการเป็นหน่วยในการสร้างอักขระ,0,0,NULL,text,NULL,4
+903,233,single_choice,5,0,0,NULL,text,NULL,1
+904,233,single_choice,8,1,0,NULL,text,NULL,2
+905,233,single_choice,10,0,0,NULL,text,NULL,3
+906,233,single_choice,12,0,0,NULL,text,NULL,4
+907,234,single_choice,"โครงสร้างแบบ Stack",0,0,NULL,text,NULL,1
+908,234,single_choice,"โครงสร้างแบบ Tree",1,0,NULL,text,NULL,2
+909,234,single_choice,"โครงสร้างแบบอาร์เรย์ (array)",0,0,NULL,text,NULL,3
+910,234,single_choice,"โครงสร้างแบบ Queue",0,0,NULL,text,NULL,4
+911,236,single_choice,List,1,0,NULL,text,NULL,1
+912,236,single_choice,"linear structures",0,0,NULL,text,NULL,2
+913,236,single_choice,"non-linear structures",0,0,NULL,text,NULL,3
+914,236,single_choice,array,0,0,NULL,text,NULL,4
+915,235,single_choice,"1 มิติ",0,0,NULL,text,NULL,1
+916,235,single_choice,"2 มิติ",0,0,NULL,text,NULL,2
+917,235,single_choice,"3 มิติ",0,0,NULL,text,NULL,3
+918,235,single_choice,"4 มิติ",1,0,NULL,text,NULL,4
+920,237,single_choice,,0,8103,NULL,text,NULL,1
+921,237,single_choice,"1 มิติ",0,0,NULL,text,NULL,2
+922,237,single_choice,"3 มิตื",0,0,NULL,text,NULL,3
+923,237,single_choice,"4 มิติ",0,0,NULL,text,NULL,4
+924,237,single_choice,"2 มิติ",1,0,NULL,text,NULL,5
+925,238,single_choice,เป็นโครงสร้างข้อมูลพื้นฐาน,0,0,NULL,text,NULL,1
+926,238,single_choice,ข้อมูลในลักษณะที่เป็นชุดข้อมูลเชื่อมโยงต่อเนื่องกันได้,0,0,NULL,text,NULL,2
+927,238,single_choice,"เป็นโครงสร้างการเก็บข้อมูลแบบเรียงทับซ้อน ที่ใช้นโยบายการจัดการข้อมูลแบบเข้าก่อน ออกทีหลัง",0,0,NULL,text,NULL,3
+928,238,single_choice,"เป็นโครงสร้างการเก็บข้อมูลที่ใช้นโยบายการจัดการ ข้อมูลแบบเข้าก่อน ออกก่อน",1,0,NULL,text,NULL,4
+929,239,single_choice,เป็นโครงสร้างข้อมูลพื้นฐาน,0,0,NULL,text,NULL,1
+930,239,single_choice,ข้อมูลในลักษณะที่เป็นชุดข้อมูลเชื่อมโยงต่อเนื่องกันได้,0,0,NULL,text,NULL,2
+931,239,single_choice,"เป็นโครงสร้างการเก็บข้อมูลแบบเรียงทับซ้อน ที่ใช้นโยบายการจัดการข้อมูลแบบเข้าก่อน ออกทีหลัง",1,0,NULL,text,NULL,3
+932,239,single_choice,"เป็นโครงสร้างการเก็บข้อมูลที่ใช้นโยบายการจัดการ ข้อมูลแบบเข้าก่อน ออกก่อน",NULL,0,NULL,text,NULL,4
+933,240,single_choice,เป็นโครงสร้างข้อมูลพื้นฐาน,0,0,NULL,text,NULL,1
+934,240,single_choice,ข้อมูลในลักษณะที่เป็นชุดข้อมูลเชื่อมโยงต่อเนื่องกันได้,1,0,NULL,text,NULL,2
+935,240,single_choice,"เป็นโครงสร้างการเก็บข้อมูลแบบเรียงทับซ้อน ที่ใช้นโยบายการจัดการข้อมูลแบบเข้าก่อน ออกทีหลัง",NULL,0,NULL,text,NULL,3
+936,240,single_choice,"เป็นโครงสร้างการเก็บข้อมูลที่ใช้นโยบายการจัดการ ข้อมูลแบบเข้าก่อน ออกก่อน",NULL,0,NULL,text,NULL,4
+937,241,single_choice,เป็นโครงสร้างข้อมูลพื้นฐาน,1,0,NULL,text,NULL,1
+938,241,single_choice,ข้อมูลในลักษณะที่เป็นชุดข้อมูลเชื่อมโยงต่อเนื่องกันได้,0,0,NULL,text,NULL,2
+939,241,single_choice,"เป็นโครงสร้างการเก็บข้อมูลแบบเรียงทับซ้อน ที่ใช้นโยบายการจัดการข้อมูลแบบเข้าก่อน ออกทีหลัง",0,0,NULL,text,NULL,3
+940,241,single_choice,"เป็นโครงสร้างการเก็บข้อมูลที่ใช้นโยบายการจัดการ ข้อมูลแบบเข้าก่อน ออกก่อน",0,0,NULL,text,NULL,4
+941,242,single_choice,,0,8104,NULL,image,NULL,1
+942,242,single_choice,"1 มิติ",1,0,NULL,text,NULL,2
+943,242,single_choice,"2 มิติ",0,0,NULL,text,NULL,3
+944,242,single_choice,"3 มิติ",0,0,NULL,text,NULL,4
+945,242,single_choice,"4 มิติ",0,0,NULL,text,NULL,5
+946,243,single_choice,"คือเส้นทางที่คอมพิวเตอร์ใช้ในการติดต่อสื่อสารกับอุปกรณ์ต่าง ๆ เข้าด้วยกัน",1,0,NULL,text,NULL,1
+947,243,single_choice,คือที่ใช้เชื่อมต่อระหว่างซีพียูกับหน่วยความจำแคช,0,0,NULL,text,NULL,2
+948,243,single_choice,คือที่ใช้เชื่อมต่อระหว่างซีพียูกับหน่วยความจำหลัก,0,0,NULL,text,NULL,3
+949,243,single_choice,คือที่ใช้ในการเชื่อมต่ออุปกรณ์ไอโอเข้ากับระบบคอมพิวเตอร์,0,0,NULL,text,NULL,4
+950,244,single_choice,เป็นบัสที่ใช้เชื่อมต่อระหว่างซีพียูกับหน่วยความจำหลัก,0,0,NULL,text,NULL,1
+951,244,single_choice,เป็นบัสที่ใช้เชื่อมต่อระหว่างซีพียูกับหน่วยความจำแคช,1,0,NULL,text,NULL,2
+952,244,single_choice,เป็นบัสที่ใช้ในการเชื่อมต่ออุปกรณ์ไอโอเข้ากับระบบคอมพิวเตอร์,NULL,0,NULL,text,NULL,3
+953,244,single_choice,ไม่มีข้อใดถูก,NULL,0,NULL,text,NULL,4
+954,245,single_choice,"XT-BUS (Extended Technology)",0,0,NULL,text,NULL,1
+955,245,single_choice,"AT-BUS (Advance Technology)",0,0,NULL,text,NULL,2
+956,245,single_choice,"MCA BUS (Micro Channel Architecture Bus)",0,0,NULL,text,NULL,3
+957,245,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+958,246,single_choice,เพื่อบีบข้อมูลให้ได้มากขึ้น,0,0,NULL,text,NULL,1
+959,246,single_choice,ทำให้พื้นที่แทรคด้านนอกสุดมีจำนวนเซกเตอร์มากกว่าด้านใน,0,0,NULL,text,NULL,2
+960,246,single_choice,ทำให้มีการใช้เนื้อที่บนแพล็ตเตอร์ได้อย่างคุ้มค่า,0,0,NULL,text,NULL,3
+961,246,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+962,247,single_choice,แทรคเดียวกันของแต่ละแพล็ตเตอร์ที่อยู่ตรงกันในแต่ละแพล็ตเตอร์ของฮาร์ดดิสก์,0,0,NULL,text,NULL,1
+963,247,single_choice,"ส่วนย่อยของแทรค แต่ละเซกเตอร์จะมีขนาด 512 ไบต์ (Byte)",1,0,NULL,text,NULL,2
+964,247,single_choice,"มีลักษณะเป็นวงแหวนวางเรียงตัวซ้อนกันเป็นชั้น ๆ จากขอบนอกไปจนถึงจุดศูนย์กลางของแผ่น",0,0,NULL,text,NULL,3
+965,247,single_choice,ถูกทุกข้อ,NULL,0,NULL,text,NULL,4
+966,248,single_choice,เพาเวอร์คอนเนคเตอร์,0,0,NULL,text,NULL,1
+967,248,single_choice,สล็อตสำหรับเชื่อมต่ออุปกรณ์ภายนอก,0,0,NULL,text,NULL,2
+968,248,single_choice,แบตเตอรี่แบคอัพ,1,0,NULL,text,NULL,3
+969,248,single_choice,ไบออส,NULL,0,NULL,text,NULL,4
+970,249,single_choice,"1 แบบ",0,0,NULL,text,NULL,1
+971,249,single_choice,"2 แบบ",1,0,NULL,text,NULL,2
+972,249,single_choice,"3 แบบ",0,0,NULL,text,NULL,3
+973,249,single_choice,"4 แบบ",0,0,NULL,text,NULL,4
+974,250,single_choice,วิธีการพอลลิ่ง,0,0,NULL,text,NULL,1
+975,250,single_choice,วิธีการอินเตอร์รัพท์,0,0,NULL,text,NULL,2
+976,250,single_choice,วิธีการดีเอ็มเอ,0,0,NULL,text,NULL,3
+977,250,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+978,251,single_choice,เป็นบัสแบบสองทิศทางใช้ในการส่งถ่ายข้อมูลระหว่างซีพียูกับยังหน่วยความจำ,1,0,NULL,text,NULL,1
+979,251,single_choice,เป็นบัสที่ใช้สำหรับเป็นเส้นทางเดินของสัญญาณกำหนดเวลา,NULL,0,NULL,text,NULL,2
+980,251,single_choice,เป็นบัสแบบทิศทางเดียวเป็นสัญญาณที่สร้างจากซีพียูที่ใช้ในการระบุตำแหน่งของหน่วยความจำ,NULL,0,NULL,text,NULL,3
+981,251,single_choice,ถูกทุกข้อ,NULL,0,NULL,text,NULL,4
+982,252,single_choice,"3 วิธี",1,0,NULL,text,NULL,1
+983,252,single_choice,"4 วิธี",0,0,NULL,text,NULL,2
+984,252,single_choice,"5 วิธี",0,0,NULL,text,NULL,3
+985,252,single_choice,"6 วิธี",0,0,NULL,text,NULL,4
+987,254,single_choice,ไม่สนใจรายละเอียดที่ไม่จำเป็นในปัญหา,0,0,NULL,text,NULL,1
+988,254,single_choice,"แก้ไขปัญหาทั่วไป เพื่อให้สามารถแก้ไขได้ง่ายขึ้น",0,0,NULL,text,NULL,2
+989,254,single_choice,การแบ่งปัญหาหรือระบบที่ซับซ้อนออกเป็นปัญหาย่อยที่เล็กกว่าและจัดการได้มากกว่า,1,0,NULL,text,NULL,3
+990,254,single_choice,จัดลำดับความสำคัญของงานภายในปัญหาและกำหนดลำดับการปฏิบัติงาน,0,0,NULL,text,NULL,4
+991,255,single_choice,เริ่มต้นด้วยปัญหาที่มีขนาดเล็กลงและสร้างขึ้นเพื่อแก้ไขปัญหาเดิม,0,0,NULL,text,NULL,1
+992,255,single_choice,"แยกปัญหาออกเป็นปัญหาที่เล็กลงโดยคิดว่าจำเป็นต้องใช้ปัจจัยใดในการแก้ไขปัญหา และวิธีใช้อินพุตเหล่านั้นเพื่อทำงาน",1,0,NULL,text,NULL,2
+993,255,single_choice,แยกปัญหาออกเป็นงานย่อยที่ไม่ต่อเนื่องจำนวนหนึ่งโดยการหาขั้นตอนที่จำเป็นในการแก้ปัญหา,0,0,NULL,text,NULL,3
+994,255,single_choice,"ทดสอบตัวอย่างเล็ก ๆ น้อย ๆ เพื่อดูว่ามีลวดลายเกิดขึ้นหรือไม่",0,0,NULL,text,NULL,4
+995,255,single_choice,,NULL,0,NULL,text,NULL,5
+996,256,multiple_choice,"กำหนดรัศมีครอบคลุมของการขับเคลื่อนอาหารโดยการระบุ และจัดลำดับความสำคัญของความต้องการ และที่ที่ควรมีถังเก็บอาหารจากนั้นประสานงานกับธุรกิจในท้องถิ่นเพื่อจัดทำประเด็นเหล่านี้",1,0,NULL,text,NULL,1
+997,256,multiple_choice,"กำหนดรายละเอียดว่าจะจัดเก็บสินค้ากระป๋องอย่างไร และจะแจกจ่ายอย่างไร",NULL,0,NULL,text,NULL,2
+998,256,multiple_choice,"ระบุงานด้านลอจิสติกส์ เช่นการเลือกวันที่ และสถานที่เก็บถังขยะการเผยแพร่วันที่ และสถานที่ไดรฟ์การได้รับ และการตั้งค่าถังขยะคอลเลกชันการกำหนดช่องทางเผยแพร่ และแจกจ่ายเงินบริจาคไปยังสถานีเหล่านั้น",1,0,NULL,text,NULL,3
+999,256,multiple_choice,"พิจารณาว่าสถานที่ใดเป็นสถานที่ที่ดีที่สุดในการแจกจ่ายอาหารเมื่อพวกเขาต้องการอาหารมากที่สุด และอาหารประเภทใดที่ต้องการมากที่สุด",NULL,0,NULL,text,NULL,4
+1000,258,single_choice,True,1,0,NULL,text,NULL,1
+1001,258,single_choice,False,NULL,0,NULL,text,NULL,2
+1002,259,multiple_choice,"การรับรู้ว่ากระบวนการคลุมดินของดอกทานตะวัน นั้นเหมือนกับการคลุมดินดอกไม้มีสี",1,0,NULL,text,NULL,1
+1003,259,multiple_choice,"ยอมรับว่า ดัชชุน ดูแตกต่างจาก ดัลเมเชี่ยน เป็นอย่างมาก",NULL,0,NULL,text,NULL,2
+1004,259,multiple_choice,"การรับรู้ว่ากระบวนการของการกำหนดเวลาการประชุมในห้อง เหมือนกับกระบวนการจัดกำหนด การการประชุมกับที่ปรึกษา",1,0,NULL,text,NULL,3
+1005,259,multiple_choice,"การยอมรับว่า การต่อภาพเข้าด้วยกันของยุโรปนั้น เหมือนกับการต่อภาพเข้าด้วยกัน ของอเมริกาเหนือ",1,0,NULL,text,NULL,4
+1006,260,single_choice,"(a, 1) (a, 1) (b, 2) (b, 1) (c, 1) (a, 2) (a, 2)",0,0,NULL,text,NULL,1
+1007,260,single_choice,"(a, 2) (b, 3) (c, 1) (a, 2)",1,0,NULL,text,NULL,2
+1008,260,single_choice,"(a, 6) (b, 3) (c, 1)",0,0,NULL,text,NULL,3
+1009,260,single_choice,"(d, 2) (b, 3) (f, 1) (d, 4)",0,0,NULL,text,NULL,4
+1010,261,multiple_choice,การพิจารณาว่าต้องการข้อมูลใดบ้าง,1,0,NULL,text,NULL,1
+1011,261,multiple_choice,การแบ่งปัญหาออกเป็นปัญหาย่อยที่เล็กกว่า,NULL,0,NULL,text,NULL,2
+1012,261,multiple_choice,การสรุปข้อมูลที่ไม่สำคัญ,1,0,NULL,text,NULL,3
+1013,261,multiple_choice,ค้นหารูปแบบในข้อมูลนั้นๆ,NULL,0,NULL,text,NULL,4
+1014,262,single_choice,"ลักษณะของหัว, หู, ร่างกาย และขา ของสุนัขแต่ละตัวที่คุณอยู่ด้วย",0,0,NULL,text,NULL,1
+1015,262,single_choice,"ชื่อ และข้อมูลอาหาร สำหรับสุนัข, ข้อมูลการติดต่อสำหรับเจ้าของ, วันที่สุนัขได้รับการขึ้นทะเบียน, และข้อมูลการชำระเงินซื้อสินค้าสำหรับสุนัข",0,0,NULL,text,NULL,2
+1016,262,single_choice,"ชื่อ และข้อมูลอาหารสำหรับสุนัข และข้อมูลการติดต่อสำหรับสัตว์แพทย์",1,0,NULL,text,NULL,3
+1017,262,single_choice,"ชื่อ และข้อมูลอาหารสำหรับสุนัข, ข้อมูลการติดต่อสำหรับเจ้าของ, วันที่สุนัขได้รับการขึ้นทะเบียน และสภาพอากาศในช่วงวันที่เหล่านั้น",0,0,NULL,text,NULL,4
+1018,264,single_choice,"ชื่อ, ตารางฟุต และการมองเห็น",0,0,NULL,text,NULL,1
+1019,264,single_choice,"ชื่อ, ตารางฟุต และผังสวน",1,0,NULL,text,NULL,2
+1020,264,single_choice,"ชื่อ, ตารางฟุต",0,0,NULL,text,NULL,3
+1021,264,single_choice,วิดีโอสแควร์ของแต่ละดอกไม้,0,0,NULL,text,NULL,4
+1022,265,multiple_choice,"ข้อมูลที่ไม่จำเป็นทำให้ปัญหายุ่งยาก และเสียสมาธิ",1,0,NULL,text,NULL,1
+1023,265,multiple_choice,"คุณอาจต้องการข้อมูลที่ไม่จำเป็นในภายหลัง หากปัญหาเปลี่ยนไปเล็กน้อย",1,0,NULL,text,NULL,2
+1024,265,multiple_choice,ข้อมูลใช้พื้นที่ว่างด้วย,NULL,0,NULL,text,NULL,3
+1025,266,multiple_choice,"จะต้องทำอะไรบ้าง (คำสั่ง)",1,0,NULL,text,NULL,1
+1026,266,multiple_choice,เวลาที่ต้องทำการสั่งคำสั่ง,NULL,0,NULL,text,NULL,2
+1027,266,multiple_choice,ลำดับของคำแนะนำ,NULL,0,NULL,text,NULL,3
+1028,266,multiple_choice," คำอธิบายว่า คอมพิวเตอร์จะปฏิบัติตามคำสั่งแต่ละวิธีอย่างไร",1,0,NULL,text,NULL,4
+1029,267,single_choice,"เยี่ยมชมแต่ละช่องเก็บของในร้าน หากมีรายการอยู่ในรายการในทางเดินนั้น ให้วางไว้ในรถเข็นช็อปปิ้ง",0,0,NULL,text,NULL,1
+1030,267,single_choice,"สำหรับแต่ละรายการ ให้ไปที่ทางเดินที่อยู่ด้านใน และวางรายการนั้นลงในตะกร้าสินค้า",0,0,NULL,text,NULL,2
+1031,267,single_choice,"กำหนดช่องที่แต่ละรายการอยู่ จัดกลุ่มรายการตามรายการในช่องเก็บเดียวกัน",1,0,NULL,text,NULL,3
+1032,268,single_choice,A.,0,8129,NULL,text_image,NULL,1
+1033,268,single_choice,B.,0,8130,NULL,text_image,NULL,2
+1034,268,single_choice,C.,1,8131,NULL,text_image,NULL,3
+1035,268,single_choice,D.,0,8132,NULL,text_image,NULL,4
+1036,269,multiple_choice,"ผังงานไม่มีวงจรเลย นั่นคือคุณจะไม่สามารถทำตามคำสั่งเดิมได้สองครั้ง โดยคุณต้องทำตามขอบ “คำสั่งถัดไป”",NULL,0,NULL,text,NULL,1
+1037,269,multiple_choice,"สี่เหลี่ยมด้านขนานบ่งชี้ว่าเป็นคำสั่งชนิดพิเศษที่เรียกว่าคำสั่งอินพุต / เอาต์พุต",1,0,NULL,text,NULL,2
+1038,269,multiple_choice,สามารถมีขอบกำกับหนึ่งอันเท่านั้นที่ออกมาจากคำสั่ง,NULL,0,NULL,text,NULL,3
+1039,269,multiple_choice,"ถ้ามีขอบชี้นำจาก Instruction 1 ถึง Instruction 2, Instruction 2 จะต้องทำหลังจาก Instruction 1",1,0,NULL,text,NULL,4
+1040,270,multiple_choice,แนวคิดการย่อยปัญหา,1,0,NULL,text,NULL,1
+1041,270,multiple_choice,แนวคิดการจดจำรูปแบบ,1,0,NULL,text,NULL,2
+1042,270,multiple_choice,แนวคิดความคิดด้านนามธรรม,NULL,0,NULL,text,NULL,3
+1043,270,multiple_choice,แนวคิดการออกแบบอัลกอริทึม,NULL,0,NULL,text,NULL,4
+1044,271,image_answering,dbca,NULL,8136,NULL,0,NULL,1
+1045,272,image_answering,3,NULL,8137,NULL,0,NULL,1
+1046,273,ordering,เขียว,NULL,0,NULL,text,NULL,1
+1047,273,ordering,เขียว,NULL,0,NULL,text,NULL,2
+1048,273,ordering,แดง,NULL,0,NULL,text,NULL,3
+1049,273,ordering,เหลือง,NULL,0,NULL,text,NULL,4
+1050,274,image_answering,c,NULL,8138,NULL,0,NULL,1
+1051,275,single_choice,Google,0,0,NULL,text,NULL,1
+1052,275,single_choice,Yahoo,1,0,NULL,text,NULL,2
+1053,275,single_choice,"\\[ f_k \\]",0,0,NULL,text,NULL,3
+1054,277,true_false,True,1,NULL,true,NULL,NULL,0
+1055,277,true_false,False,0,NULL,false,NULL,NULL,0
+1056,278,multiple_choice,,NULL,0,NULL,text,NULL,1
+1057,280,true_false,True,1,NULL,true,NULL,NULL,0
+1058,280,true_false,False,0,NULL,false,NULL,NULL,0
+1059,281,true_false,True,1,NULL,true,NULL,NULL,0
+1060,281,true_false,False,0,NULL,false,NULL,NULL,0
+1062,282,multiple_choice,สูตรคณิตศาสตร์,NULL,9413,NULL,text,NULL,2
+1063,283,multiple_choice,ค่าเฉลี่ย,0,0,NULL,text,NULL,1
+1064,283,multiple_choice,มัธยฐาน,NULL,0,NULL,text,NULL,2
+1065,283,multiple_choice,ฐานนิยม,NULL,0,NULL,text,NULL,3
+1066,283,multiple_choice,ความแปรปรวน,1,0,NULL,text,NULL,4
+1067,284,multiple_choice,"ประชากร คือ เซตของค่าสังเกตทั้งหมดในการทดลอง",NULL,0,NULL,text,NULL,1
+1068,284,multiple_choice,"ประชากร คือ เซตของค่าสังเกตทั้งหมดในการสำรวจทางสถิติ",NULL,0,NULL,text,NULL,2
+1069,284,multiple_choice,อายุการใช้งานของรถยนต์ไม่จัดว่าเป็นประชากรเนื่องจากไม่ใช่มนุษย์,1,0,NULL,text,NULL,3
+1070,284,multiple_choice,"นักศึกษาคณะเทคโนโลยีอุตสาหกรรมที่เรียนวิชา MAT2703 ปีการศึกษา 2563 จัดว่าเป็นประชากรได้",NULL,0,NULL,text,NULL,4
+1071,285,multiple_choice,μ,NULL,0,NULL,text,NULL,1
+1072,285,multiple_choice,σ²,NULL,0,NULL,text,NULL,2
+1073,285,multiple_choice,p,NULL,0,NULL,text,NULL,3
+1074,285,multiple_choice,X̄,1,0,NULL,text,NULL,4
+1075,286,multiple_choice,"การสุ่มตัวอย่างแบบมีระบบ จะเริ่มจากการแบ่งประชากรออกเป็นพวกตามลักษณะประชากรก่อน แล้วใช้ตารางเลขสุ่มทำการสุ่มตัวอย่างจากแต่ละกลุ่มมากลุ่มละเท่า ๆ กัน",1,0,NULL,text,NULL,1
+1076,286,multiple_choice,ค่าสถิติก็จัดว่าเป็นตัวแปรสุ่ม,NULL,0,NULL,text,NULL,2
+1077,286,multiple_choice,"ค่าพารามิเตอร์ เป็นค่าที่บอกสภาพของประชากร",NULL,0,NULL,text,NULL,3
+1078,286,multiple_choice,"ค่าเฉลี่ย ค่าความแปรปรวน ที่คำนวณได้จากตัวอย่าง เรียกว่า สถิติ (statistic)",NULL,0,NULL,text,NULL,4
+1080,287,multiple_choice,,NULL,9555,NULL,image,NULL,1
+1081,287,multiple_choice,,NULL,9556,NULL,image,NULL,2
+1082,287,multiple_choice,,NULL,9557,NULL,image,NULL,3
+1083,287,multiple_choice,,NULL,9558,NULL,image,NULL,4
+1084,288,single_choice,"Hyper Text Markup Language",1,0,NULL,text,NULL,1
+1085,288,single_choice,"Hyper Text Markup Link",0,0,NULL,text,NULL,2
+1086,288,single_choice,"Hyper Task Markup Language",0,0,NULL,text,NULL,3
+1087,288,single_choice,"High Text Markup Language",0,0,NULL,text,NULL,4
+1088,289,single_choice,&lt;lb&gt;,0,0,NULL,text,NULL,1
+1089,289,single_choice,&lt;br&gt;,1,0,NULL,text,NULL,2
+1090,289,single_choice,&lt;nl&gt;,0,0,NULL,text,NULL,3
+1091,289,single_choice,&lt;break&gt;,0,0,NULL,text,NULL,4
+1092,290,single_choice,"&lt;body background-color=\"green\"&gt;",0,0,NULL,text,NULL,1
+1093,290,single_choice,&lt;body&gt;green&lt;/body&gt;,0,0,NULL,text,NULL,2
+1094,290,single_choice,"&lt;body style=\"background-color:green;\"&gt;",1,0,NULL,text,NULL,3
+1095,290,single_choice,"&lt;body style={{backgroundColor: \"green\"}}&gt;",NULL,0,NULL,text,NULL,4
+1096,291,single_choice,&lt;important&gt;,0,0,NULL,text,NULL,1
+1097,291,single_choice,&lt;b&gt;,0,0,NULL,text,NULL,2
+1098,291,single_choice,&lt;bold&gt;,0,0,NULL,text,NULL,3
+1099,291,single_choice,&lt;strong&gt;,1,0,NULL,text,NULL,4
+1100,292,single_choice,"&lt;a url=\"http://www.google.com\"&gt;Google&lt;/a&gt;",0,0,NULL,text,NULL,1
+1101,292,single_choice,"&lt;a href=\"http://www.google.com\"&gt;Google&lt;/a&gt;",1,0,NULL,text,NULL,2
+1102,292,single_choice,&lt;a&gt;http://www.google.com&lt;/a&gt;,NULL,0,NULL,text,NULL,3
+1103,292,single_choice,"&lt;a name=\"http://www.google.com\"&gt;Google&lt;/a&gt;",NULL,0,NULL,text,NULL,4
+1104,293,multiple_choice,0.0668,1,0,NULL,text,NULL,1
+1105,293,multiple_choice,0.0062,NULL,0,NULL,text,NULL,2
+1106,293,multiple_choice,0.9332,NULL,0,NULL,text,NULL,3
+1107,293,multiple_choice,0.9938,NULL,0,NULL,text,NULL,4
+1108,294,multiple_choice,2.7,NULL,0,NULL,text,NULL,1
+1109,294,multiple_choice,0.27,1,0,NULL,text,NULL,2
+1110,294,multiple_choice,68.5,NULL,0,NULL,text,NULL,3
+1111,294,multiple_choice,(2.7)^2,NULL,0,NULL,text,NULL,4
+1112,295,multiple_choice,"(x̄ - μ) / ( σ/n) มีการแจกแจงแบบ t ที่ระดับขั้นความเสรี = 15",1,0,NULL,text,NULL,1
+1113,295,multiple_choice,"(x̄ - μ) / ( σ/n) มีการแจกแจงแบบ t ที่ระดับขั้นความเสรี = 16",NULL,0,NULL,text,NULL,2
+1114,295,multiple_choice,"(x̄ - μ) / ( σ/n) มีการแจกแจงแบบ Z",NULL,0,NULL,text,NULL,3
+1115,295,multiple_choice,"(x̄ - μ) / ( σ/n) มีการแจกแจงแบบ Z ที่ค่าความแปรปรวน = 160000",NULL,0,NULL,text,NULL,4
+1116,296,single_choice,*,0,0,NULL,text,NULL,1
+1117,296,single_choice,/,1,0,NULL,text,NULL,2
+1118,296,single_choice,^,0,0,NULL,text,NULL,3
+1119,296,single_choice,<,0,0,NULL,text,NULL,4
+1120,297,single_choice,"&lt;img alt=\"description\"&gt;image.png&lt;/img>",0,0,NULL,text,NULL,1
+1121,297,single_choice,"&lt;image src=\"image.png\" alt=\"description\">",0,0,NULL,text,NULL,2
+1122,297,single_choice,"&lt;img href=\"image.png\" alt=\"description\">",0,0,NULL,text,NULL,3
+1123,297,single_choice,"&lt;img src=\"image.png\" alt=\"description\">",1,0,NULL,text,NULL,4
+1124,298,single_choice,"&lt;background img=\"image.png\">",0,0,NULL,text,NULL,1
+1125,298,single_choice,"&lt;body style=\"background-image:url(image.png)\">",1,0,NULL,text,NULL,2
+1126,298,single_choice,"&lt;body bg=\"image.png\">",NULL,0,NULL,text,NULL,3
+1127,298,single_choice,"&lt;body style={{backgroundImage: \"url(image.png)\"}}>",NULL,0,NULL,text,NULL,4
+1128,299,true_false,True,1,NULL,true,NULL,NULL,0
+1129,299,true_false,False,0,NULL,false,NULL,NULL,0
+1130,300,single_choice,title,0,0,NULL,text,NULL,1
+1131,300,single_choice,src,0,0,NULL,text,NULL,2
+1132,300,single_choice,alt,1,0,NULL,text,NULL,3
+1133,300,single_choice,description,0,0,NULL,text,NULL,4
+1134,301,single_choice,"HTML elements",0,0,NULL,text,NULL,1
+1135,301,single_choice,"Style attributes",0,0,NULL,text,NULL,2
+1136,301,single_choice,"Event attributes",1,0,NULL,text,NULL,3
+1137,301,single_choice,"Style components",NULL,0,NULL,text,NULL,4
+1138,303,single_choice,"Cascading Style Sheets",1,0,NULL,text,NULL,1
+1139,303,single_choice,"Custom Style Sheets",0,0,NULL,text,NULL,2
+1140,303,single_choice,"Computer Style Sheets",0,0,NULL,text,NULL,3
+1141,303,single_choice,"Creative Style Sheets",0,0,NULL,text,NULL,4
+1142,304,single_choice,"&lt;style src=\"style.css\">",0,0,NULL,text,NULL,1
+1143,304,single_choice,&lt;stylesheet>style.css&lt;/stylesheet>,0,0,NULL,text,NULL,2
+1144,304,single_choice,"&lt;link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">",1,0,NULL,text,NULL,3
+1145,304,single_choice,"&lt;body style=\"style.css\">",0,0,NULL,text,NULL,4
+1146,305,single_choice,"ใน &lt;body>",0,0,NULL,text,NULL,1
+1147,305,single_choice,"ใน &lt;head>",1,0,NULL,text,NULL,2
+1148,305,single_choice,"ใน &lt;document>",0,0,NULL,text,NULL,3
+1149,305,single_choice,ใส่ตรงไหนก็ได้โตแล้ว,0,0,NULL,text,NULL,4
+1150,306,single_choice,<css>,0,0,NULL,text,NULL,1
+1151,306,single_choice,&lt;script>,0,0,NULL,text,NULL,2
+1152,306,single_choice,&lt;head>,0,0,NULL,text,NULL,3
+1153,306,single_choice,&lt;style>,1,0,NULL,text,NULL,4
+1154,307,single_choice,class,0,0,NULL,text,NULL,2
+1155,307,single_choice,font,0,0,NULL,text,NULL,3
+1156,307,single_choice,style,1,0,NULL,text,NULL,1
+1157,307,single_choice,styles,0,0,NULL,text,NULL,4
+1158,308,multiple_choice,A_2,NULL,0,NULL,text,NULL,1
+1159,309,single_choice,body:color=orange;,0,0,NULL,text,NULL,1
+1160,309,single_choice,{body;color:orange;},0,0,NULL,text,NULL,2
+1161,309,single_choice,"body {color: orange;}",1,0,NULL,text,NULL,3
+1162,309,single_choice,{body:color=orange;},NULL,0,NULL,text,NULL,4
+1163,310,single_choice,"// this is a comment",0,0,NULL,text,NULL,1
+1164,310,single_choice,"/* this is a comment */  ",1,0,NULL,text,NULL,2
+1165,310,single_choice,"\'\'\' this is a coment \'\'\'",0,0,NULL,text,NULL,3
+1166,310,single_choice,"&lt;!-- this is a comment -->",0,0,NULL,text,NULL,4
+1167,311,single_choice,background-color,1,0,NULL,text,NULL,1
+1168,311,single_choice,bgcolor,0,0,NULL,text,NULL,2
+1169,311,single_choice,color,0,0,NULL,text,NULL,3
+1170,311,single_choice,backgroundColor,0,0,NULL,text,NULL,4
+1171,312,single_choice,"all.h1 {background-color:#FFFFFF;}  ",0,0,NULL,text,NULL,1
+1172,312,single_choice,"h1.all {background-color:#FFFFFF;}",0,0,NULL,text,NULL,2
+1173,312,single_choice,"h1 {background-color:#FFFFFF;}  ",1,0,NULL,text,NULL,3
+1174,312,single_choice,"h1.* {background-color:#FFFFFF;}  ",0,0,NULL,text,NULL,4
+1175,313,single_choice,"color ",1,0,NULL,text,NULL,1
+1176,313,single_choice,"text-color ",0,0,NULL,text,NULL,2
+1177,313,single_choice,t-color,0,0,NULL,text,NULL,3
+1178,313,single_choice,textColor,0,0,NULL,text,NULL,4
+1179,314,single_choice,*simple,0,0,NULL,text,NULL,1
+1180,314,single_choice,#simple,1,0,NULL,text,NULL,2
+1181,314,single_choice,.simple,NULL,0,NULL,text,NULL,3
+1182,314,single_choice,simple,NULL,0,NULL,text,NULL,4
+1183,315,single_choice,#demo,0,0,NULL,text,NULL,1
+1184,315,single_choice,*demo,0,0,NULL,text,NULL,2
+1185,315,single_choice,.demo,1,0,NULL,text,NULL,3
+1186,315,single_choice,demo,0,0,NULL,text,NULL,4
+1187,316,single_choice,div.p,0,0,NULL,text,NULL,1
+1188,316,single_choice,div+p,0,0,NULL,text,NULL,2
+1189,316,single_choice,"div p",1,0,NULL,text,NULL,3
+1190,316,single_choice,"div, p",NULL,0,NULL,text,NULL,4
+1191,276,single_choice,"\\[ 5^2 = 4^2 +3^2 \\] [latex] 5^2 = 4^2 +3^2[\\latex]",1,0,NULL,text,NULL,1
+1192,276,single_choice,$$5^3$$,NULL,0,NULL,text,NULL,2
+1193,276,single_choice,\\(6^2\\)),NULL,0,NULL,text,NULL,3
+1194,318,single_choice,&lt;javascript>,0,0,NULL,text,NULL,1
+1195,318,single_choice,&lt;script>,1,0,NULL,text,NULL,2
+1196,318,single_choice,&lt;js>,0,0,NULL,text,NULL,3
+1197,318,single_choice,&lt;java>,NULL,0,NULL,text,NULL,4
+1198,319,true_false,True,0,NULL,true,NULL,NULL,0
+1199,319,true_false,False,1,NULL,false,NULL,NULL,0
+1200,320,single_choice,"&lt;script js=\"codecamp.js\">",0,0,NULL,text,NULL,1
+1201,320,single_choice,"&lt;script javascript=\"codecamp.js\">",0,0,NULL,text,NULL,2
+1202,320,single_choice,"&lt;script src=\"codecamp.js\">",1,0,NULL,text,NULL,3
+1203,320,single_choice,"&lt;script file=\"codecamp.js\">",0,0,NULL,text,NULL,4
+1204,321,true_false,True,0,NULL,true,NULL,NULL,0
+1205,321,true_false,False,1,NULL,false,NULL,NULL,0
+1206,322,single_choice,"alert_box(\"Hello Codecamp\")",0,0,NULL,text,NULL,1
+1207,322,single_choice,"alertbox(\"Hello Codecamp\")",0,0,NULL,text,NULL,2
+1208,322,single_choice,"alertBox(\"Hello Codecamp\")",0,0,NULL,text,NULL,3
+1209,322,single_choice,"alert(\"Hello Codecamp\")",1,0,NULL,text,NULL,4
+1210,323,single_choice,"function codecamp()",1,0,NULL,text,NULL,1
+1211,323,single_choice,function:codecamp(),0,0,NULL,text,NULL,2
+1212,323,single_choice,"function = codecamp()",0,0,NULL,text,NULL,3
+1213,323,single_choice,"let codecamp() function",0,0,NULL,text,NULL,4
+1214,324,single_choice,"call codecamp",0,0,NULL,text,NULL,1
+1215,324,single_choice,"call codecamp()",0,0,NULL,text,NULL,2
+1216,324,single_choice,codecamp(),1,0,NULL,text,NULL,3
+1217,324,single_choice,codecamp,0,0,NULL,text,NULL,4
+1218,325,single_choice,"if ( a > 0 )",1,0,NULL,text,NULL,1
+1219,325,single_choice,"if a > 0",0,0,NULL,text,NULL,2
+1220,325,single_choice,"if a > 0 then",0,0,NULL,text,NULL,3
+1221,325,single_choice,"@if ( a > 0 )",0,0,NULL,text,NULL,4
+1222,326,multiple_choice,"ทรานแซกชัน (Transaction) คือ คุณสมบัติของระบบจัดการฐานข้อมูล ที่ทำให้สามารถโอนย้ายข้อมูลจากฐานข้อมูลหนึ่งไปยังอีกฐานข้อมูลหนึ่งได้อย่างง่ายดาย",NULL,0,NULL,text,NULL,1
+1223,326,multiple_choice,"สภาพพร้อมใช้งาน (Availability) คือ คุณสมบัติของทรานแซกชัน ที่ควรมีเพราะทำให้ทรานแซกชันสามารถใช้งานได้ตามต้องการ",NULL,0,NULL,text,NULL,2
+1224,326,multiple_choice,"ทรานแซกชัน (Transaction) ต้องมีคุณสมบัติของความเป็นอิสระ (Isolation) เพื่อทำให้หลาย ๆ ทรานแซกชันสามารถทำงานพร้อมกันได้ โดยไม่ส่งผลกระทบไปยังการทำงานของทรานแซกชันอื่น",1,0,NULL,text,NULL,3
+1225,326,multiple_choice,"ความเป็นหนึ่งเดียว (Atomicity) คือ คุณสมบัติของทรานแซกชัน ที่ทำให้ทรานแซกชันสามารถประมวลผลได้อย่างรวดเร็ว",NULL,0,NULL,text,NULL,4
+1226,327,multiple_choice,ปัญหาจากการทำงานซ้ำซ้อนกัน,1,0,NULL,text,NULL,1
+1227,327,multiple_choice,ปัญหาจากการสูญเสียการแก้ไขข้อมูล,NULL,0,NULL,text,NULL,2
+1228,327,multiple_choice,ปัญหาจากการย้อนกลับ,NULL,0,NULL,text,NULL,3
+1229,327,multiple_choice,ปัญหาจากความไม่สอดคล้องกันของข้อมูล,NULL,0,NULL,text,NULL,4
+1230,328,multiple_choice,"การสำรองแบบบริบูรณ์ (Full Backup) คือ การสำรองข้อมูลโดยการเก็บตัวสำรองข้อมูลเอาไว้หลาย ๆ ชุด  โดยแต่ละชุดแยกเก็บในสถานที่ต่าง ๆ กัน เพื่อความปลอดภัยของข้อมูล",NULL,0,NULL,text,NULL,1
+1231,328,multiple_choice,"การสำรองข้อมูลควรทำให้ครบทั้งสามแบบคือ การสำรองแบบบริบูรณ์ การสำรองเฉพาะส่วนที่แตกต่างกัน และการสำรองลงใน Log File",1,0,NULL,text,NULL,2
+1232,328,multiple_choice,"ในการสำรองข้อมูลของระบบ ๆ หนึ่ง สามารถทำการสำรองข้อมูลแบบ “การสำรองเฉพาะส่วนที่แตกต่างกัน (Differential Backup)” ควบคู่กันกับการสำรองข้อมูลแบบ Log File ก็เพียงพอ",NULL,0,NULL,text,NULL,3
+1233,328,multiple_choice,"การกู้คืนระบบ สามารถทำได้โดยไม่จำเป็นต้องมีการสำรองข้อมูล",NULL,0,NULL,text,NULL,4
+1234,329,multiple_choice,"คือ การที่ทรานแซกชันทำการล็อคข้อมูลเพื่อที่จะอ่านข้อมูลนั้น แล้วทำให้ทรานแซกชันอื่นไม่สามารถแก้ไขข้อมูลตัวนั้นได้",NULL,0,NULL,text,NULL,1
+1235,329,multiple_choice,"คือ การที่ทรานแซกชันทำการล็อคข้อมูลเพื่อที่จะเขียนข้อมูลนั้น แล้วทำให้ทรานแซกชันอื่นไม่สามารถเขียนข้อมูลตัวนั้นได้",NULL,0,NULL,text,NULL,2
+1236,329,multiple_choice,"คือ การที่ทรานแซกชันทำการล็อคข้อมูลเพื่อที่จะเขียนข้อมูลนั้น แล้วทำให้ทรานแซกชันอื่นไม่สามารถอ่านข้อมูลตัวนั้นได้",NULL,0,NULL,text,NULL,3
+1237,329,multiple_choice,"คือ การที่ทรานแซกชันตั้งแต่สองทรานแซกชันขึ้นไป ได้มีการล็อคข้อมูลที่อีกฝ่ายหนึ่งต้องการใช้ จนกระทั่งแต่ละฝ่ายต่างก็รอให้อีกฝ่ายหนึ่งปลดล็อคทรานแซคชันของตนก่อน จนกระทั่งเกิดวงจรลูปขึ้นมา",1,0,NULL,text,NULL,4
+1238,330,multiple_choice,"การล็อคตารางจะส่งผลให้ผู้ใช้งานคนอื่น ๆ ไม่สามารถอ่านเรคอร์ดจากตารางนั้นได้",1,0,NULL,text,NULL,1
+1239,330,multiple_choice,"ตอนเขียนโปรแกรมเมื่อต้องการใช้ข้อมูลในฐานข้อมูล ให้ทำการล็อคข้อมูลแบบเอ๊กซ์คลูซีฟเสมอ เพื่อความปลอดภัย",NULL,0,NULL,text,NULL,2
+1240,330,multiple_choice,"ตอนเขียนโปรแกรมเมื่อต้องการใช้ข้อมูลในฐานข้อมูล ให้ทำการล็อคข้อมูลแบบแชร์เสมอ เพื่อให้ผู้อื่นสามารถอ่านข้อมูลได้",NULL,0,NULL,text,NULL,3
+1241,330,multiple_choice,"การล็อคค้าง จะใช้เมื่อต้องการประมวลผลข้อมูลแบบแบตช์ จึงต้องล็อคข้อมูลที่ต้องใช้ซ้ำ ๆ ค้างเอาไว้เลยเพื่อจะได้ประมวลผลได้อย่างรวดเร็ว",NULL,0,NULL,text,NULL,4
+1242,326,multiple_choice,,NULL,0,NULL,text,NULL,5
+1243,327,single_choice,ปัญหาจากการทำงานซ้ำซ้อนกัน,NULL,0,NULL,text,NULL,1
+1244,327,single_choice,ปัญหาจากการสูญเสียการแก้ไขข้อมูล,NULL,0,NULL,text,NULL,2
+1245,327,single_choice,ปัญหาจากการย้อนกลับ,NULL,0,NULL,text,NULL,3
+1246,327,single_choice,ปัญหาจากความไม่สอดคล้องกันของข้อมูล,NULL,0,NULL,text,NULL,4
+1247,328,single_choice,"การสำรองแบบบริบูรณ์ (Full Backup) คือ การสำรองข้อมูลโดยการเก็บตัวสำรองข้อมูลเอาไว้หลาย ๆ ชุด โดยแต่ละชุดแยกเก็บในสถานที่ต่าง ๆ กัน เพื่อความปลอดภัยของข้อมูล",NULL,0,NULL,text,NULL,1
+1248,328,single_choice,"การสำรองข้อมูลควรทำให้ครบทั้งสามแบบคือ การสำรองแบบบริบูรณ์ การสำรองเฉพาะส่วนที่แตกต่างกัน และการสำรองลงใน Log File",NULL,0,NULL,text,NULL,2
+1249,331,single_choice,"if( c >= 3 )",1,0,NULL,text,NULL,1
+1250,331,single_choice,"if c >= 3 then",NULL,0,NULL,text,NULL,2
+1251,331,single_choice,"if( c=>3 )",NULL,0,NULL,text,NULL,3
+1252,331,single_choice,"if c=>3 then",NULL,0,NULL,text,NULL,4
+1253,332,single_choice,"while i = (1, 10)",0,0,NULL,text,NULL,1
+1254,332,single_choice,"while( i<=10 )",1,0,NULL,text,NULL,2
+1255,332,single_choice,"while (let i = 0; i <=10; i++)",NULL,0,NULL,text,NULL,3
+1256,332,single_choice,"while(i <= 10; i++)",NULL,0,NULL,text,NULL,4
+1257,333,single_choice,"for( i<=5 )",0,0,NULL,text,NULL,1
+1258,333,single_choice,"for (i = 0; i <= 5; i++)  ",1,0,NULL,text,NULL,2
+1259,333,single_choice,"for i = 1 to 5",0,0,NULL,text,NULL,3
+1260,333,single_choice,"for (i = 0; i <= 5)",0,0,NULL,text,NULL,4
+1261,334,single_choice,"\'\'\'this is comment\'\'\'",0,0,NULL,text,NULL,1
+1262,334,single_choice,"&lt;!--This is a comment-->",0,0,NULL,text,NULL,2
+1263,334,single_choice,"//This is a comment",1,0,NULL,text,NULL,3
+1264,334,single_choice,"!This is comment",0,0,NULL,text,NULL,4
+1265,335,single_choice,"&lt;!--This comment has more than one line-->",0,0,NULL,text,NULL,1
+1266,335,single_choice,"/*This comment has more than one line*/  ",1,0,NULL,text,NULL,2
+1267,335,single_choice,"//This comment has more than one line//",0,0,NULL,text,NULL,3
+1268,335,single_choice,"//*This comment has more than one line*//",0,0,NULL,text,NULL,4
+1269,336,single_choice,"let colors = (1:\"red\", 2:\"green\", 3:\"blue\")",0,0,NULL,text,NULL,1
+1270,336,single_choice,"let colors = [\"red\", \"green\", \"blue\"]  ",1,0,NULL,text,NULL,2
+1271,336,single_choice,"let colors = \"red\", \"green\", \"blue\"",0,0,NULL,text,NULL,3
+1272,336,single_choice,"let colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")",0,0,NULL,text,NULL,4
+1273,337,single_choice,round(6.54),0,0,NULL,text,NULL,1
+1274,337,single_choice,Math.rnd(6.54),0,0,NULL,text,NULL,2
+1275,337,single_choice,Math.round(6.54),1,0,NULL,text,NULL,3
+1276,337,single_choice,rnd(6.54),0,0,NULL,text,NULL,4
+1277,338,single_choice,"Math.ceil(a, b)",0,0,NULL,text,NULL,1
+1278,338,single_choice,"Math.max(a, b)",1,0,NULL,text,NULL,2
+1279,338,single_choice,"ceil(a, b)",0,0,NULL,text,NULL,3
+1280,338,single_choice,"top(a b)",0,0,NULL,text,NULL,4
+1281,339,true_false,True,0,NULL,true,NULL,NULL,0
+1282,339,true_false,False,1,NULL,false,NULL,NULL,0
+1283,340,single_choice,onmouseclick,0,0,NULL,text,NULL,1
+1284,340,single_choice,onmouseover,0,0,NULL,text,NULL,2
+1285,340,single_choice,onclick,1,0,NULL,text,NULL,3
+1286,340,single_choice,onchange,NULL,0,NULL,text,NULL,4
+1287,341,single_choice,NaN,0,0,NULL,text,NULL,1
+1288,341,single_choice,true,0,0,NULL,text,NULL,2
+1289,341,single_choice,false,1,0,NULL,text,NULL,3
+1290,341,single_choice,Error,0,0,NULL,text,NULL,4
+1291,342,true_false,True,1,NULL,true,NULL,NULL,0
+1292,342,true_false,False,0,NULL,false,NULL,NULL,0
+1293,343,true_false,True,1,NULL,true,NULL,NULL,0
+1294,343,true_false,False,0,NULL,false,NULL,NULL,0
+1295,344,single_choice,"Strong Question Language",0,0,NULL,text,NULL,1
+1296,344,single_choice,"Structured Question Language",0,0,NULL,text,NULL,2
+1297,344,single_choice,"Structured Query Language",1,0,NULL,text,NULL,3
+1298,344,single_choice,"Summary Query Languange",0,0,NULL,text,NULL,4
+1299,345,single_choice,OPEN,0,0,NULL,text,NULL,1
+1300,345,single_choice,SELECT,1,0,NULL,text,NULL,2
+1301,345,single_choice,GET,0,0,NULL,text,NULL,3
+1302,345,single_choice,EXTRACT,0,0,NULL,text,NULL,4
+1303,346,single_choice,UPDATE,1,0,NULL,text,NULL,1
+1304,346,single_choice,SAVE,0,0,NULL,text,NULL,2
+1305,346,single_choice,MODIFY,0,0,NULL,text,NULL,3
+1306,346,single_choice,"SAVE AS",0,0,NULL,text,NULL,4
+1307,347,single_choice,REMOVE,0,0,NULL,text,NULL,1
+1308,347,single_choice,COLLAPSE,0,0,NULL,text,NULL,2
+1309,347,single_choice,DEL,0,0,NULL,text,NULL,3
+1310,347,single_choice,DELETE,1,0,NULL,text,NULL,4
+1311,348,single_choice,"INSERT NEW",0,0,NULL,text,NULL,1
+1312,348,single_choice,"ADD NEW",0,0,NULL,text,NULL,2
+1313,348,single_choice,"INSERT INTO",1,0,NULL,text,NULL,3
+1314,348,single_choice,"ADD RECORD",0,0,NULL,text,NULL,4
+1315,349,single_choice,"SELECT Persons.first_name",0,0,NULL,text,NULL,1
+1316,349,single_choice,"EXTRACT first_name FROM Persons",0,0,NULL,text,NULL,2
+1317,349,single_choice,"SELECT first_name FROM Persons  ",1,0,NULL,text,NULL,3
+1318,349,single_choice,"READ first_name FROM Persons",NULL,0,NULL,text,NULL,4
+1319,350,single_choice,"SELECT *.Persons",0,0,NULL,text,NULL,1
+1320,350,single_choice,"SELECT Persons",0,0,NULL,text,NULL,2
+1321,350,single_choice,"SELECT [all] FROM Persons",0,0,NULL,text,NULL,3
+1322,350,single_choice,"SELECT * FROM Persons",1,0,NULL,text,NULL,4
+1323,351,single_choice,"SELECT * FROM Persons WHERE first_name=\\\'%a%\\\'",0,0,NULL,text,NULL,1
+1324,351,single_choice,"SELECT * FROM Persons WHERE first_name LIKE \'a%\'  ",1,0,NULL,text,NULL,2
+1325,351,single_choice,"SELECT * FROM Persons WHERE first_name LIKE \'%a\'",0,0,NULL,text,NULL,3
+1326,351,single_choice,"SELECT * FROM Persons WHERE first_name =\'a\'",NULL,0,NULL,text,NULL,4
+1327,352,single_choice,"SELECT first_name=\'Harry\', last_name=\'Potter\' FROM Persons",0,0,NULL,text,NULL,1
+1328,352,single_choice,"SELECT * FROM Persons WHERE first_name<>\'Harry\' AND last_name<>\'Potter\'",0,0,NULL,text,NULL,2
+1329,352,single_choice,"SELECT * FROM Persons WHERE first_name=\'Harry\' AND last_name=\'Potter\'",1,0,NULL,text,NULL,3
+1330,352,single_choice,"SELECT first_name is \'Harry\', last_name is \'Potter\' FROM Persons",NULL,0,NULL,text,NULL,4
+1331,353,single_choice,"SELECT age>20 AND age<30 FROM Persons",0,0,NULL,text,NULL,1
+1332,353,single_choice,"SELECT * FROM Persons WHERE age BETWEEN 20 AND 30",1,0,NULL,text,NULL,2
+1333,353,single_choice,"SELECT * FROM Persons WHERE age>20 AND age<30",NULL,0,NULL,text,NULL,3
+1334,353,single_choice,"SELECT age>20, age<30 FROM Persons",NULL,0,NULL,text,NULL,4
+1335,354,single_choice,"SELECT DIFFERENT",0,0,NULL,text,NULL,1
+1336,354,single_choice,"SELECT UNIQUE",0,0,NULL,text,NULL,2
+1337,354,single_choice,"SELECT DISTINCT",1,0,NULL,text,NULL,3
+1338,354,single_choice,"SELECT ONE",NULL,0,NULL,text,NULL,4
+1339,355,single_choice,"SORT BY",0,0,NULL,text,NULL,1
+1340,355,single_choice,SORT,0,0,NULL,text,NULL,2
+1341,355,single_choice,ORDER,0,0,NULL,text,NULL,3
+1342,355,single_choice,"ORDER BY",1,0,NULL,text,NULL,4
+1343,356,single_choice,"SELECT * FROM Persons ORDER BY first_name DESC",1,0,NULL,text,NULL,1
+1344,356,single_choice,"SELECT * FROM Persons ORDER first_name DESC",0,0,NULL,text,NULL,2
+1345,356,single_choice,"SELECT * FROM Persons SORT \'first_name\' DESC",0,0,NULL,text,NULL,3
+1346,356,single_choice,"SELECT * FROM Persons SORT BY \'first_name\' DESC",NULL,0,NULL,text,NULL,4
+1347,357,single_choice,"INSERT (\'Harry\', \'Potter\') INTO Persons",0,0,NULL,text,NULL,1
+1348,357,single_choice,"INSERT VALUES (\'Harry\', \'Potter\') INTO Persons",0,0,NULL,text,NULL,2
+1349,357,single_choice,"INSERT INTO Persons VALUES (\'Harry\', \'Potter\')  ",1,0,NULL,text,NULL,3
+1350,357,single_choice,"INSERT Persons VALUES (\'Harry\', \'Potter\')",NULL,0,NULL,text,NULL,4
+1351,358,single_choice,"INSERT (19) INTO Persons (Age)",0,0,NULL,text,NULL,1
+1352,358,single_choice,"INSERT INTO Persons (Age) VALUES (19)  ",1,0,NULL,text,NULL,2
+1353,358,single_choice,"INSERT INTO Persons (19) INTO Age",NULL,0,NULL,text,NULL,3
+1354,358,single_choice,"INSERT Persons (Age) VALUES (19)",NULL,0,NULL,text,NULL,4
+1355,359,single_choice,"UPDATE Persons SET first_name=\'Codecamp\' INTO id=245",0,0,NULL,text,NULL,1
+1356,359,single_choice,"UPDATE Persons SET first_name=\'Codecamp\' WHERE id=245",1,0,NULL,text,NULL,2
+1357,359,single_choice,"MODIFY Persons SET first_name=\'Codecamp\' INTO id=245",NULL,0,NULL,text,NULL,3
+1358,359,single_choice,"MODIFY Persons SET first_name=\'Codecamp\' WHERE id=245",NULL,0,NULL,text,NULL,4
+1359,360,single_choice,"DELETE ROW age>70 FROM Persons",0,0,NULL,text,NULL,1
+1360,360,single_choice,"DELETE age>70 FROM Persons",0,0,NULL,text,NULL,2
+1361,360,single_choice,"DELETE FROM Persons WHERE age > 70",1,0,NULL,text,NULL,3
+1362,360,single_choice,"DELETE Persons WHERE age > 70",NULL,0,NULL,text,NULL,4
+1363,361,single_choice,"SELECT NO(*) FROM Persons",0,0,NULL,text,NULL,1
+1364,361,single_choice,"SELECT LEN(*) FROM Persons",0,0,NULL,text,NULL,2
+1365,361,single_choice,"SELECT COLUMNS(*) FROM Persons",0,0,NULL,text,NULL,3
+1366,361,single_choice,"SELECT COUNT(*) FROM Persons  ",1,0,NULL,text,NULL,4
+1367,363,true_false,True,1,NULL,true,NULL,NULL,0
+1368,363,true_false,False,0,NULL,false,NULL,NULL,0
+1369,364,true_false,True,1,NULL,true,NULL,NULL,0
+1370,364,true_false,False,0,NULL,false,NULL,NULL,0
+1371,365,ordering,A,NULL,0,NULL,text,NULL,2
+1372,365,ordering,a,NULL,0,NULL,text,NULL,4
+1373,365,ordering,Z,NULL,0,NULL,text,NULL,3
+1374,365,ordering,z,NULL,0,NULL,text,NULL,5
+1375,365,ordering,1,NULL,0,NULL,text,NULL,1
+1376,366,single_choice,"== จะเช็คทั้ง Value และ Type แต่ === จะเช็คแค่ Type",0,0,NULL,text,NULL,1
+1377,366,single_choice,"== จะเช็ค Value แต่ === จะเช็คทั้ง Value และ Type",1,0,NULL,text,NULL,2
+1378,366,single_choice,"== จะเช็ค Type แต่ === จะเช็คทั้ง Value และ Type",0,0,NULL,text,NULL,3
+1379,366,single_choice,"== จะเช็คทั้ง Value และ Type แต่ === จะเช็คแค่ Value",0,0,NULL,text,NULL,4
+1380,367,true_false,True,1,NULL,true,NULL,NULL,0
+1381,367,true_false,False,0,NULL,false,NULL,NULL,0
+1382,368,single_choice,undefined,0,0,NULL,text,NULL,1
+1383,368,single_choice,"null ",0,0,NULL,text,NULL,2
+1384,368,single_choice,0,1,0,NULL,text,NULL,3
+1385,368,single_choice,false,0,0,NULL,text,NULL,4
+1386,369,true_false,True,0,NULL,true,NULL,NULL,0
+1387,369,true_false,False,1,NULL,false,NULL,NULL,0
+1388,370,true_false,True,1,NULL,true,NULL,NULL,0
+1389,370,true_false,False,0,NULL,false,NULL,NULL,0
+1390,371,single_choice,1,0,0,NULL,text,NULL,1
+1391,371,single_choice,0,1,0,NULL,text,NULL,2
+1392,371,single_choice,false,NULL,0,NULL,text,NULL,3
+1393,371,single_choice,true,NULL,0,NULL,text,NULL,4
+1394,372,single_choice,null,0,0,NULL,text,NULL,1
+1395,372,single_choice,undefined,0,0,NULL,text,NULL,2
+1396,372,single_choice,Error,1,0,NULL,text,NULL,3
+1397,372,single_choice,"Hello, I\'m Codecamp!\"",NULL,0,NULL,text,NULL,4
+1398,373,single_choice,John,1,0,NULL,text,NULL,1
+1399,373,single_choice,Bob,NULL,0,NULL,text,NULL,2
+1400,373,single_choice,Error,NULL,0,NULL,text,NULL,3
+1401,373,single_choice,undefined,NULL,0,NULL,text,NULL,4
+1402,374,single_choice,"\"Ann: null\"",0,0,NULL,text,NULL,1
+1403,374,single_choice,"\"Ann: undefined\"",0,0,NULL,text,NULL,2
+1404,374,single_choice,"\"Ann: no text given\"",1,0,NULL,text,NULL,3
+1405,374,single_choice,Error,0,0,NULL,text,NULL,4
+1406,375,single_choice,Error,0,0,NULL,text,NULL,1
+1407,375,single_choice,3,1,0,NULL,text,NULL,2
+1408,375,single_choice,null,0,0,NULL,text,NULL,3
+1409,375,single_choice,undefined,0,0,NULL,text,NULL,4
+1410,376,single_choice,"ไม่มีการ return ใด ๆ",0,0,NULL,text,NULL,1
+1411,376,single_choice,Error,0,0,NULL,text,NULL,2
+1412,376,single_choice,"return ค่าเป็น undefined",1,0,NULL,text,NULL,3
+1413,376,single_choice,"return ค่าเป็น null",NULL,0,NULL,text,NULL,4
+1414,379,single_choice,"แปลง Code เวอร์ชั่นใหม่ให้อยู่ในรูปเวอร์ชั่นเก่าทั้งหมด",1,0,NULL,text,NULL,1
+1415,379,single_choice,"แปลง Code เวอร์ชั่นเก่าให้อยู่ในรูปเวอร์ชั่นใหม่ทั้งหมด",0,0,NULL,text,NULL,2
+1416,379,single_choice,"ทำให้ Code สามารถประกาศตัวแปรเป็นภาษาไทยได้",0,0,NULL,text,NULL,3
+1417,379,single_choice,"ทำให้ Code มีความเสถียรมากขึ้น",NULL,0,NULL,text,NULL,4
+1418,381,fill_in_the_blank,"บรรทัดสุดท้ายจะออกมาเป็น [dash]",NULL,NULL,30,NULL,NULL,0
+1419,382,single_choice,John,1,0,NULL,text,NULL,1
+1420,382,single_choice,undefined,0,0,NULL,text,NULL,2
+1421,382,single_choice,null,0,0,NULL,text,NULL,3
+1422,382,single_choice,30,0,0,NULL,text,NULL,4
+1423,383,single_choice,"true true",0,0,NULL,text,NULL,1
+1424,383,single_choice,"true false",1,0,NULL,text,NULL,2
+1425,383,single_choice,"false true",0,0,NULL,text,NULL,3
+1426,383,single_choice,"false false",0,0,NULL,text,NULL,4
+1427,384,single_choice,Pete,1,0,NULL,text,NULL,1
+1428,384,single_choice,John,0,0,NULL,text,NULL,2
+1429,384,single_choice,null,0,0,NULL,text,NULL,3
+1430,384,single_choice,Error,0,0,NULL,text,NULL,4
+1431,385,single_choice,"{ canEdit: true }",0,0,NULL,text,NULL,1
+1432,385,single_choice,"{ canView: true, canEdit: true }",0,0,NULL,text,NULL,3
+1433,385,single_choice,"{ name: \"John\", canView: true, canEdit: true }",1,0,NULL,text,NULL,4
+1434,385,single_choice,"{ name: \"John\", canEdit: true }",0,0,NULL,text,NULL,2
+1435,386,single_choice,"{ name: \"Pete\", isAdmin: true }",1,0,NULL,text,NULL,1
+1436,386,single_choice,"{ name: \"John\", isAdmin: true }",0,0,NULL,text,NULL,2
+1437,386,single_choice,"{ name: \"John\" }",0,0,NULL,text,NULL,3
+1438,386,single_choice,"{ isAdmin: true }",NULL,0,NULL,text,NULL,4
+1439,387,single_choice,John,1,0,NULL,text,NULL,1
+1440,387,single_choice,undefined,0,0,NULL,text,NULL,2
+1441,387,single_choice,null,0,0,NULL,text,NULL,3
+1442,387,single_choice,30,0,0,NULL,text,NULL,4
+1443,388,single_choice,"John John",0,0,NULL,text,NULL,1
+1444,388,single_choice,"Admin Admin",0,0,NULL,text,NULL,2
+1445,388,single_choice,"John Admin",1,0,NULL,text,NULL,3
+1446,388,single_choice,"Admin John",NULL,0,NULL,text,NULL,4
+1447,389,single_choice,null,0,0,NULL,text,NULL,1
+1448,389,single_choice,undefined,0,0,NULL,text,NULL,2
+1449,389,single_choice,Jack,1,0,NULL,text,NULL,3
+1450,389,single_choice,Error,0,0,NULL,text,NULL,4
+1451,390,true_false,True,1,NULL,true,NULL,NULL,0
+1452,390,true_false,False,0,NULL,false,NULL,NULL,0
+1453,391,true_false,True,1,NULL,true,NULL,NULL,0
+1454,391,true_false,False,0,NULL,false,NULL,NULL,0
+1455,392,true_false,True,0,NULL,true,NULL,NULL,0
+1456,392,true_false,False,1,NULL,false,NULL,NULL,0
+1457,393,single_choice,"[ \"Apple\", \"Orange\" ]",1,0,NULL,text,NULL,1
+1458,393,single_choice,"[ \"Apple\", \"Orange\", \"Pear\" ]",0,0,NULL,text,NULL,2
+1459,393,single_choice,"[ \"Orange\", \"Pear\" ]",0,0,NULL,text,NULL,3
+1460,393,single_choice,"[ \"Orange\" ]",0,0,NULL,text,NULL,4
+1461,394,single_choice,"[\"Orange\", \"Pear\", \"Apple\"]",0,0,NULL,text,NULL,1
+1462,394,single_choice,"[\"Apple\", \"Orange\", \"Pear\"]",1,0,NULL,text,NULL,2
+1463,394,single_choice,"[\"Apple\", \"Pear\"]",0,0,NULL,text,NULL,3
+1464,394,single_choice,"[\"Orange\", \"Apple\"]",0,0,NULL,text,NULL,4
+1465,395,single_choice,"[\"Let\'s\", \"dance\", \"right\", \"now\"]",1,0,NULL,text,NULL,1
+1466,395,single_choice,"[\"Let\'s\", \"dance\", \"now\"]",NULL,0,NULL,text,NULL,2
+1467,395,single_choice,"[\"Let\'s\", \"dance\"]",NULL,0,NULL,text,NULL,3
+1468,395,single_choice,"[\"right\", \"now\"]",NULL,0,NULL,text,NULL,4
+1469,396,single_choice,"[\"I\", \"study\", \"complex\", \"language\", \"JavaScript\"]",1,0,NULL,text,NULL,4
+1470,396,single_choice,"[\"complex\", \"language\", \"JavaScript\"]",0,0,NULL,text,NULL,2
+1471,396,single_choice,"[\"I\", \"study\", \"JavaScript\"]",0,0,NULL,text,NULL,1
+1472,396,single_choice,"[\"complex\", \"language\", \"I\", \"study\", \"JavaScript\"]",0,0,NULL,text,NULL,3
+1473,397,single_choice,John,1,0,NULL,text,NULL,1
+1474,397,single_choice,Pete,0,0,NULL,text,NULL,2
+1475,397,single_choice,Mary,0,0,NULL,text,NULL,3
+1476,397,single_choice,undefined,0,0,NULL,text,NULL,4
+1477,398,single_choice,"{ id: 3, name: \"Mr. C\" }",1,0,NULL,text,NULL,2
+1478,398,single_choice,"{ id: 2, name: \"Mr. B\" }",0,0,NULL,text,NULL,3
+1479,398,single_choice,"{ id: 1, name: \"Mr. A\" }",0,0,NULL,text,NULL,4
+1480,398,single_choice,"{ id: 4, name: \"Mr. D\" }",0,0,NULL,text,NULL,1
+1481,380,single_choice,"\\(\\bar{x}\\) (ค่าเฉลี่ยของตัวอย่าง)",1,0,NULL,text,NULL,1
+1482,380,single_choice,"\\(\\widetilde{x}\\) (มัธยฐาน)",NULL,0,NULL,text,NULL,2
+1483,380,single_choice,ฐานนิยม,NULL,0,NULL,text,NULL,3
+1484,380,single_choice,σ²,NULL,0,NULL,text,NULL,4
+1485,399,single_choice,ต้องเป็นตัวประมาณค่าที่ไม่ลำเอียง,0,0,NULL,text,NULL,1
+1486,399,single_choice,ต้องเป็นตัวประมาณค่าที่มีประสิทธิภาพมากที่สุด,0,0,NULL,text,NULL,2
+1487,399,single_choice,"ต้องเป็นตัวประมาณค่าที่ไม่ลำเอียง และมีค่าแปรปรวนน้อยที่สุดเมื่อเทียบกับตัวสถิติตัวอื่น ๆ",1,0,NULL,text,NULL,3
+1488,399,single_choice,"ต้องเป็นตัวประมาณค่าที่ไม่ลำเอียง หรือเป็นตัวประมาณค่าที่มีประสิทธิภาพมากที่สุด อย่างน้อยอย่างใดหนึ่ง",NULL,0,NULL,text,NULL,4
+1489,400,single_choice,0.1,0,0,NULL,text,NULL,1
+1490,400,single_choice,0.01,0,0,NULL,text,NULL,2
+1491,400,single_choice,0.5,0,0,NULL,text,NULL,3
+1492,400,single_choice,0.05,1,0,NULL,text,NULL,4
+1493,401,single_choice,2.54,1,0,NULL,text,NULL,1
+1494,401,single_choice,1.96,0,0,NULL,text,NULL,2
+1495,401,single_choice,2.576,0,0,NULL,text,NULL,3
+1496,401,single_choice,2.447,0,0,NULL,text,NULL,4
+1497,402,single_choice,"9.74 < μ < 10.26",0,0,NULL,text,NULL,1
+1498,402,single_choice,"775.68 < μ < 794.31",0,0,NULL,text,NULL,2
+1499,402,single_choice,"9.604 < μ < 10.396",1,0,NULL,text,NULL,3
+1500,402,single_choice,"9.663 < μ < 10.337",0,0,NULL,text,NULL,4
+1501,404,single_choice,"Git ย่อมาจาก Grid View Tutorial",0,0,NULL,text,NULL,1
+1502,404,single_choice,"Git คือ Version Control แบบ Distributed ตัวหนึ่ง เป็นระบบที่ใช้จัดเก็บและควบคุมการเปลี่ยนแปลงที่เกิดขึ้นกับไฟล์ชนิดใดก็ได้",1,0,NULL,text,NULL,2
+1503,404,single_choice,"Git คือ ที่สำหรับฝาก code บนอินเตอร์เน็ต",0,0,NULL,text,NULL,3
+1504,404,single_choice,"Git ย่อมาจาก Give view technology",NULL,0,NULL,text,NULL,4
+1505,405,single_choice,"git commit -m “Your message”",0,0,NULL,text,NULL,1
+1506,405,single_choice,"git status",0,0,NULL,text,NULL,2
+1507,405,single_choice,"git log",0,0,NULL,text,NULL,3
+1508,405,single_choice,"git add .",1,0,NULL,text,NULL,4
+1509,406,single_choice,"git master",0,0,NULL,text,NULL,1
+1510,406,single_choice,"git config global",0,0,NULL,text,NULL,2
+1511,406,single_choice,"git reset HEAD",0,0,NULL,text,NULL,3
+1512,406,single_choice,"git branch",1,0,NULL,text,NULL,4
+1513,407,single_choice,"git log",0,0,NULL,text,NULL,1
+1514,407,single_choice,"git commit",0,0,NULL,text,NULL,2
+1515,407,single_choice,"git config",0,0,NULL,text,NULL,3
+1516,407,single_choice,"git reset HEAD *html",1,0,NULL,text,NULL,4
+1517,408,single_choice,"git checkout branch-name",1,0,NULL,text,NULL,1
+1518,408,single_choice,"git reset HEAD",0,0,NULL,text,NULL,2
+1519,408,single_choice,"git branch master",NULL,0,NULL,text,NULL,3
+1520,408,single_choice,"git log",NULL,0,NULL,text,NULL,4
+1521,409,single_choice,"git push -u origin master",0,0,NULL,text,NULL,1
+1522,409,single_choice,"git commit -m “your message”",0,0,NULL,text,NULL,2
+1523,409,single_choice,"git config global",0,0,NULL,text,NULL,3
+1524,409,single_choice,"git status",1,0,NULL,text,NULL,4
+1525,410,single_choice,"git log",0,0,NULL,text,NULL,1
+1526,410,single_choice,"git branch --delete  branch-name",1,0,NULL,text,NULL,2
+1527,410,single_choice,"git branch master branch-name",NULL,0,NULL,text,NULL,3
+1528,410,single_choice,"git push --delete origin",NULL,0,NULL,text,NULL,4
+1529,411,single_choice,"git clone https://github.com/NewGame0/Android_HelloWorld.git",1,0,NULL,text,NULL,1
+1530,411,single_choice,"git push https://github.com/NewGame0/Android_HelloWorld.git",NULL,0,NULL,text,NULL,2
+1531,411,single_choice,"git pull https://github.com/NewGame0/Android_HelloWorld.git",NULL,0,NULL,text,NULL,3
+1532,411,single_choice,"git copy",NULL,0,NULL,text,NULL,4
+1533,412,single_choice,Bitbucket,0,0,NULL,text,NULL,1
+1534,412,single_choice,GitHub,0,0,NULL,text,NULL,2
+1535,412,single_choice,GitLab,0,0,NULL,text,NULL,3
+1536,412,single_choice,ถูกทุกข้อ,1,0,NULL,text,NULL,4
+1537,413,single_choice,ใช้เชื่อมความสัมพันธ์ระหว่างตาราง,1,0,NULL,text,NULL,1
+1538,413,single_choice,"ทำให้ Attribute มีความ Reliable มากขึ้น",0,0,NULL,text,NULL,2
+1539,413,single_choice,"ลดความซับซ้อนของ Attribute",0,0,NULL,text,NULL,3
+1540,413,single_choice,ไม่ทำให้ผู้เขียนโปรแกรมสับสนกับการเขียนโปรแกรม,0,0,NULL,text,NULL,4
+1541,414,single_choice,"Attribute ที่มีหลายค่า",0,0,NULL,text,NULL,1
+1542,414,single_choice,"Attribute ที่สามารถแยกส่วนได้อีก",1,0,NULL,text,NULL,2
+1543,414,single_choice,"Attribute ของ Relationship",NULL,0,NULL,text,NULL,3
+1544,414,single_choice,"Attribute ของ Weak Entity",NULL,0,NULL,text,NULL,4
+1545,415,single_choice,"Attribute ที่มีหลายค่า",0,0,NULL,text,NULL,1
+1546,415,single_choice,"Attribute ที่สามารถแยกส่วนได้อีก",0,0,NULL,text,NULL,2
+1547,415,single_choice,"Attribute ของ Relationship",1,0,NULL,text,NULL,3
+1548,415,single_choice,"Attribute ของ Weak Entity",NULL,0,NULL,text,NULL,4
+1549,416,single_choice,"สร้างเป็นตารางใหม่ขึ้นมาโดยให้เป็น one to many กับตารางแม่ และนำไอดีของแม่มาใส่ในตารางใหม่",1,0,NULL,text,NULL,1
+1550,416,single_choice,"สร้างเป็นตารางใหม่ขึ้นมาโดยให้เป็น many to many กับตารางแม่ และนำไอดีของแม่มาใส่ในตารางใหม่",0,0,NULL,text,NULL,2
+1551,416,single_choice,"สร้างเป็นตารางใหม่ขึ้นมาโดยให้เป็น one to one กับตารางแม่ และนำไอดีของแม่มาใส่ในตารางใหม่",NULL,0,NULL,text,NULL,3
+1552,416,single_choice,"สร้างเป็นตารางใหม่ขึ้นมาโดยให้เป็น one to one กับตารางแม่ และนำไอดีของตารางใหม่มาใส่ในตารางแม่",NULL,0,NULL,text,NULL,4
+1553,417,single_choice,"one-to-one Relationship",0,0,NULL,text,NULL,1
+1554,417,single_choice,"one-to-many Relationship",0,0,NULL,text,NULL,2
+1555,417,single_choice,"many-to-one Relationship",0,0,NULL,text,NULL,3
+1556,417,single_choice,"many-to-many Relationship",1,0,NULL,text,NULL,4
+1557,418,single_choice,"จัดการ HTTP Request และ HTTP Response",1,0,NULL,text,NULL,1
+1558,418,single_choice,"ทำให้ HTML page Dynamic",0,0,NULL,text,NULL,2
+1559,418,single_choice,"เชื่อมต่อกับ Database",NULL,0,NULL,text,NULL,3
+1560,418,single_choice,"เป็น User Interface Framework",NULL,0,NULL,text,NULL,4
+1561,419,multiple_choice,"Build in Module",1,0,NULL,text,NULL,1
+1562,419,multiple_choice,"Custom Mudule",1,0,NULL,text,NULL,2
+1563,419,multiple_choice,"Third Party Module",1,0,NULL,text,NULL,3
+1564,419,multiple_choice,"Create Module",NULL,0,NULL,text,NULL,4
+1565,419,multiple_choice,"My Own Module",NULL,0,NULL,text,NULL,5
+1566,419,multiple_choice,"Could Module",NULL,0,NULL,text,NULL,6
+1567,420,single_choice,"JavaScript Object Notation",1,0,NULL,text,NULL,1
+1568,420,single_choice,"Java Object Notation",0,0,NULL,text,NULL,2
+1569,420,single_choice,"JavaScript Oriented Notation",0,0,NULL,text,NULL,3
+1570,420,single_choice," Java Oriented Notation",0,0,NULL,text,NULL,4
+1571,421,true_false,True,1,NULL,true,NULL,NULL,0
+1572,421,true_false,False,0,NULL,false,NULL,NULL,0
+1573,422,multiple_choice,GET,NULL,0,NULL,text,NULL,1
+1574,422,multiple_choice,POST,1,0,NULL,text,NULL,2
+1575,422,multiple_choice,PUT,1,0,NULL,text,NULL,3
+1576,422,multiple_choice,DELETE,NULL,0,NULL,text,NULL,4
+1577,423,single_choice,"เรียกใช้ express  และ สร้าง application express ตามลำดับ",1,0,NULL,text,NULL,1
+1578,423,single_choice,"สร้าง application express และ เรียกใช้ express ตามลำดับ",0,0,NULL,text,NULL,2
+1579,423,single_choice,ไม่จำเป็นต้องใส่ก็ได้,NULL,0,NULL,text,NULL,3
+1580,423,single_choice,"ถูกทั้งข้อ 1 และข้อ 2",NULL,0,NULL,text,NULL,4
+1583,424,single_choice,1,0,0,NULL,text,NULL,1
+1584,424,single_choice,2,0,0,NULL,text,NULL,2
+1585,424,single_choice,3,0,0,NULL,text,NULL,3
+1586,424,single_choice,12,1,0,NULL,text,NULL,4
+1587,425,single_choice,3,0,0,NULL,text,NULL,1
+1588,425,single_choice,12,0,0,NULL,text,NULL,2
+1589,425,single_choice,Error,1,0,NULL,text,NULL,3
+1590,425,single_choice,undefined,NULL,0,NULL,text,NULL,4
+1591,426,single_choice,3,1,0,NULL,text,NULL,1
+1592,426,single_choice,12,0,0,NULL,text,NULL,2
+1593,426,single_choice,Error,0,0,NULL,text,NULL,3
+1594,426,single_choice,undefined,0,0,NULL,text,NULL,4
+1595,427,matching,GET,NULL,0,ใช้สำหรับอ่านข้อมูล,text,NULL,1
+1596,427,matching,POST,NULL,0,ใช้สำหรับเพิ่มข้อมูล,text,NULL,2
+1597,427,matching,PUT,NULL,0,ใช้สำหรับอัพเดทข้อมูลทั้งหมด,text,NULL,3
+1598,427,matching,DELETE,NULL,0,ใช้สำหรับลบข้อมูล,text,NULL,4
+1599,427,matching,PATCH,NULL,0,ใช้สำหรับอัพเดทข้อมูลบางส่วน,text,NULL,5
+1600,428,single_choice,localhost:8000/add/2,1,0,NULL,text,NULL,1
+1601,428,single_choice,localhost:8000/add?variable=2,0,0,NULL,text,NULL,2
+1602,428,single_choice,"localhost:8000/add แต่ใส่ใน body",0,0,NULL,text,NULL,3
+1603,429,single_choice,req.params.variable,1,0,NULL,text,NULL,1
+1604,429,single_choice,req.body.variable,0,0,NULL,text,NULL,2
+1605,429,single_choice,req.query.variable,0,0,NULL,text,NULL,3
+1606,430,single_choice,localhost:8000/add?variable=2,1,0,NULL,text,NULL,1
+1607,430,single_choice,localhost:8000/add/2,0,0,NULL,text,NULL,2
+1608,430,single_choice,localhost:8000/add/variable=2,NULL,0,NULL,text,NULL,3
+1609,430,single_choice,"localhost:8000/add แต่ใส่ใน body",NULL,0,NULL,text,NULL,4
+1610,431,single_choice,"3 และ 26 ตามลำดับ",0,0,NULL,text,NULL,1
+1611,431,single_choice,"26 และ 3 ตามลำดับ",1,0,NULL,text,NULL,2
+1612,431,single_choice,"26 และ 26 ตามลำดับ",0,0,NULL,text,NULL,3
+1613,431,single_choice,"3 และ 3 ตามลำดับ",0,0,NULL,text,NULL,4
+1614,432,single_choice,"ทำให้เราจัดการข้อมูลใน Database ได้ง่ายขึ้น",1,0,NULL,text,NULL,1
+1615,432,single_choice,"ทำให้เราจัดการหน้า HTML ได้เร็วขึ้น",0,0,NULL,text,NULL,2
+1616,432,single_choice,ทำให้เราสามารถสร้างเว็บไซต์ที่เร็วขึ้น,0,0,NULL,text,NULL,3
+1617,432,single_choice,"ทำให้เว็บฝั่ง Frontend มีความน่าเชื่อถือมากขึ้น",NULL,0,NULL,text,NULL,4
+1618,433,matching,"sequelize-cli init:config",NULL,0,"สร้างไฟล์ Config",text,NULL,1
+1619,433,matching,"sequelize-cli init:models",NULL,0,"สร้าง Folder Model",text,NULL,2
+1620,433,matching,"sequelize-cli db:create ",NULL,0,"สร้าง Schema จาก MySQL",text,NULL,3
+1621,433,matching,"sequelize-cli db:drop",NULL,0,"ลบ Schema จาก MySQL",text,NULL,4
+1622,434,multiple_choice,belongsTo,1,0,NULL,text,NULL,1
+1623,434,multiple_choice,hasOne,1,0,NULL,text,NULL,2
+1624,434,multiple_choice,hasMany,NULL,0,NULL,text,NULL,3
+1625,434,multiple_choice,belongsToMany,NULL,0,NULL,text,NULL,4
+1626,435,multiple_choice,belongsTo,1,0,NULL,text,NULL,1
+1627,435,multiple_choice,hasOne,NULL,0,NULL,text,NULL,2
+1628,435,multiple_choice,hasMany,1,0,NULL,text,NULL,3
+1629,435,multiple_choice,belongsToMany,NULL,0,NULL,text,NULL,4
+1630,436,multiple_choice,belongsTo,NULL,0,NULL,text,NULL,1
+1631,436,multiple_choice,hasOne,NULL,0,NULL,text,NULL,2
+1632,436,multiple_choice,hasMany,NULL,0,NULL,text,NULL,3
+1633,436,multiple_choice,belongsToMany,1,0,NULL,text,NULL,4
+1634,438,single_choice,"Virtual Dom จะเร็วกว่า Dom ของจริง",1,0,NULL,text,NULL,1
+1635,438,single_choice,"Virtual Dom จะช้ากว่า Dom ของจริง",NULL,0,NULL,text,NULL,2
+1636,438,single_choice,"Virtual Dom จะใช้พื้นที่น้อยกว่า Dom ของจริง",NULL,0,NULL,text,NULL,3
+1637,438,single_choice,"Virtual Dom จะใช้พื้นที่มากกว่า Dom ของจริง",NULL,0,NULL,text,NULL,4
+1638,439,matching,"Stateless Component",NULL,0,"Component ที่ไม่มี State ",text,NULL,1
+1639,439,matching,"Stateful Component",NULL,0,"Component ที่มี State",text,NULL,2
+1640,440,multiple_choice,"Class Component",1,0,NULL,text,NULL,1
+1641,440,multiple_choice,"Function Component",1,0,NULL,text,NULL,2
+1642,440,multiple_choice,"Hook Component",NULL,0,NULL,text,NULL,3
+1643,440,multiple_choice,"Complete Component",NULL,0,NULL,text,NULL,4
+1644,441,ordering,constructor(props),NULL,0,NULL,text,NULL,1
+1645,441,ordering,"getDerivedStateFromProps(props, state)",NULL,0,NULL,text,NULL,2
+1646,441,ordering,render(),NULL,0,NULL,text,NULL,3
+1647,441,ordering,"Render Child Components",NULL,0,NULL,text,NULL,4
+1648,441,ordering,componentDidMount(),NULL,0,NULL,text,NULL,5
+1649,442,ordering,"getDerivedStateFromProps(props, state)",NULL,0,NULL,text,NULL,1
+1650,442,ordering,"shouldComponentUpdate(nextProps, nextState)",NULL,0,NULL,text,NULL,2
+1651,442,ordering,render(),NULL,0,NULL,text,NULL,3
+1652,442,ordering,"Update Child Components",NULL,0,NULL,text,NULL,4
+1653,442,ordering,"getSnapshotBeforeUpdate(prevProps, prevState)",NULL,0,NULL,text,NULL,5
+1654,442,ordering,componentDidUpdate(),NULL,0,NULL,text,NULL,6
+1655,443,true_false,True,1,NULL,true,NULL,NULL,0
+1656,443,true_false,False,0,NULL,false,NULL,NULL,0
+1657,444,multiple_choice,Header,1,0,NULL,text,NULL,1
+1658,444,multiple_choice,Payload,1,0,NULL,text,NULL,2
+1659,444,multiple_choice,Signature,1,0,NULL,text,NULL,3
+1660,444,multiple_choice,Body,NULL,0,NULL,text,NULL,4
+1661,445,single_choice,"ทำให้ Token ไม่ต้องเก็บใน Database",1,0,NULL,text,NULL,1
+1662,445,single_choice,"ทำให้ Token มีความ Consistancy",0,0,NULL,text,NULL,2
+1663,445,single_choice,"ทำให้ Token มีความปลอดภัยไม่สามารถถูกขโมยได้",NULL,0,NULL,text,NULL,3
+1664,445,single_choice,"ทำให้ Token เก็บรหัสผ่านได้อย่างปลอดภัย",NULL,0,NULL,text,NULL,4
+1665,446,single_choice,"ป้องกัน Rainbow Tables",1,0,NULL,text,NULL,1
+1666,446,single_choice,ป้องการขโมยรหัสผ่าน,0,0,NULL,text,NULL,2
+1667,446,single_choice,"ป้องกัน Man in middle attack",0,0,NULL,text,NULL,3
+1668,446,single_choice,"ป้องกัน XFS attack",NULL,0,NULL,text,NULL,4
+1669,447,true_false,True,0,NULL,true,NULL,NULL,0
+1670,447,true_false,False,1,NULL,false,NULL,NULL,0
+1671,448,single_choice,"เนื่องจากมี BCrypt มี Salt ใช้ในการ Hash",1,0,NULL,text,NULL,1
+1672,448,single_choice,"เนื่องจากมี BCrypt มี Secret key ใช้ในการ Hash",0,0,NULL,text,NULL,2
+1673,448,single_choice,"เนื่องจากมี BCrypt มี Payload ใช้ในการ Hash",NULL,0,NULL,text,NULL,3
+1674,448,single_choice,"เนื่องจากมี BCrypt มี Header ใช้ในการ Hash",NULL,0,NULL,text,NULL,4
+1675,449,single_choice,การออกแบบกรณีทดสอบเป็นขั้นตอนที่ต้องทำหลังจากที่เขียนโปรแกรมเสร็จแล้ว,0,0,NULL,text,NULL,1
+1676,449,single_choice,การออกแบบกรณีทดสอบสามารถทำได้ตั้งแต่ก่อนที่จะเริ่มต้นเขียนโปรแกรม,1,0,NULL,text,NULL,2
+1677,449,single_choice,"ในขั้นตอนของการออกแบบกรณีทดสอบ ต้องมีการระบุขั้นตอนการทดสอบโปรแกรม ข้อมูลเข้าสำหรับทำการทดสอบ ผลลัพธ์ที่คาดหวัง (expected result) และผลลัพธ์ที่แท้จริง (actual result) ให้ครบถ้วน",0,0,NULL,text,NULL,3
+1678,449,single_choice,"การทดสอบโปรแกรมควรทำโดยผู้ที่เขียนโปรแกรมเองจึงจะเหมาะสมที่สุด เพราะผู้ที่เขียนโปรแกรมเองเป็นผู้ที่รู้จักโปรแกรมที่ตนเขียนดีที่สุด",0,0,NULL,text,NULL,4
+1680,450,single_choice,"การทดสอบแบบโมดูลหรือระดับหน่วย (unit testing) สามารถทำควบคู่ไปกับการเขียนโปรแกรม และ debug โปรแกรมได้",0,0,NULL,text,NULL,2
+1681,450,single_choice,"การทดสอบระดับการรวมหน่วย (integration testing) สามารถทำได้ โดยไม่จำเป็นต้องรอให้ทำการทดสอบระดับหน่วยเสร็จก่อน",0,0,NULL,text,NULL,3
+1682,450,single_choice,"Alpha Testing คือ การทดสอบระบบโดยนักทดสอบซอฟต์แวร์ บนสภาพแวดล้อมจำลองที่ออกแบบมาให้ใกล้เคียงกับสภาพแวดล้อมการทำงานจริงมากที่สุด",1,0,NULL,text,NULL,4
+1683,450,single_choice,"การทดสอบระดับรวมหน่วยสามารถทำได้ โดยไม่จำเป็นต้องรอให้โมดูลย่อยทั้งหมดเขียนเสร็จก่อน",NULL,0,NULL,text,NULL,5
+1684,451,single_choice,การทดสอบโมดูลวิกฤตก่อน,0,0,NULL,text,NULL,1
+1685,451,single_choice,การทดสอบเชิงฟังก์ชัน,0,0,NULL,text,NULL,2
+1686,451,single_choice,การทดสอบแบบบิกแบง,0,0,NULL,text,NULL,3
+1687,451,single_choice,การทดสอบความมั่นคง,1,0,NULL,text,NULL,4
+1688,452,single_choice,"คือการทดสอบระบบใหม่ทั้งหมดอีกครั้งหลังจากที่ระบบมีการเปลี่ยนแปลงแก้ไข เพื่อทดสอบว่าระบบยังคงทำงานได้ถูกต้องเหมือนกับก่อนที่จะมีการเปลี่ยนแปลงหรือไม่",1,0,NULL,text,NULL,1
+1689,452,single_choice,"คือการทดสอบระบบทันทีหลังจากที่ส่งมอบให้ผู้ใช้ใช้งานแล้ว เพื่อให้แน่ใจว่าอีกครั้งว่า ระบบจะไม่มีข้อผิดพลาดที่หลุดรอดออกไป",0,0,NULL,text,NULL,2
+1690,452,single_choice,"เป็นการทดสอบซอฟต์แวร์ ที่มุ่งทดสอบเฉพาะโมดูลที่มีการเปลี่ยนแปลงแก้ไขเท่านั้น",0,0,NULL,text,NULL,3
+1691,452,single_choice,"คือการทดสอบระบบบนสภาพแวดล้อมการทำงานจริง และทดสอบโดยผู้ใช้ระบบ",NULL,0,NULL,text,NULL,4
+1692,453,single_choice,"คือ การทดสอบโดยใช้กรณีทดสอบที่เอามาจากข้อมูลจริงที่เคยเกิดขึ้นในอดีต",0,0,NULL,text,NULL,1
+1693,453,single_choice,"คือ เทคนิคหนึ่งของการทดสอบแบบกล่องขาว",0,0,NULL,text,NULL,2
+1694,453,single_choice,"คือ เทคนิคหนึ่งของการทดสอบแบบกล่องดำ",0,0,NULL,text,NULL,3
+1695,453,single_choice,"คือ การทดสอบระบบในสถานการณ์ที่เกิดขึ้นจริง โดยผู้ใช้ระบบเป็นผู้ทดสอบเอง",1,0,NULL,text,NULL,4
+1696,454,single_choice,ทดสอบนำเข้าข้อมูลมากเกินไป,0,0,NULL,text,NULL,1
+1697,454,single_choice,ทดสอบสร้างรายการข้อมูลจำนวนมาก,0,0,NULL,text,NULL,2
+1698,454,single_choice,ทดสอบว่าถ้าฮาร์ดดิสก์พังจะสามารถกู้คืนได้ภายในเวลากี่วินาที,1,0,NULL,text,NULL,3
+1699,454,single_choice,ทดสอบจองพื้นที่ในหน่วยความจำมากที่สุด,0,0,NULL,text,NULL,4
+1700,455,single_choice,"ส่วนต่อประสาน (interface)",0,0,NULL,text,NULL,1
+1701,455,single_choice,"โครงสร้างข้อมูลเฉพาะที่ (local data structure",0,0,NULL,text,NULL,2
+1702,455,single_choice,"เงื่อนไขขอบเขต (boundary condition)",1,0,NULL,text,NULL,3
+1703,455,single_choice,"เส้นทางอิสระ (independent path)",NULL,0,NULL,text,NULL,4
+1704,456,single_choice,"การทดสอบแบบกล่องแก้ว (glass box testing)",0,0,NULL,text,NULL,1
+1705,456,single_choice,"การทดสอบเชิงโครงสร้าง (structural testing)",0,0,NULL,text,NULL,2
+1706,456,single_choice,"การทดสอบที่คำนึงถึงคำสั่ง (statement) ของโปรแกรมเป็นหลัก",0,0,NULL,text,NULL,3
+1707,456,single_choice,กรณีทดสอบจะถูกนำมาจากข้อกำหนดความต้องการของผู้ใช้เป็นหลัก,1,0,NULL,text,NULL,4
+1708,457,single_choice,การทดสอบโมดูลที่มีความสำคัญมากที่สุดก่อน,1,0,NULL,text,NULL,1
+1709,457,single_choice,การทดสอบโมดูลที่มีแนวโน้มว่าจะผิดมากที่สุดก่อน,0,0,NULL,text,NULL,2
+1710,457,single_choice,"การทดสอบโมดูลที่ล่อแหลมต่อการถูกโจมตีโดย hacker ก่อน",NULL,0,NULL,text,NULL,3
+1711,457,single_choice,การทดสอบโมดูลที่ต้องใช้เวลาในการทดสอบนานที่สุดก่อน,NULL,0,NULL,text,NULL,4
+1712,458,single_choice,การทดสอบแอลฟา,0,0,NULL,text,NULL,1
+1713,458,single_choice,การทดสอบเบตา,0,0,NULL,text,NULL,2
+1714,458,single_choice,การทดสอบเอกสาร,0,0,NULL,text,NULL,3
+1715,458,single_choice,การทดสอบซิกม่า,1,0,NULL,text,NULL,4
+1721,461,multiple_choice,"< a url=\"http://www.google.com\">Google< /a >",NULL,0,NULL,text,NULL,1
+1724,461,multiple_choice,"< a href=\"http://www.google.com\">Google< /a >",1,0,NULL,text,NULL,2
+1725,461,multiple_choice,"< a >http://www.google.com< /a >",NULL,0,NULL,text,NULL,3
+1726,461,multiple_choice," < a name=\"http://www.google.com\">Google< /a >",NULL,0,NULL,text,NULL,4
+1727,462,single_choice,"HTML elements",0,0,NULL,text,NULL,1
+1728,462,single_choice,"Style attributes",0,0,NULL,text,NULL,2
+1729,462,single_choice,"Event attributes",1,0,NULL,text,NULL,3
+1730,462,single_choice,"Style components",NULL,0,NULL,text,NULL,4
+1731,461,single_choice,"< a url=\"http://www.google.com\">Google< /a >",NULL,0,NULL,text,NULL,1
+1732,461,single_choice,"< a href=\"http://www.google.com\">Google< /a >",NULL,0,NULL,text,NULL,2
+1733,464,single_choice,color,1,0,NULL,text,NULL,1
+1734,464,single_choice,text-color,NULL,0,NULL,text,NULL,2
+1735,464,single_choice,t-color,NULL,0,NULL,text,NULL,3
+1736,464,single_choice,textColor,NULL,0,NULL,text,NULL,4
+1737,465,single_choice,"// this is a comment",0,0,NULL,text,NULL,1
+1738,465,single_choice,"/* this is a comment */",1,0,NULL,text,NULL,2
+1739,465,single_choice,"\'\'\' this is a coment \'\'\'",NULL,0,NULL,text,NULL,3
+1741,466,single_choice,*simple,0,0,NULL,text,NULL,1
+1742,466,single_choice,#simple,1,0,NULL,text,NULL,2
+1743,466,single_choice,.simple,NULL,0,NULL,text,NULL,3
+1744,466,single_choice,simple,NULL,0,NULL,text,NULL,4
+1745,467,single_choice,body:color=orange;,0,0,NULL,text,NULL,1
+1746,467,single_choice,{body;color:orange;},0,0,NULL,text,NULL,2
+1747,467,single_choice,"body {color: orange;}",1,0,NULL,text,NULL,3
+1749,467,single_choice,{body:color=orange;},0,0,NULL,text,NULL,4
+1750,468,single_choice,"HTML elements",0,0,NULL,text,NULL,1
+1751,468,single_choice,"Style attributes",0,0,NULL,text,NULL,2
+1752,468,single_choice,"Event attributes",1,0,NULL,text,NULL,3
+1753,468,single_choice,"Style components",NULL,0,NULL,text,NULL,4
+1754,469,single_choice,"\'\'\'this is comment\'\'\'",0,0,NULL,text,NULL,1
+1755,469,single_choice,"<!--This is a comment-->",0,0,NULL,text,NULL,2
+1756,469,single_choice,"//This is a comment",1,0,NULL,text,NULL,3
+1757,469,single_choice,"!This is comment",0,0,NULL,text,NULL,4
+1758,470,single_choice,round(6.54),0,0,NULL,text,NULL,1
+1759,470,single_choice,Math.rnd(6.54),0,0,NULL,text,NULL,2
+1760,470,single_choice,Math.round(6.54),1,0,NULL,text,NULL,3
+1761,470,single_choice,rnd(6.54),0,0,NULL,text,NULL,4
+1762,471,single_choice,"== จะเช็คทั้ง Value และ Type แต่ === จะเช็คแค่ Type",0,0,NULL,text,NULL,1
+1763,471,single_choice,"== จะเช็ค Value แต่ === จะเช็คทั้ง Value และ Type",1,0,NULL,text,NULL,2
+1764,471,single_choice,"== จะเช็ค Type แต่ === จะเช็คทั้ง Value และ Type",NULL,0,NULL,text,NULL,3
+1765,471,single_choice,"== จะเช็คทั้ง Value และ Type แต่ === จะเช็คแค่ Value",NULL,0,NULL,text,NULL,4
+1766,472,single_choice,div.p,0,0,NULL,text,NULL,1
+1767,472,single_choice,div+p,0,0,NULL,text,NULL,2
+1768,472,single_choice,"div p",1,0,NULL,text,NULL,3
+1769,472,single_choice,"div, p",NULL,0,NULL,text,NULL,4
+1770,473,single_choice,"< img alt=\"description\">image.png< /img >",0,0,NULL,text,NULL,1
+1771,473,single_choice,"< image src=\"image.png\" alt=\"description\" >",0,0,NULL,text,NULL,2
+1772,473,single_choice,"< img href=\"image.png\" alt=\"description\" >",0,0,NULL,text,NULL,3
+1773,473,single_choice,"< img src=\"image.png\" alt=\"description\" >",1,0,NULL,text,NULL,4
+1774,474,single_choice,style,1,0,NULL,text,NULL,1
+1775,474,single_choice,class,NULL,0,NULL,text,NULL,2
+1776,474,single_choice,font,NULL,0,NULL,text,NULL,3
+1777,474,single_choice,styles,NULL,0,NULL,text,NULL,4
+1778,475,single_choice,#demo,0,0,NULL,text,NULL,1
+1779,475,single_choice,*demo,0,0,NULL,text,NULL,2
+1780,475,single_choice,.demo,1,0,NULL,text,NULL,3
+1781,475,single_choice,demo,NULL,0,NULL,text,NULL,4
+1782,476,single_choice,"git commit -m “Your message”",0,0,NULL,text,NULL,1
+1783,476,single_choice,"git status",0,0,NULL,text,NULL,2
+1784,476,single_choice,"git log",0,0,NULL,text,NULL,3
+1785,476,single_choice,"git add .",1,0,NULL,text,NULL,4
+1786,477,single_choice,"git master",0,0,NULL,text,NULL,1
+1787,477,single_choice,"git config global",0,0,NULL,text,NULL,2
+1788,477,single_choice,"git reset HEAD",0,0,NULL,text,NULL,3
+1789,477,single_choice,"git branch",1,0,NULL,text,NULL,4
+1790,478,single_choice,"git clone https://github.com/NewGame0/Android_HelloWorld.git",1,0,NULL,text,NULL,1
+1791,478,single_choice,"git push https://github.com/NewGame0/Android_HelloWorld.git",NULL,0,NULL,text,NULL,2
+1792,478,single_choice,"git pull https://github.com/NewGame0/Android_HelloWorld.git",NULL,0,NULL,text,NULL,3
+1793,478,single_choice,"git copy",NULL,0,NULL,text,NULL,4
+1794,479,single_choice,"git push -u origin master",0,0,NULL,text,NULL,1
+1795,479,single_choice,"git commit -m “your message”",0,0,NULL,text,NULL,2
+1796,479,single_choice,"git config global",0,0,NULL,text,NULL,3
+1797,479,single_choice,"git status",1,0,NULL,text,NULL,4
+1798,480,single_choice,"git log",0,0,NULL,text,NULL,1
+1799,480,single_choice,"git branch --delete branch-name",1,0,NULL,text,NULL,2
+1800,480,single_choice,"git branch master branch-name",NULL,0,NULL,text,NULL,3
+1801,480,single_choice,"git push --delete origin",NULL,0,NULL,text,NULL,4
+1802,481,single_choice,"git log",0,0,NULL,text,NULL,1
+1803,481,single_choice,"git commit",0,0,NULL,text,NULL,2
+1804,481,single_choice,"git config",0,0,NULL,text,NULL,3
+1805,481,single_choice,"git reset HEAD *html",1,0,NULL,text,NULL,4
+1806,482,single_choice,"git checkout branch-name",1,0,NULL,text,NULL,1
+1807,482,single_choice,"git reset HEAD",NULL,0,NULL,text,NULL,2
+1808,482,single_choice,"git branch master",NULL,0,NULL,text,NULL,3
+1809,482,single_choice,"git log",NULL,0,NULL,text,NULL,4
+1810,484,single_choice,"Brand Guideline -> Style Guide -> Moodboard -> Inspiration ",0,0,NULL,text,NULL,1
+1811,484,single_choice,"Inspiration -> Moodboard  -> Brand Guideline -> Style Guide",0,0,NULL,text,NULL,2
+1812,484,single_choice,"Brand Guideline -> Inspiration -> Moodboard -> Style Guide",0,0,NULL,text,NULL,3
+1813,484,single_choice,"Inspiration  -> Moodboard  -> Style Guide -> Brand Guideline ",1,0,NULL,text,NULL,4
+1814,485,single_choice,"คืออะไรก็ได้ที่ผู้ใช้โต้ตอบกับการใช้ผลิตภัณฑ์หรือบริการดิจิทัล ",1,0,NULL,text,NULL,1
+1815,485,single_choice,"ประสบการณ์ที่ผู้ใชงานได้รับจาก ผลิตภัฑ์ของเรา",NULL,0,NULL,text,NULL,2
+1816,485,single_choice,ความรุ้สึกของผู้ใช้งาน,NULL,0,NULL,text,NULL,3
+1817,485,single_choice,ความเข้าใจของผู้ใช้งานที่มีต่อเว็บเรา,NULL,0,NULL,text,NULL,4
+1818,486,single_choice,"ประสบการณ์ของผู้ใช้งาน ต่อการใช้งานของผู้ใช้งาน (Usability) และการเข้าถึง (Accessibility)",1,0,NULL,text,NULL,1
+1819,486,single_choice,คืออะไรก็ได้ที่ผู้ใช้โต้ตอบกับการใช้ผลิตภัณฑ์หรือบริการดิจิทัล,NULL,0,NULL,text,NULL,2
+1820,486,single_choice,ความรุ้สึกของผู้ใช้งาน,NULL,0,NULL,text,NULL,3
+1821,486,single_choice,ความเข้าใจของผู้ใช้งานที่มีต่อเว็บเรา,NULL,0,NULL,text,NULL,4
+1822,487,single_choice,สร้างขึ้นเพื่อเป็นตัวแทนของกลุ่มผู้ใช้ระบบของเรา,1,0,NULL,text,NULL,1
+1823,487,single_choice,สร้างขึ้นเพื่อบอกว่าใครจะมาออกแบบระบบให้เรา,NULL,0,NULL,text,NULL,2
+1824,487,single_choice,สร้างขึ้นเพื่อหลีกเลี่ยงบุคคุลนั้นไม่ให้มาใช้ระบบเรา,NULL,0,NULL,text,NULL,3
+1825,487,single_choice,สร้างขึ้นเพราะหัวหน้าสั่งให้สร้าง,NULL,0,NULL,text,NULL,4
+1826,488,single_choice,แผนที่นำไปหาลูกค้า,0,0,NULL,text,NULL,1
+1827,488,single_choice,เส้นทางที่นำลูกค้ามาหาเรา,0,0,NULL,text,NULL,2
+1828,488,single_choice,ขั้นตอนที่ลูกค้าต้องผ่านอะไรมาบ้างจนถึงมาเจอเรา,0,0,NULL,text,NULL,3
+1829,488,single_choice,"“ขั้นตอน” ที่ถูกนำออกมาแสดงผลเป็นแบบรูปภาพเพื่อบอกว่าเราได้ลูกค้ามาอย่างไร",1,0,NULL,text,NULL,4
+1832,489,single_choice,"< javascript >",NULL,0,NULL,text,NULL,1
+1833,489,single_choice,<script>,NULL,0,NULL,image,NULL,2
+1834,489,single_choice,"< script >",NULL,0,NULL,text,NULL,3
+1835,491,single_choice," < javascript >",0,0,NULL,text,NULL,1
+1836,491,single_choice,"< script >",1,0,NULL,text,NULL,2
+1837,491,single_choice,"< js >",NULL,0,NULL,text,NULL,3
+1838,491,single_choice,"< jscript>",NULL,0,NULL,text,NULL,4
+1839,492,single_choice,"< script js=\"codecamp.js\" >",0,0,NULL,text,NULL,1
+1840,492,single_choice,"< script javascript=\"codecamp.js\" >",0,0,NULL,text,NULL,2
+1841,492,single_choice,"< script src=\"codecamp.js\" >",1,0,NULL,text,NULL,3
+1842,492,single_choice,"< script file=\"codecamp.js\" >",NULL,0,NULL,text,NULL,4
+1843,493,single_choice,"alert_box(\"Hello Codecamp\")",0,0,NULL,text,NULL,1
+1844,493,single_choice,"alertbox(\"Hello Codecamp\")",0,0,NULL,text,NULL,2
+1845,493,single_choice,"alertBox(\"Hello Codecamp\")",0,0,NULL,text,NULL,3
+1846,493,single_choice,"alert(\"Hello Codecamp\")",1,0,NULL,text,NULL,4
+1847,494,single_choice,"function codecamp()",1,0,NULL,text,NULL,1
+1848,494,single_choice,function:codecamp(),0,0,NULL,text,NULL,2
+1849,494,single_choice,"function = codecamp()",NULL,0,NULL,text,NULL,3
+1850,494,single_choice,"let codecamp() function",NULL,0,NULL,text,NULL,4
+1851,495,single_choice,"for( i<=5 )",0,0,NULL,text,NULL,1
+1852,495,single_choice,"for (i = 0; i <= 5; i++)",1,0,NULL,text,NULL,2
+1853,495,single_choice,"for i = 1 to 5",NULL,0,NULL,text,NULL,3
+1854,495,single_choice,"for (i = 0; i <= 5)",NULL,0,NULL,text,NULL,4
+1855,496,single_choice,"let colors = (1:\"red\", 2:\"green\", 3:\"blue\")",0,0,NULL,text,NULL,1
+1856,496,single_choice,"let colors = [\"red\", \"green\", \"blue\"]",1,0,NULL,text,NULL,2
+1857,496,single_choice,"let colors = \"red\", \"green\", \"blue\"",NULL,0,NULL,text,NULL,3
+1858,496,single_choice,"let colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")",NULL,0,NULL,text,NULL,4
+1859,497,true_false,True,1,NULL,true,NULL,NULL,0
+1860,497,true_false,False,0,NULL,false,NULL,NULL,0
+1861,498,single_choice,onmouseclick,0,0,NULL,text,NULL,1
+1862,498,single_choice,onmouseover,0,0,NULL,text,NULL,2
+1863,498,single_choice,onclick,1,0,NULL,text,NULL,3
+1864,499,single_choice,"ไม่มีการ return ใด ๆ",0,0,NULL,text,NULL,1
+1865,499,single_choice,Error,0,0,NULL,text,NULL,2
+1866,499,single_choice,"return ค่าเป็น undefined",1,0,NULL,text,NULL,3
+1867,499,single_choice,"return ค่าเป็น null",NULL,0,NULL,text,NULL,4
+1868,500,single_choice,"(n)={ return n*2}",0,0,NULL,text,NULL,1
+1869,500,single_choice,"{n}=>( n*2)",0,0,NULL,text,NULL,2
+1870,500,single_choice,"n => n*2",1,0,NULL,text,NULL,3
+1871,500,single_choice,"(n)=> return n*2",0,0,NULL,text,NULL,4
+1872,501,true_false,True,1,NULL,true,NULL,NULL,0
+1873,501,true_false,False,0,NULL,false,NULL,NULL,0
+1874,502,multiple_choice,"VOLUME,VELOCITY,VARIETY",1,0,NULL,text,NULL,1
+1875,502,multiple_choice,"VOLUME,VOOP,VARIETY",NULL,0,NULL,text,NULL,2
+1876,502,multiple_choice,"VOOP,VARIETY,VELOCITY",NULL,0,NULL,text,NULL,3
+1877,503,multiple_choice,"ส่งผ่านข้อมูลกันอย่างต่อเนื่อง (Real-time)",1,0,NULL,text,NULL,1
+1878,503,multiple_choice,"ยังไม่ผ่านการ Process ให้อยู่ในรูปแบบของข้อมูลที่สามารถใช้สร้างประโยชน์ต่อองค์กร",NULL,0,NULL,text,NULL,2
+1879,503,multiple_choice,รูปแบบของข้อมูลที่แตกต่างกันออกไป,NULL,0,NULL,text,NULL,3
